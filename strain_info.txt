@@ -1,0 +1,10 @@
+	Brevibacterium linens	Brachybacterium alimentarium	Staphylococcus equorum
+Bayley Hazen Blue	JB5	JB7	BC9
+Majorero, Spain, Natural Rind	341_13	341_9	341_10
+Olga, Maine, Washed	738_8	738_10	738_7
+Pawlet, Vermont, Washed	862_7	862_8	862_5
+Pardu Ardi Gasna, France, Washed	876_7	876_9	876_5
+Ekiola Ardi Gasna, Natural, France	900_6	900_8	900_4
+Tomette Brebis Basquaise Azkorria, France, Natural	908_7	908_11	908_10
+Tekenik_Tomme, Natural, Massachusetts	947_7	947_11	947_12
+Elk Mountain, Oregon, Natural	962_8	962_10	962_6
