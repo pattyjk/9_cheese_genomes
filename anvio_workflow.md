@@ -17,7 +17,26 @@ done
 mkdir contigs_db
 cd fixed_fasta
 
-for i in *.fna
+for i in *
 do
-    anvi-gen-contigs-database -f $i -o /home/pattyjk/Desktop/pantoea_ncbi/contigs_db/$i.db -n pantoea
+    anvi-gen-contigs-database -f $i -o /home/pattyjk/Desktop/cheese_genomes/anvio_work/$i.db -n pantoea
 done
+
+#generate COGs
+cd ..
+cd contigs_db
+
+#make a contigis database if not already done (anvi-setup-ncbi-cogs --num-threads 6)
+for i in *.db
+do
+anvi-run-ncbi-cogs -c $i --num-threads 8
+done
+
+#run HMMs for single copy genes
+for i in *.db
+do
+anvi-run-hmms -c $i -T 8
+done
+
+cd ..
+```
