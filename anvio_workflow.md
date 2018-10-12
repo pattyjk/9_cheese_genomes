@@ -75,7 +75,7 @@ anvi-gen-genomes-storage -e anvi_gen.txt -o cheese-GENOMES.db
 anvi-pan-genome -g cheese-GENOMES.db -n cheese --enforce-hierarchical-clustering --min-occurrence 2
 
 #view analysis
-anvi-display-pan -g pantoea-GENOMES.db -p pantoea/pantoea-PAN.db
+anvi-display-pan -g cheese-GENOMES.db -p cheese/cheese-PAN.db
 ```
 
 ## Phylogenomics on RNA proteins
