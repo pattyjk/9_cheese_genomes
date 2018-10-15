@@ -83,4 +83,4 @@ anvi-display-pan -g cheese-GENOMES.db -p cheese/cheese-PAN.db
 #generate genome tree
 anvi-get-sequences-for-hmm-hits --external-genomes anvi_gen.txt -o concatenated-proteins.fa --hmm-source Campbell_et_al --gene-names Ribosomal_L1,Ribosomal_L2,Ribosomal_L3,Ribosomal_L4,Ribosomal_L5,Ribosomal_L6 --return-best-hit --get-aa-sequence --concatenate
 
-anvi-gen-phylogenomic-tree -f concatenated-proteins.fa -o pantoea_tree.tree
+anvi-gen-phylogenomic-tree -f concatenated-proteins.fa -o cheese_tree.tree
