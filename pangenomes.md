@@ -42,3 +42,14 @@ find -type f -name "*.gff" -exec cp {} /home/pattyjk/Desktop/cheese_genomes/gff_
 ```
 /home/pattyjk/anaconda3/pkgs/roary-3.7.0-0/bin/roary *.gff -o roary_out
 ```
+
+## Extract gene names
+```
+for i in *.gff
+do
+grep -f ~/Dropbox/R/cheese_genomes/all_genes.txt $i > genes_$i
+done
+
+mkdir genes
+mv genes_* genes
+```
