@@ -45,11 +45,26 @@ find -type f -name "*.gff" -exec cp {} /home/pattyjk/Desktop/cheese_genomes/gff_
 
 ## Extract gene names
 ```
-for i in *.gff
-do
-grep -f ~/Dropbox/R/cheese_genomes/all_genes.txt $i > genes_$i
-done
+for ID in cat $HOME/Dropbox/R/cheese_genomes/unique_gene_list.txt; do grep $ID com_341.fna.gff; done > genes_341.txt
+
+for ID in cat $HOME/Dropbox/R/cheese_genomes/unique_gene_list.txt; do grep $ID com_862.fna.gff; done > genes_862.txt
+
+for ID in cat $HOME/Dropbox/R/cheese_genomes/unique_gene_list.txt; do grep $ID com_900.fna.gff; done > genes_900.txt
+
+for ID in cat $HOME/Dropbox/R/cheese_genomes/unique_gene_list.txt; do grep $ID com_947.fna.gff; done > genes_947.txt
+
+for ID in cat $HOME/Dropbox/R/cheese_genomes/unique_gene_list.txt; do grep $ID com_JB.fna.gff; done > genes_jb.txt
+
+for ID in cat $HOME/Dropbox/R/cheese_genomes/unique_gene_list.txt; do grep $ID com_738.fna.gff; done > genes_738.txt
+
+for ID in cat $HOME/Dropbox/R/cheese_genomes/unique_gene_list.txt; do grep $ID com_876.fna.gff; done > genes_876.txt
+
+for ID in cat $HOME/Dropbox/R/cheese_genomes/unique_gene_list.txt; do grep $ID com_908.fna.gff; done > genes_908.txt
+
+for ID in cat $HOME/Dropbox/R/cheese_genomes/unique_gene_list.txt; do grep $ID com_962.fna.gff; done > genes_962.txt
 
 mkdir genes
 mv genes_* genes
+cd genes
+cat genes_* > all_genes.txt
 ```
