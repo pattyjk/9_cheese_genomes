@@ -68,3 +68,12 @@ mv genes_* genes
 cd genes
 cat genes_* > all_genes.txt
 ```
+
+## Get gene games
+```
+#get database (all bact/arch) from NCBI ftp
+ftp://ftp.ncbi.nih.gov/gene/DATA/GENE_INFO/Archaea_Bacteria/
+
+#extract all names
+for ID in cat /home/pattyjk/Dropbox/R/cheese_genomes/all_genes.txt; do grep $ID /home/pattyjk/Desktop/All_Archaea_Bacteria.gene_info; done > Desktop/gene_info.txt 
+```
