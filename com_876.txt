@@ -1,0 +1,74 @@
+gene	genome	locus_tag	ftype	bp	EC.x	COG	KO	product
+bcgIA	SEQ_876_5	IGOCDMGC_02727	CDS	2553	3.1.21.-		K03427	Restriction enzyme BgcI subunit alpha
+bchM	Brachy_341_9.fa	HAJKDPKL_02771	CDS	624	2.1.1.11	COG2227	K03428	Magnesium-protoporphyrin O-methyltransferase
+btuD	Brachy_341_9.fa	HAJKDPKL_01780	CDS	711	3.6.3.33		K06074	Vitamin B12 import ATP-binding protein BtuD
+cbbY	Brevi_876_7.fa	IHGJPHMH_02672	CDS	630	3.1.3.-	COG0637	K11846	Protein CbbY
+clcA	Brevi_876_7.fa	IHGJPHMH_00416	CDS	870	1.13.11.-		K03381	Chlorocatechol 1,2-dioxygenase
+cseC	Brachy_876_9.fa	AGBMBALL_00310	CDS	1233	2.7.13.3	COG0642	K05970	Sensor protein CseC
+dgoK1	Brevi_341_13.fa	AGEJDLBK_03442	CDS	780	2.7.1.58	COG3734	K00883	putative 2-dehydro-3-deoxygalactonokinase DgoK1
+dpkA	Brevi_876_7.fa	IHGJPHMH_03761	CDS	1011	1.5.1.21	COG2055	K13609	Delta(1)-pyrroline-2-carboxylate/Delta(1)-piperideine-2-carboxylate reductase
+dpp5	Brachy_900_8.fa	LJFCBDKD_01464	CDS	2091	3.4.14.-	COG1506	K08656	Dipeptidyl-peptidase 5
+ettA	Brachy_947_11.fa	DNNBHHGK_03146	CDS	1668		COG0488	K14486	Energy-dependent translational throttle protein EttA
+exsH	Brevi_876_7.fa	IHGJPHMH_03482	CDS	921	3.2.1.-		K16559	Endo-1,3-1,4-beta-glycanase ExsH
+ftsH3	Brevi_876_7.fa	IHGJPHMH_00419	CDS	1602	3.4.24.-		K08956	ATP-dependent zinc metalloprotease FtsH 3
+gatY	Brachy_876_9.fa	AGBMBALL_00375	CDS	915	4.1.2.40	COG0191	K08302	D-tagatose-1,6-bisphosphate aldolase subunit GatY
+hhaIM	Brachy_738_10.fa	JOIMIODL_02720	CDS	1119	2.1.1.37		K00558	Modification methylase HhaI
+hutI	Brachy_862_8.fa	FOMIDEFL_01062	CDS	1365	3.5.2.7	COG1228	K01468	Imidazolonepropionase
+mftF	Brevi_876_7.fa	IHGJPHMH_03476	CDS	1962	2.-.-.-	COG0463	K20886	Putative mycofactocin biosynthesis glycosyltransferase MftF
+npt	Brevi_962_8.fa	AGDBFNGI_02627	CDS	792	2.7.8.7		K06133	4'-phosphopantetheinyl transferase Npt
+pdxI	Brevi_876_7.fa	IHGJPHMH_00604	CDS	1227	1.1.1.65		K05275	Pyridoxine 4-dehydrogenase
+sipW	Brevi_962_8.fa	AGDBFNGI_02084	CDS	645	3.4.21.89	COG0681	K13280	Signal peptidase I W
+soj	Brevi_962_8.fa	AGDBFNGI_00724	CDS	897	3.6.-.-	COG1192	K03496 	Sporulation initiation inhibitor protein Soj
+tagU	SEQ_947_12	IFGBOHMA_02255	CDS	939	2.7.8.-	COG1316	K00968	Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+tuaD	Brevi_876_7.fa	IHGJPHMH_02493	CDS	1305	1.1.1.22	COG1004	K00012 	UDP-glucose 6-dehydrogenase TuaD
+virD4	Brevi_876_7.fa	IHGJPHMH_03553	CDS	1695			K03205	Protein VirD4
+ybjJ	Brachy_341_9.fa	HAJKDPKL_02764	CDS	1200			K20362	Inner membrane protein YbjJ
+yceI	Brevi_876_7.fa	IHGJPHMH_03294	CDS	546		COG2353	K08162	Protein YceI
+yfmC	SEQ_908_10	MOFHFCGN_00337	CDS	1011		COG4594	K02016	Fe(3+)-citrate-binding protein YfmC
+ygeA	Brevi_900_6.fa	LDOPIMGM_03513	CDS	744	5.-.-.-	COG1794	K01779	Putative racemase YgeA
+yhjE	Brachy_908_11.fa	DPNJBGPE_03288	CDS	1302			K03762	Inner membrane metabolite transport protein YhjE
+ykfB	Brevi_876_7.fa	IHGJPHMH_00417	CDS	1104	5.1.1.20	COG4948	K19802	L-Ala-D/L-Glu epimerase
+ywqE	SEQ_962_6	PIPEENFB_00726	CDS	765	3.1.3.48	COG4464	K01104	Tyrosine-protein phosphatase YwqE
+pbpA	Brachy_738_10.fa	JOIMIODL_02624	CDS	1446		COG0768	K21465	Penicillin-binding protein A
+pbpA	Brachy_738_10.fa	JOIMIODL_02624	CDS	1446		COG0768	K21465	Penicillin-binding protein A
+epsM	SEQ_876_5	IGOCDMGC_00551	CDS	615	2.3.1.-	COG0110	K19429	Putative acetyltransferase EpsM
+mepM	Brevi_JB5.fa	ADMANBBD_00939	CDS	1170	3.4.24.-	COG0739	K19304	Murein DD-endopeptidase MepM
+mepM	Brevi_JB5.fa	ADMANBBD_00939	CDS	1170	3.4.24.-	COG0739	K19304	Murein DD-endopeptidase MepM
+ampH	Brevi_862_7.fa	GGCDANDK_00715	CDS	1170	3.4.-.-	COG1680	K18988	D-alanyl-D-alanine-carboxypeptidase/endopeptidase AmpH
+ampH	Brevi_862_7.fa	GGCDANDK_00715	CDS	1170	3.4.-.-	COG1680	K18988	D-alanyl-D-alanine-carboxypeptidase/endopeptidase AmpH
+pezA	SEQ_876_5	IGOCDMGC_00386	CDS	240		COG1396	K18830	Antitoxin PezA
+pezA	SEQ_876_5	IGOCDMGC_00386	CDS	240		COG1396	K18830	Antitoxin PezA
+cdhR	Brevi_738_8.fa	MCCDGJGB_01961	CDS	957		COG4977	K17736	HTH-type transcriptional regulator CdhR
+dmlR	Brevi_900_6.fa	LDOPIMGM_01139	CDS	918			K16135	HTH-type transcriptional regulator DmlR
+tycC	Brevi_876_7.fa	IHGJPHMH_02500	CDS	1014			K16124	Tyrocidine synthase 3
+tycC	Brevi_876_7.fa	IHGJPHMH_02500	CDS	1014			K16124	Tyrocidine synthase 3
+irtB	Brachy_908_11.fa	DPNJBGPE_02023	CDS	1746	3.6.3.-	COG1132	K14699	Iron import ATP-binding/permease protein IrtB
+irtB	Brachy_908_11.fa	DPNJBGPE_02023	CDS	1746	3.6.3.-	COG1132	K14699	Iron import ATP-binding/permease protein IrtB
+pfbA	SEQ_738_7	BGMKIKPO_01587	CDS	1059		COG5434	K13925	Plasmin and fibronectin-binding protein A
+pbpA	Brachy_738_10.fa	JOIMIODL_02624	CDS	1446		COG0768	K12552	Penicillin-binding protein A
+pbpA	Brachy_738_10.fa	JOIMIODL_02624	CDS	1446		COG0768	K12552	Penicillin-binding protein A
+pbpA	Brachy_738_10.fa	JOIMIODL_02624	CDS	1446		COG0768	K12552	Penicillin-binding protein A
+fosB	SEQ_738_7	BGMKIKPO_03120	CDS	222	2.5.1.-		K11210	Metallothiol transferase FosB
+entS	Brevi_947_7.fa	IOFEINNK_01822	CDS	1290		COG0477	K08225	Enterobactin exporter EntS
+nrdH	Brachy_962_10.fa	MCMEOHNO_03422	CDS	246		COG0695	K06191	Glutaredoxin-like protein NrdH
+pbpA	Brachy_738_10.fa	JOIMIODL_02624	CDS	1446		COG0768	K05364	Penicillin-binding protein A
+pbpA	Brachy_738_10.fa	JOIMIODL_02624	CDS	1446		COG0768	K05364	Penicillin-binding protein A
+iucD	Brevi_947_7.fa	IOFEINNK_03577	CDS	1536	1.14.13.59	COG3486	K03897	L-lysine N6-monooxygenase
+psaB	Brevi_876_7.fa	IHGJPHMH_03764	CDS	603	1.97.1.12		K02690	Photosystem I P700 chlorophyll a apoprotein A2
+psaB	Brevi_876_7.fa	IHGJPHMH_03764	CDS	603	1.97.1.12		K02690	Photosystem I P700 chlorophyll a apoprotein A2
+blaI	Brevi_876_7.fa	IHGJPHMH_01089	CDS	363		COG3682	K02171	Transcriptional regulator BlaI
+blaI	Brevi_876_7.fa	IHGJPHMH_01089	CDS	363		COG3682	K02171	Transcriptional regulator BlaI
+blaI	Brevi_876_7.fa	IHGJPHMH_01089	CDS	363		COG3682	K02171	Transcriptional regulator BlaI
+agaS	Brachy_876_9.fa	AGBMBALL_00372	CDS	1125	3.5.99.-	COG2222	K02082	Putative D-galactosamine-6-phosphate deaminase AgaS
+dgoD	Brachy_962_10.fa	MCMEOHNO_00833	CDS	1149	4.2.1.6	COG4948	K01684	D-galactonate dehydratase
+trpG	Brevi_738_8.fa	MCCDGJGB_01543	CDS	675	4.1.3.27	COG0512	K01658	Anthranilate synthase component 2
+trpG	Brevi_738_8.fa	MCCDGJGB_01543	CDS	675	4.1.3.27	COG0512	K01658	Anthranilate synthase component 2
+trpG	Brevi_738_8.fa	MCCDGJGB_01543	CDS	675	4.1.3.27	COG0512	K01658	Anthranilate synthase component 2
+trpG	Brevi_738_8.fa	MCCDGJGB_01543	CDS	675	4.1.3.27	COG0512	K01658	Anthranilate synthase component 2
+adc	SEQ_862_5	HGOKLDLI_01877	CDS	735	4.1.1.4		K01574	Acetoacetate decarboxylase
+adc	SEQ_862_5	HGOKLDLI_01877	CDS	735	4.1.1.4		K01574	Acetoacetate decarboxylase
+lysC	SEQ_341_10	FAGDNHIP_00873	CDS	1203	2.7.2.4	COG0527	K00928	Aspartokinase 2
+lysC	SEQ_341_10	FAGDNHIP_00873	CDS	1203	2.7.2.4	COG0527	K00928	Aspartokinase 2
+lysC	SEQ_341_10	FAGDNHIP_00873	CDS	1203	2.7.2.4	COG0527	K00928	Aspartokinase 2
+lysC	SEQ_341_10	FAGDNHIP_00873	CDS	1203	2.7.2.4	COG0527	K00928	Aspartokinase 2
+dadA	Brevi_900_6.fa	LDOPIMGM_00883	CDS	1134	1.4.99.-		K00285	D-amino acid dehydrogenase
