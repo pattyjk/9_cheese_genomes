@@ -21,20 +21,21 @@ meta<-read.delim("/Users/patty/OneDrive/Desktop/cheese_volitiles_meta.txt", head
 table[is.na(table)] <- 0
 
 #change numbers to intergers by rounding
-
-
-
 table<-round_df(table, -1)
-View(table)
-
-table<-as.integer(table)
 
 #convert to DESeq format
 meta_deseq<-DESeqDataSetFromMatrix(countData=table, colData=meta, design = ~Community)
 
 #run deseq pipeline
 dds<-DESeq(meta_deseq)
+
+#write results to a table
 results_de<-results(dds)
+results_table<-as.data.frame(results_de)
+results_table$Compound<-row.names(results_table)
+
+#write data to data frame
+write.table(results_table, 'deseq_results.txt', row.names=F, quote=F, sep='\t')
 
 #plot data
 plotMA(results_de)
