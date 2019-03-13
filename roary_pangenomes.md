@@ -25,13 +25,13 @@ rm *.bak
 #run prokka
 for i in *.fa
 do
-prokka $i --kingdom Bacteria --cpus 4 --outdir prokka_out_$i --prefix $i
+prokka $i --kingdom Bacteria --cpus 4 --outdir prokka_out_$i --prefix $i --locustag $i
 done
 
 #run prokka
 for i in SEQ*
 do
-prokka $i --kingdom Bacteria --cpus 4 --outdir prokka_out_$i --prefix $i
+prokka $i --kingdom Bacteria --cpus 4 --outdir prokka_out_$i --prefix $i --locustag $i
 done
 
 #move GFF files
