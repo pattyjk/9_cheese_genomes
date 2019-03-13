@@ -34,11 +34,12 @@ done
 mkdir gff_files
 
 #move GFF files
-find -type f -name "*.gff" -exec cp {} /home/pattyjk/9_cheese_genomes/gff_files/gff_files \;
+find -type f -name "*.gff" -exec cp {} /home/pattyjk/9_cheese_genomes/assembled_genomes/gff_files \;
 ```
 
 ## Calculate Pangenome in Roary
 ```
+cd gff_files
 /home/pattyjk/anaconda3/pkgs/roary-3.7.0-0/bin/roary *.gff -o roary_out
 ```
 
