@@ -1,5 +1,5 @@
-## Pangenomes
-### Convert GBK annotations to GFF annotations for roary
+## Pangenomes with Roary
+### Convert GBK annotations to GFF annotations for Roary
 ```
 mkdir gff_files
 #conda install -c bioconda perl-bioperl
@@ -8,7 +8,7 @@ mkdir gff_files
 bp_genbank2gff3.pl -d ./gbk_files -o gff_files
 ```
 
-## Fix fasta file headers (renamed by fiel name)
+## Fix fasta file headers for Prokka (renamed by file name)
 ```
 for file in *.fa;
 do
@@ -69,7 +69,7 @@ cd genes
 cat genes_* > all_genes.txt
 ```
 
-## Get gene games
+## Get gene names
 ```
 #get database (all bact/arch) from NCBI ftp
 ftp://ftp.ncbi.nih.gov/gene/DATA/GENE_INFO/Archaea_Bacteria/
