@@ -1,9 +1,0 @@
-Core genes	(99% <= strains <= 100%)	6793
-
-Soft core genes	(95% <= strains < 99%)	0
-
-Shell genes	(15% <= strains < 95%)	5135
-
-Cloud genes	(0% <= strains < 15%)	6506
-
-Total genes	(0% <= strains <= 100%)	18434
