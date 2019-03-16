@@ -50,6 +50,7 @@ library(ggplot2)
 library(vegan)
 library(reshape2)
 library(dplyr)
+library(readr)
 library(tidyr)
 
 #read in data
@@ -126,59 +127,113 @@ pan_cast2<-cbind(pan_cast, pan_cast_pa)
 
 #merge all data back together
 pangenomes<-merge(pan_cast2, pan_full3, by='Gene')
+dim(pangenomes)
+#18071 by 68
 
 #write data to file
 write.table(pangenomes, 'pangenomes.txt', sep='\t', row.names=F, quote=F)
+
+
+pangenomes2<-pangenomes
+pangenomes2$uni_gene<-pangenomes2$Gene
+pangenomes2$uni_gene<-gsub("_[[:digit:]]+", "", pangenomes2$uni_gene)
+
+length(unique(pangenomes2$uni_gene))
+3048
+
 ```
+
+
+
 
 ## Identify genes unique to each community
 ```
+#remove hypothetical proteins
+pangenomy<-pangenomes[!grepl("group_", pangenomes$Gene),]
+nrow(pangenomy)
+#4943 annotated genes
+
+#remove numbers from genes
+pangenomy$Gene<-gsub("_[[:digit:]]+", "", pangenomy$Gene)
+length(unique(pangenomy$Gene))
+#3047 unique gene names
+dim(pangenomy)
+unique_genes$Gene<-tolower(unique_genes$Gene)
+
+#remove duplicate genes
+pangenomy<-pangenomy[!duplicated(pangenomy$Gene),]
+dim(pangenomy)
+#3047 by 68
+
 #make a table of unique genes
-panny<-pangenomes[,11:19]
-unique_gene_list<-which(rowSums(panny) == 1)
-names(unique_gene_list)<-"RowSum"
+panny<-pangenomy[,11:19]
+unique_gene_list<-as.data.frame(which(rowSums(panny) == 1))
 dim(unique_gene_list)
-#6250 genes
+#249 genes
 
 #extract unique genes from master table
-unique_genes<-subset(pangenomes, row.names(pangenomes) %in% unique_gene_list)
+unique_genes<-subset(pangenomy, row.names(pangenomy) %in% row.names(unique_gene_list))
 dim(unique_genes)
-#6250 by 68
+#249 by 68
+unique_genes$Gene<-tolower(unique_genes$Gene)
+
+#add KEGG functions to table
+kegg<-read.delim('9_cheese_genomes/full_kegg.txt', header=T)
+
+#change gene names to lowercase
+kegg$Gene<-tolower(kegg$Gene)
+
+#add KEGG to unique gene names
+unique_genes<-merge(unique_genes, kegg, by='Gene', all.x=T)
 
 #create tables for each community
-com_341_unique<- unique_genes[unique_genes$pa_341 == 1,] %>% select("341", "pa_341", "Gene", 'Annotation', 'com_341_genomes')
+com_341_unique<- unique_genes[unique_genes$pa_341 == 1,] %>% select("341", "pa_341", "Gene", 'Annotation', 'com_341_genomes', "Level1", "Level2", "Level3", "KO", "Product", "EC", "EC2", "EC3", "Full")
 nrow(com_341_unique)
-#569
+#33
 
-com_738_unique<- unique_genes[unique_genes$pa_738 == 1,] %>% select("738", "pa_738", "Gene", 'Annotation', 'com_738_genomes')
+com_738_unique<- unique_genes[unique_genes$pa_738 == 1,] %>% select("738", "pa_738", "Gene", 'Annotation', 'com_738_genomes', "Level1", "Level2", "Level3", "KO", "Product", "EC", "EC2", "EC3", "Full")
 nrow(com_738_unique)
-#1014
+#96
 
-com_862_unique<- unique_genes[unique_genes$pa_862 == 1,] %>% select("862", "pa_862", "Gene", 'Annotation', 'com_862_genomes')
+com_862_unique<- unique_genes[unique_genes$pa_862 == 1,] %>% select("862", "pa_862", "Gene", 'Annotation', 'com_862_genomes', "Level1", "Level2", "Level3", "KO", "Product", "EC", "EC2", "EC3", "Full")
 nrow(com_862_unique)
-#702
+#15
 
-com_876_unique<- unique_genes[unique_genes$pa_876 == 1,] %>% select("876", "pa_876", "Gene", 'Annotation', 'com_876_genomes')
+com_876_unique<- unique_genes[unique_genes$pa_876 == 1,] %>% select("876", "pa_876", "Gene", 'Annotation', 'com_876_genomes', "Level1", "Level2", "Level3", "KO", "Product", "EC", "EC2", "EC3", "Full")
 nrow(com_876_unique)
-#496
+#28
 
-com_900_unique<- unique_genes[unique_genes$pa_900 == 1,] %>% select("900", "pa_900", "Gene", 'Annotation', 'com_900_genomes')
+com_900_unique<- unique_genes[unique_genes$pa_900 == 1,] %>% select("900", "pa_900", "Gene", 'Annotation', 'com_900_genomes', "Level1", "Level2", "Level3", "KO", "Product", "EC", "EC2", "EC3", "Full")
 nrow(com_900_unique)
-#774
+#32
 
-com_908_unique<- unique_genes[unique_genes$pa_908 == 1,] %>% select("908", "pa_908", "Gene", 'Annotation', 'com_908_genomes')
+com_908_unique<- unique_genes[unique_genes$pa_908 == 1,] %>% select("908", "pa_908", "Gene", 'Annotation', 'com_908_genomes', "Level1", "Level2", "Level3", "KO", "Product", "EC", "EC2", "EC3", "Full")
 nrow(com_908_unique)
-#484
+#25
 
-com_947_unique<- unique_genes[unique_genes$pa_947 == 1,] %>% select("947", "pa_947", "Gene", 'Annotation', 'com_947_genomes')
+com_947_unique<- unique_genes[unique_genes$pa_947 == 1,] %>% select("947", "pa_947", "Gene", 'Annotation', 'com_947_genomes', "Level1", "Level2", "Level3", "KO", "Product", "EC", "EC2", "EC3", "Full")
 nrow(com_947_unique)
-#577
+#28
 
-com_962_unique<- unique_genes[unique_genes$pa_962 == 1,] %>% select("962", "pa_962", "Gene", 'Annotation', 'com_962_genomes')
+com_962_unique<- unique_genes[unique_genes$pa_962 == 1,] %>% select("962", "pa_962", "Gene", 'Annotation', 'com_962_genomes', "Level1", "Level2", "Level3", "KO", "Product", "EC", "EC2", "EC3", "Full")
 nrow(com_962_unique)
-#407
+#27
 
-com_JB5_unique<- unique_genes[unique_genes$pa_JB5 == 1,] %>% select("JB5", "pa_JB5", "Gene", 'Annotation', 'com_JB_genomes')
+com_JB5_unique<- unique_genes[unique_genes$pa_JB5 == 1,] %>% select("JB5", "pa_JB5", "Gene", 'Annotation', 'com_JB_genomes', "Level1", "Level2", "Level3", "KO", "Product", "EC", "EC2", "EC3", "Full")
 nrow(com_JB5_unique)
-#1227
+#51
+
+#write data to files
+write.table(com_341, 'com_341.txt', quote=F, sep='\t', row.names=F)
+write.table(com_341, 'com_947.txt', quote=F, sep='\t', row.names=F)
+write.table(com_738, 'com_738.txt', quote=F, sep='\t', row.names=F)
+write.table(com_862, 'com_862.txt', quote=F, sep='\t', row.names=F)
+write.table(com_876, 'com_876.txt', quote=F, sep='\t', row.names=F)
+write.table(com_908, 'com_908.txt', quote=F, sep='\t', row.names=F)
+write.table(com_900, 'com_900.txt', quote=F, sep='\t', row.names=F)
+write.table(com_962, 'com_962.txt', quote=F, sep='\t', row.names=F)
+write.table(com_JB5, 'com_JB5.txt', quote=F, sep='\t', row.names=F)
+
+
+
 ```

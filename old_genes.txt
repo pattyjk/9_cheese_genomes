@@ -1,0 +1,769 @@
+Gene	genome	locus_tag	ftype	bp	EC.x	COG	KO	product
+abfA	Brachy_962_10.fa	MCMEOHNO_03449	CDS	1524	3.2.1.55		K01209	Intracellular exo-alpha-(1->5)-L-arabinofuranosidase
+abn-ts	Brachy_341_9.fa	HAJKDPKL_03392	CDS	2223	3.2.1.99		K06113	Intracellular endo-alpha-(1->5)-L-arabinanase
+araN	Brachy_900_8.fa	LJFCBDKD_01155	CDS	1407		COG1653	K17234	putative arabinose-binding protein
+araN	Brachy_900_8.fa	LJFCBDKD_01155	CDS	1407		COG1653	K17234	putative arabinose-binding protein
+argE	Brevi_900_6.fa	LDOPIMGM_01129	CDS	1200	3.5.1.16	COG0624	K01438	Acetylornithine deacetylase
+atl	SEQ_962_6	PIPEENFB_02549	CDS	1302		COG4193	K13714	Bifunctional autolysin
+baeS	Brachy_900_8.fa	LJFCBDKD_02428	CDS	1140	2.7.13.3	COG0642	K07642	Signal transduction histidine-protein kinase BaeS
+besA	Brachy_341_9.fa	HAJKDPKL_03540	CDS	870	3.1.-.-	COG2819	K07017	Ferri-bacillibactin esterase BesA
+bsaA	SEQ_341_10	FAGDNHIP_02160	CDS	474			K00432	Glutathione peroxidase BsaA
+bshB1	NA	NA	NA	NA	NA	NA	K01463	NA
+caiC	Brevi_341_13.fa	AGEJDLBK_01974	CDS	1578	6.2.1.48	COG0318	K02182	Crotonobetaine/carnitine--CoA ligase
+ccpA	Brachy_JB7.fa	NGPGJBKC_02314	CDS	1980		COG1609	K01955	Catabolite control protein A
+cocE	Brevi_876_7.fa	IHGJPHMH_00603	CDS	1737	3.1.1.84		K21017	Cocaine esterase
+copG	SEQ_876_5	IGOCDMGC_02796	CDS	144			K17267	Protein CopG
+crtK-2	SEQ_341_10	FAGDNHIP_02447	CDS	486		COG3476	K05770	Tryptophan-rich protein TspO
+crtM	SEQ_908_10	MOFHFCGN_01614	CDS	876	2.5.1.96	COG1562	K10208	Dehydrosqualene synthase
+crtM	SEQ_908_10	MOFHFCGN_01614	CDS	876	2.5.1.96	COG1562	K10208	Dehydrosqualene synthase
+crtP	SEQ_908_10	MOFHFCGN_01612	CDS	1491	1.14.99.44	COG1233	K10210	Diapolycopene oxygenase
+crtQ	SEQ_908_10	MOFHFCGN_01613	CDS	1035	2.4.1.-		K10211	4,4'-diaponeurosporenoate glycosyltransferase
+cshC	Brachy_341_9.fa	HAJKDPKL_00536	CDS	2076	3.6.4.13	COG0513	K15540	DEAD-box ATP-dependent RNA helicase CshC
+cycB	Brachy_862_8.fa	FOMIDEFL_03327	CDS	1302		COG2182	K21770	Cyclodextrin-binding protein
+dapb3	Brachy_341_9.fa	HAJKDPKL_03538	CDS	1878	3.4.14.-		K00215	Dipeptidyl aminopeptidase BIII
+ddpA	Brevi_908_7.fa	EBMLHIBA_02961	CDS	1566		COG0747	K04380	putative D,D-dipeptide-binding periplasmic protein DdpA
+degA	Brachy_341_9.fa	HAJKDPKL_00391	CDS	1068		COG1609	K22529	HTH-type transcriptional regulator DegA
+dhbF	Brevi_JB5.fa	ADMANBBD_02083	CDS	3582		COG1020	K04780	Dimodular nonribosomal peptide synthase
+dhbF	Brevi_JB5.fa	ADMANBBD_02083	CDS	3582		COG1020	K04780	Dimodular nonribosomal peptide synthase
+dinG	Brevi_738_8.fa	MCCDGJGB_00769	CDS	1968	3.6.4.12	COG1199	K03722	putative ATP-dependent helicase DinG 
+dld	Brevi_JB5.fa	ADMANBBD_02340	CDS	1710	1.1.5.12	COG0277	K21836	Quinone-dependent D-lactate dehydrogenase
+dld	Brevi_JB5.fa	ADMANBBD_02340	CDS	1710	1.1.5.12	COG0277	K03777	Quinone-dependent D-lactate dehydrogenase
+dld	Brevi_JB5.fa	ADMANBBD_02340	CDS	1710	1.1.5.12	COG0277	K18930	Quinone-dependent D-lactate dehydrogenase
+dpaL	Brevi_341_13.fa	AGEJDLBK_02761	CDS	1122	4.3.1.15	COG1171	K00993	Diaminopropionate ammonia-lyase
+fadR	Brevi_JB5.fa	ADMANBBD_03416	CDS	606			K03603	Fatty acid metabolism regulator protein
+fes	Brevi_962_8.fa	AGDBFNGI_00072	CDS	1272		COG2382	K07214	Enterochelin esterase
+fokIM	Brevi_341_13.fa	AGEJDLBK_03452	CDS	1059	2.1.1.72		K07318	Modification methylase FokI
+ganB	Brachy_341_9.fa	HAJKDPKL_00386	CDS	1686	3.2.1.89	COG3867	K01224	Arabinogalactan endo-beta-1,4-galactanase
+gloB	Brachy_738_10.fa	JOIMIODL_02544	CDS	822	3.1.2.6		K06856	Hydroxyacylglutathione hydrolase
+glsA1	Brachy_876_9.fa	AGBMBALL_02745	CDS	1272	3.5.1.2	COG2066	K01425	Glutaminase 1
+gpmA	Brachy_862_8.fa	FOMIDEFL_02120	CDS	747	5.4.2.11	COG0588	K01834	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+hpxO	SEQ_341_10	FAGDNHIP_02309	CDS	1164	1.14.13.113	COG0654	K16839	FAD-dependent urate hydroxylase
+iolA	SEQ_341_10	FAGDNHIP_01398	CDS	1455	1.2.1.-	COG1012	K16839 	Malonate-semialdehyde dehydrogenase
+iolB	Brachy_947_11.fa	DNNBHHGK_01441	CDS	1005	5.3.1.30	COG3718	K03337	5-deoxy-glucuronate isomerase
+iolC	Brachy_341_9.fa	HAJKDPKL_03303	CDS	1035	2.7.1.92	COG0524	K03338	5-dehydro-2-deoxygluconokinase
+iolD	Brachy_JB7.fa	NGPGJBKC_03117	CDS	1911	3.7.1.22	COG3962	K03336	3D-(3,5/4)-trihydroxycyclohexane-1,2-dione hydrolase
+iolE	SEQ_BC9	EPECHOLL_01167	CDS	867	4.2.1.44		K03335	Inosose dehydratase
+iolG	Brachy_947_11.fa	DNNBHHGK_01812	CDS	1134	1.1.1.18	COG0673	K00010	Myo-inositol 2-dehydrogenase
+iolG	Brachy_947_11.fa	DNNBHHGK_01812	CDS	1134	1.1.1.18	COG0673	K00010	Myo-inositol 2-dehydrogenase
+iolJ	SEQ_341_10	FAGDNHIP_01402	CDS	846	4.1.2.29	COG0191	K03339	6-phospho-5-dehydro-2-deoxy-D-gluconate aldolase
+lacE	Brachy_900_8.fa	LJFCBDKD_00568	CDS	1317			K06830	Lactose-binding protein
+lipO	Brachy_900_8.fa	LJFCBDKD_00584	CDS	1674		COG1653	K20052	Lipoprotein LipO
+lpxG	Brevi_341_13.fa	AGEJDLBK_03230	CDS	972	3.6.1.-	COG1408	K03269	UDP-2,3-diacylglucosamine pyrophosphatase LpxG
+marR	Brevi_962_8.fa	AGDBFNGI_02893	CDS	495		COG1846	K03712	Multiple antibiotic resistance protein MarR
+mmcO	Brachy_341_9.fa	HAJKDPKL_03031	CDS	1503	1.16.3.1	COG2132	K22552	Multicopper oxidase MmcO
+nolA	Brachy_900_8.fa	LJFCBDKD_02702	CDS	375			K14661	Nodulation protein NolA
+nudG	SEQ_908_10	MOFHFCGN_02534	CDS	393	3.6.1.65	COG0494	K08320	CTP pyrophosphohydrolase
+ohrR	Brevi_862_7.fa	GGCDANDK_00571	CDS	465			K18325	Organic hydroperoxide resistance transcriptional regulator
+orn	Brevi_341_13.fa	AGEJDLBK_02099	CDS	570	3.1.-.-	COG1949	K13288	Oligoribonuclease
+pepD	Brachy_908_11.fa	DPNJBGPE_01416	CDS	1488	3.4.-.-	COG4690	K08372	Dipeptidase
+pepD	Brachy_908_11.fa	DPNJBGPE_01416	CDS	1488	3.4.-.-	COG4690	K08372	Dipeptidase
+pepD	Brachy_908_11.fa	DPNJBGPE_01416	CDS	1488	3.4.-.-	COG4690	K01270	Dipeptidase
+pepD	Brachy_908_11.fa	DPNJBGPE_01416	CDS	1488	3.4.-.-	COG4690	K01270	Dipeptidase
+pgtP	Brevi_341_13.fa	AGEJDLBK_01948	CDS	1350		COG2271	K11382	Phosphoglycerate transporter protein
+pgtP	Brevi_341_13.fa	AGEJDLBK_01948	CDS	1350		COG2271	K11382	Phosphoglycerate transporter protein
+phnV	Brachy_341_9.fa	HAJKDPKL_03680	CDS	1209		COG1177	K11082	Putative 2-aminoethylphosphonate transport system permease protein PhnV
+phnV	Brachy_341_9.fa	HAJKDPKL_03680	CDS	1209		COG1177	K11082	Putative 2-aminoethylphosphonate transport system permease protein PhnV
+php	Brevi_900_6.fa	LDOPIMGM_03155	CDS	960		COG1735	K07048	Phosphotriesterase homology protein
+phrA	Brevi_738_8.fa	MCCDGJGB_01979	CDS	1464	4.1.99.3	COG0415	K06352	Deoxyribodipyrimidine photo-lyase
+plaP	Brevi_341_13.fa	AGEJDLBK_03174	CDS	438		COG0531	K14052	Low-affinity putrescine importer PlaP
+ptrB	Brevi_JB5.fa	ADMANBBD_01965	CDS	1866	3.4.21.83	COG1770	K01354	Protease 2
+ptrB	Brevi_JB5.fa	ADMANBBD_01965	CDS	1866	3.4.21.83	COG1770	K01354	Protease 2
+ptrB	Brevi_JB5.fa	ADMANBBD_01965	CDS	1866	3.4.21.83	COG1770	K01354	Protease 2
+repB	SEQ_738_7	BGMKIKPO_02222	CDS	582			K10740	Replication protein RepB
+repE	SEQ_900_4	LKFOIOBI_01828	CDS	894			K10740	Replication initiation protein
+ripB	Brachy_862_8.fa	FOMIDEFL_02969	CDS	879	3.4.-.-	COG0791	K21474	Peptidoglycan endopeptidase RipB
+ripB	Brachy_862_8.fa	FOMIDEFL_02969	CDS	879	3.4.-.-	COG0791	K21474	Peptidoglycan endopeptidase RipB
+rmpA	Brachy_341_9.fa	HAJKDPKL_00662	CDS	681	4.1.2.43		K08093	3-hexulose-6-phosphate synthase
+rmpB	Brachy_341_9.fa	HAJKDPKL_00663	CDS	573	5.3.1.27		K08094	3-hexulose-6-phosphate isomerase
+tfdS	Brevi_962_8.fa	AGDBFNGI_02962	CDS	915			K18831	HTH-type transcriptional regulator TfdS
+tmcA	Brachy_341_9.fa	HAJKDPKL_03676	CDS	1116	2.3.1.193		K06957	tRNA(Met) cytidine acetyltransferase TmcA
+ycjP	Brachy_962_10.fa	MCMEOHNO_00646	CDS	840		COG0395	K02026	Inner membrane ABC transporter permease protein YcjP
+yidK	SEQ_341_10	FAGDNHIP_01394	CDS	1602		COG4146	K03307	putative symporter YidK
+ykvP	Brevi_908_7.fa	EBMLHIBA_01906	CDS	2241		COG1388	K06320	Spore protein YkvP
+yteP	Brachy_341_9.fa	HAJKDPKL_01906	CDS	1011		COG4209	K17319	putative multiple-sugar transport system permease YteP
+yydI	SEQ_341_10	FAGDNHIP_02174	CDS	633			K16917	putative peptide export ATP-binding protein YydI
+yydI	SEQ_341_10	FAGDNHIP_02174	CDS	633			K16917	putative peptide export ATP-binding protein YydI
+yydJ	SEQ_341_10	FAGDNHIP_02175	CDS	723			K16916	putative peptide export permease protein YydJ
+yydJ	SEQ_341_10	FAGDNHIP_02175	CDS	723			K16916	putative peptide export permease protein YydJ
+tam	Brevi_947_7.fa	IOFEINNK_01942	CDS	753	2.1.1.144		K00598	Trans-aconitate 2-methyltransferase
+lacC	Brachy_962_10.fa	MCMEOHNO_02283	CDS	1014	2.7.1.144	COG1105	K00917	Tagatose-6-phosphate kinase
+appA	Brevi_341_13.fa	AGEJDLBK_03547	CDS	1551			K01093	Oligopeptide-binding protein AppA
+appA	Brevi_341_13.fa	AGEJDLBK_03547	CDS	1551			K01093	Oligopeptide-binding protein AppA
+endA	SEQ_738_7	BGMKIKPO_00141	CDS	882	3.1.30.-		K01150	DNA-entry nuclease
+hsdS	Brachy_862_8.fa	FOMIDEFL_01461	CDS	1140		COG0732	K01154	Type-1 restriction enzyme EcoKI specificity protein
+endA	SEQ_738_7	BGMKIKPO_00141	CDS	882	3.1.30.-		K01170	DNA-entry nuclease
+lexA	Brevi_908_7.fa	EBMLHIBA_00557	CDS	756	3.4.21.88	COG1974	K01356	LexA repressor
+lexA	Brevi_908_7.fa	EBMLHIBA_00557	CDS	756	3.4.21.88	COG1974	K01356	LexA repressor
+kdpA	Brevi_738_8.fa	MCCDGJGB_01233	CDS	1671		COG2060	K01546	Potassium-transporting ATPase potassium-binding subunit
+kdpB	Brevi_738_8.fa	MCCDGJGB_01234	CDS	2274	3.6.3.12	COG2216	K01547	Potassium-transporting ATPase ATP-binding subunit
+kdpC	Brevi_738_8.fa	MCCDGJGB_01235	CDS	636		COG2156	K01548	Potassium-transporting ATPase KdpC subunit
+lacD	SEQ_738_7	BGMKIKPO_03002	CDS	981	4.1.2.40		K01635	Tagatose 1,6-diphosphate aldolase
+lacD	SEQ_738_7	BGMKIKPO_03002	CDS	981	4.1.2.40		K01635	Tagatose 1,6-diphosphate aldolase
+glf	Brachy_900_8.fa	LJFCBDKD_00152	CDS	1158	5.4.99.9	COG0562	K01854	UDP-galactopyranose mutase
+glf	Brachy_900_8.fa	LJFCBDKD_00152	CDS	1158	5.4.99.9	COG0562	K01854	UDP-galactopyranose mutase
+livF	Brevi_947_7.fa	IOFEINNK_03120	CDS	705		COG0410	K01996	High-affinity branched-chain amino acid transport ATP-binding protein LivF
+livF	Brevi_947_7.fa	IOFEINNK_03120	CDS	705		COG0410	K01996	High-affinity branched-chain amino acid transport ATP-binding protein LivF
+livF	Brevi_947_7.fa	IOFEINNK_03120	CDS	705		COG0410	K01996	High-affinity branched-chain amino acid transport ATP-binding protein LivF
+livH	Brevi_908_7.fa	EBMLHIBA_02365	CDS	867		COG0559	K01997	High-affinity branched-chain amino acid transport system permease protein LivH
+livH	Brevi_908_7.fa	EBMLHIBA_02365	CDS	867		COG0559	K01997	High-affinity branched-chain amino acid transport system permease protein LivH
+livH	Brevi_908_7.fa	EBMLHIBA_02365	CDS	867		COG0559	K01997	High-affinity branched-chain amino acid transport system permease protein LivH
+ssb	Brachy_862_8.fa	FOMIDEFL_00911	CDS	549		COG0629	K03111	Single-stranded DNA-binding protein
+ssb	Brachy_862_8.fa	FOMIDEFL_00911	CDS	549		COG0629	K03111	Single-stranded DNA-binding protein
+ssb	Brachy_862_8.fa	FOMIDEFL_00911	CDS	549		COG0629	K03111	Single-stranded DNA-binding protein
+ssb	Brachy_862_8.fa	FOMIDEFL_00911	CDS	549		COG0629	K03111	Single-stranded DNA-binding protein
+ssb	Brachy_862_8.fa	FOMIDEFL_00911	CDS	549		COG0629	K03111	Single-stranded DNA-binding protein
+ssb	Brachy_862_8.fa	FOMIDEFL_00911	CDS	549		COG0629	K03111	Single-stranded DNA-binding protein
+hsdM	Brevi_738_8.fa	MCCDGJGB_02603	CDS	1971	2.1.1.72	COG0286	K03427	Type I restriction enzyme EcoKI M protein
+glvR	SEQ_738_7	BGMKIKPO_02987	CDS	759		COG1737	K03481	HTH-type transcriptional regulator GlvR
+recB	Brevi_738_8.fa	MCCDGJGB_03470	CDS	3387	3.1.11.5	COG1074	K03582	RecBCD enzyme subunit RecB
+recB	Brevi_738_8.fa	MCCDGJGB_03470	CDS	3387	3.1.11.5	COG1074	K03582	RecBCD enzyme subunit RecB
+recF	SEQ_908_10	MOFHFCGN_00657	CDS	1116		COG1195	K03629	DNA replication and repair protein RecF
+recF	SEQ_908_10	MOFHFCGN_00657	CDS	1116		COG1195	K03629	DNA replication and repair protein RecF
+cpdA	SEQ_862_5	HGOKLDLI_01936	CDS	1785	3.1.4.53		K03651	3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+cpdA	SEQ_862_5	HGOKLDLI_01936	CDS	1785	3.1.4.53		K03651	3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+dsbA	Brevi_738_8.fa	MCCDGJGB_03045	CDS	639		COG0526	K03673	Thiol:disulfide interchange protein DsbA
+dsbA	Brevi_738_8.fa	MCCDGJGB_03045	CDS	639		COG0526	K03673	Thiol:disulfide interchange protein DsbA
+clpE	SEQ_862_5	HGOKLDLI_02248	CDS	1866		COG0542	K03697	ATP-dependent Clp protease ATP-binding subunit ClpE
+rimL	Brachy_738_10.fa	JOIMIODL_02412	CDS	486	2.3.1.-	COG1670	K03817	Ribosomal-protein-serine acetyltransferase
+pat	Brevi_947_7.fa	IOFEINNK_01711	CDS	2715	2.3.1.-	COG0454	K03823	Protein lysine acetyltransferase Pat
+dsbD	Brevi_341_13.fa	AGEJDLBK_00348	CDS	765	1.8.1.8		K04084	Thiol:disulfide interchange protein DsbD
+srmB	Brevi_962_8.fa	AGDBFNGI_01528	CDS	6798	3.6.4.13		K05590	ATP-dependent RNA helicase SrmB
+pchF	Brevi_738_8.fa	MCCDGJGB_00575	CDS	1563	1.17.99.1		K05797	4-cresol dehydrogenase [hydroxylating] flavoprotein subunit
+rhtB	Brachy_738_10.fa	JOIMIODL_02705	CDS	678		COG1280	K05834	Homoserine/homoserine lactone efflux protein
+dhaL	SEQ_862_5	HGOKLDLI_00099	CDS	576	2.7.1.121	COG2376	K05879	PTS-dependent dihydroxyacetone kinase, ADP-binding subunit DhaL
+dhaM	SEQ_908_10	MOFHFCGN_00099	CDS	363	2.7.1.121	COG3412	K05881	PTS-dependent dihydroxyacetone kinase, phosphotransferase subunit DhaM
+dhaM	SEQ_908_10	MOFHFCGN_00099	CDS	363	2.7.1.121	COG3412	K05881	PTS-dependent dihydroxyacetone kinase, phosphotransferase subunit DhaM
+mrr	Brachy_738_10.fa	JOIMIODL_02406	CDS	951		COG1715	K07448	Mrr restriction system protein
+kdpD	Brevi_738_8.fa	MCCDGJGB_01236	CDS	2679	2.7.13.3	COG2205	K07646	Sensor protein KdpD
+kdpD	Brevi_738_8.fa	MCCDGJGB_01236	CDS	2679	2.7.13.3	COG2205	K07646	Sensor protein KdpD
+kdpD	Brevi_738_8.fa	MCCDGJGB_01236	CDS	2679	2.7.13.3	COG2205	K07646	Sensor protein KdpD
+kdpE	Brevi_738_8.fa	MCCDGJGB_01237	CDS	681		COG0745	K07667	Transcriptional regulatory protein KdpE
+kdpE	Brevi_738_8.fa	MCCDGJGB_01237	CDS	681		COG0745	K07667	Transcriptional regulatory protein KdpE
+kdpE	Brevi_738_8.fa	MCCDGJGB_01237	CDS	681		COG0745	K07667	Transcriptional regulatory protein KdpE
+sotB	SEQ_876_5	IGOCDMGC_01779	CDS	435			K08159	sugar efflux transporter
+pcaK	Brevi_947_7.fa	IOFEINNK_00482	CDS	1347		COG0477	K08195	4-hydroxybenzoate transporter PcaK
+gatD	SEQ_738_7	BGMKIKPO_02988	CDS	1035	1.1.1.251	COG1063	K09482	Galactitol 1-phosphate 5-dehydrogenase
+codB	Brevi_738_8.fa	MCCDGJGB_02719	CDS	1371		COG1457	K10974	Cytosine permease
+traC	SEQ_738_7	BGMKIKPO_00194	CDS	813	2.7.7.-		K12063	DNA primase TraC
+pchF	Brevi_738_8.fa	MCCDGJGB_00575	CDS	1563	1.17.99.1		K12240	4-cresol dehydrogenase [hydroxylating] flavoprotein subunit
+pchF	Brevi_738_8.fa	MCCDGJGB_00575	CDS	1563	1.17.99.1		K12240	4-cresol dehydrogenase [hydroxylating] flavoprotein subunit
+ctpG	Brevi_738_8.fa	MCCDGJGB_03040	CDS	1821	3.6.3.-	COG2217	K12954	putative cation-transporting ATPase G
+gumI	Brevi_738_8.fa	MCCDGJGB_03108	CDS	1074	2.4.1.251		K13658	GDP-mannose:glycolipid 4-beta-D-mannosyltransferase
+endA	SEQ_738_7	BGMKIKPO_00141	CDS	882	3.1.30.-		K15051	DNA-entry nuclease
+endA	SEQ_738_7	BGMKIKPO_00141	CDS	882	3.1.30.-		K15051	DNA-entry nuclease
+linE	Brevi_738_8.fa	MCCDGJGB_00582	CDS	960	1.13.11.66		K15240	Chlorohydroquinone/hydroquinone 1,2-dioxygenase
+vat	SEQ_908_10	MOFHFCGN_02770	CDS	795	2.3.1.-		K18234	Virginiamycin A acetyltransferase
+hspB	Brevi_738_8.fa	MCCDGJGB_00576	CDS	1209	1.14.13.163	COG0654	K18276	6-hydroxy-3-succinoylpyridine 3-monooxygenase HspB
+tsaC1	Brevi_738_8.fa	MCCDGJGB_00558	CDS	765	1.2.1.62		K19630	4-formylbenzenesulfonate dehydrogenase TsaC1/TsaC2
+derK	SEQ_738_7	BGMKIKPO_02984	CDS	966	2.7.1.210	COG2376	K20902	D-erythrulose kinase
+bcs1	Brevi_738_8.fa	MCCDGJGB_03640	CDS	1425			K21681	Bifunctional ribulose 5-phosphate reductase/CDP-ribitol pyrophosphorylase Bcs1
+adhR	Brevi_862_7.fa	GGCDANDK_01718	CDS	486		COG0789	K21745	HTH-type transcriptional regulator AdhR
+rclR	Brevi_962_8.fa	AGDBFNGI_00944	CDS	1026		COG2207	K21746	RCS-specific HTH-type transcriptional activator RclR
+cmtR	Brachy_900_8.fa	LJFCBDKD_03044	CDS	678		COG0640	K21885	HTH-type transcriptional regulator CmtR
+acr3	Brachy_908_11.fa	DPNJBGPE_01698	CDS	1152		COG0798	K03325	Arsenical-resistance protein Acr3
+aniA	Brachy_947_11.fa	DNNBHHGK_00684	CDS	2829	1.7.2.1	COG2132	K00366	Copper-containing nitrite reductase
+arsC1	Brevi_738_8.fa	MCCDGJGB_03027	CDS	1002	2.8.4.2	COG0394	K03741	Arsenate-mycothiol transferase ArsC1
+arsC2	Brevi_738_8.fa	MCCDGJGB_03028	CDS	411	2.8.4.2	COG0394	K03741	Arsenate-mycothiol transferase ArsC2
+azoR	SEQ_738_7	BGMKIKPO_00829	CDS	564	1.7.-.-		K01118 	FMN-dependent NADH-azoreductase
+braC	Brevi_862_7.fa	GGCDANDK_01520	CDS	1227		COG0683	K01999	Leucine-, isoleucine-, valine-, threonine-, and alanine-binding protein
+clpP	SEQ_876_5	IGOCDMGC_00251	CDS	585	3.4.21.92	COG0740	K01358 	ATP-dependent Clp protease proteolytic subunit
+copC	Brevi_900_6.fa	LDOPIMGM_00019	CDS	648			K07156	Copper resistance protein C
+cpsY	Brevi_900_6.fa	LDOPIMGM_03509	CDS	1863	2.7.-.-		K01001	Exopolysaccharide phosphotransferase CpsY
+estB	Brevi_738_8.fa	MCCDGJGB_00562	CDS	1155	3.1.1.-	COG1680	K06999	Esterase EstB
+gatB	SEQ_738_7	BGMKIKPO_03006	CDS	276	2.7.1.200	COG3414	K02774	PTS system galactitol-specific EIIB component
+gutB	Brevi_962_8.fa	AGDBFNGI_00550	CDS	1062	1.1.1.14	COG1063	K00008	Sorbitol dehydrogenase
+gylR	Brevi_738_8.fa	MCCDGJGB_02780	CDS	738			K02444	Glycerol operon regulatory protein
+Hgd	Brevi_738_8.fa	MCCDGJGB_00566	CDS	897	1.1.1.291		K18204	2-(hydroxymethyl)glutarate dehydrogenase
+hin	SEQ_862_5	HGOKLDLI_02949	CDS	552		COG1961	K14060	DNA-invertase hin
+lrpC	Brevi_962_8.fa	AGDBFNGI_02121	CDS	495		COG1522	K03719	HTH-type transcriptional regulator LrpC
+lss	SEQ_862_5	HGOKLDLI_00274	CDS	1368	3.4.24.75		K08259	Lysostaphin
+manP	SEQ_876_5	IGOCDMGC_01634	CDS	1965		COG1299	K02769	PTS system mannose-specific EIIBCA component
+mboIIM	SEQ_738_7	BGMKIKPO_02217	CDS	1872	2.1.1.72		K07316 	Modification methylase MboII
+noc	Brachy_738_10.fa	JOIMIODL_02734	CDS	1053			K05501	Nucleoid occlusion protein
+puuB	Brevi_908_7.fa	EBMLHIBA_01728	CDS	1455	1.4.3.-		K09471	Gamma-glutamylputrescine oxidoreductase
+pyrK	Brevi_738_8.fa	MCCDGJGB_00543	CDS	903		COG0543	K02823	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+rapA	Brevi_738_8.fa	MCCDGJGB_00756	CDS	3423	3.6.4.-		K03580	RNA polymerase-associated protein RapA
+resA	Brachy_862_8.fa	FOMIDEFL_02863	CDS	645			K07109	Thiol-disulfide oxidoreductase ResA
+rocG	Brevi_738_8.fa	MCCDGJGB_00810	CDS	1182	1.4.1.2	COG0334	K00262	Catabolic NAD-specific glutamate dehydrogenase RocG
+selD	Brevi_947_7.fa	IOFEINNK_00332	CDS	987	2.7.9.3	COG0709	K01008	Selenide, water dikinase
+smvA	Brachy_908_11.fa	DPNJBGPE_00482	CDS	1518			K08167	Methyl viologen resistance protein SmvA
+tfdF	Brevi_738_8.fa	MCCDGJGB_00583	CDS	1083	1.3.1.32		K17866	Maleylacetate reductase
+tsaB1	Brevi_738_8.fa	MCCDGJGB_00569	CDS	2226	1.5.1.-		K03862	Toluene-4-sulfonate monooxygenase system reductase subunit TsaB1
+uehB	Brevi_738_8.fa	MCCDGJGB_03507	CDS	573		COG3090	K21395	Ectoine/5-hydroxyectoine TRAP transporter small permease protein UehB
+ugd	Brevi_738_8.fa	MCCDGJGB_03281	CDS	1167	1.1.1.22	COG1004	K00012	UDP-glucose 6-dehydrogenase
+uvrD1	Brachy_900_8.fa	LJFCBDKD_00998	CDS	2880	3.6.4.12	COG0210	K03657	ATP-dependent DNA helicase UvrD1
+vbhT	Brevi_738_8.fa	MCCDGJGB_01005	CDS	786	2.7.7.-		K04095 	Adenosine monophosphate-protein transferase VbhT
+Y2-aiiA	Brevi_738_8.fa	MCCDGJGB_00567	CDS	873	3.1.1.81		K13075	N-acyl homoserine lactonase
+ybeM	Brevi_738_8.fa	MCCDGJGB_03505	CDS	798	3.5.1.-		K11206	Deaminated glutathione amidase
+yjhB	Brevi_341_13.fa	AGEJDLBK_01202	CDS	1266			K08178	Putative metabolite transport protein YjhB
+yjoB	Brachy_738_10.fa	JOIMIODL_03482	CDS	1395	3.-.-.-	COG0465	K08368	putative ATPase YjoB
+yvdT	Brevi_738_8.fa	MCCDGJGB_00572	CDS	570			K02167	putative HTH-type transcriptional regulator YvdT
+ctpA	Brachy_862_8.fa	FOMIDEFL_03000	CDS	2340	3.6.3.54	COG2217	K17686	Copper-exporting P-type ATPase
+dnaK2	Brevi_862_7.fa	GGCDANDK_03715	CDS	1866			K04043	Chaperone protein dnaK2
+espI	Brachy_876_9.fa	AGBMBALL_01867	CDS	1665		COG0455	K17846	ESX-1 secretion-associated protein EspI
+fdhL	Brevi_876_7.fa	IHGJPHMH_00294	CDS	1605	1.1.99.11		K19813	Fructose dehydrogenase large subunit
+fepC	Brachy_947_11.fa	DNNBHHGK_02956	CDS	843		COG1120	K02013	Ferric enterobactin transport ATP-binding protein FepC
+higA1	Brachy_738_10.fa	JOIMIODL_02428	CDS	456		COG1396	K18831	Antitoxin HigA1
+hmrR	Brevi_862_7.fa	GGCDANDK_01036	CDS	765			K13638	HTH-type transcriptional regulator HmrR
+mutT2	Brachy_947_11.fa	DNNBHHGK_03203	CDS	471	3.6.1.55	COG0494	K03574	Putative 8-oxo-dGTP diphosphatase 2
+nepA	Brachy_862_8.fa	FOMIDEFL_03230	CDS	330			K01784 	Nicotine metabolites export pump subunit NepA
+nucH	SEQ_862_5	HGOKLDLI_01097	CDS	531	3.1.31.1		K01174	Thermonuclease
+phoC	Brachy_862_8.fa	FOMIDEFL_01231	CDS	1323	3.1.3.2		K17780	Major phosphate-irrepressible acid phosphatase
+spoIIIE	SEQ_738_7	BGMKIKPO_00138	CDS	1233		COG1674	K03466	DNA translocase SpoIIIE
+tnsB	Brachy_862_8.fa	FOMIDEFL_03459	CDS	1707			K07497 	Transposon Tn7 transposition protein TnsB
+ydiO	Brevi_862_7.fa	GGCDANDK_03524	CDS	1140	2.1.1.37	COG0270	K00558	putative BsuMI modification methylase subunit YdiO
+yfdE	Brevi_862_7.fa	GGCDANDK_01335	CDS	1206	2.8.3.19	COG1804	K18702	Acetyl-CoA:oxalate CoA-transferase
+yfiY	Brevi_962_8.fa	AGDBFNGI_03200	CDS	1029		COG0614	K02016	putative siderophore-binding lipoprotein YfiY
+galD	NA	NA	NA	NA	NA	NA	K22215	NA
+hexR	Brevi_862_7.fa	GGCDANDK_03105	CDS	843		COG1737	K19337	HTH-type transcriptional regulator HexR
+mepH	Brachy_862_8.fa	FOMIDEFL_02489	CDS	1155	3.4.-.-	COG0791	K19303	Murein DD-endopeptidase MepH
+mepH	Brachy_862_8.fa	FOMIDEFL_02489	CDS	1155	3.4.-.-	COG0791	K19303	Murein DD-endopeptidase MepH
+sapB	Brachy_962_10.fa	MCMEOHNO_00401	CDS	729		COG1285	K19227	Protein SapB
+sapB	Brachy_962_10.fa	MCMEOHNO_00401	CDS	729		COG1285	K19227	Protein SapB
+sapB	Brachy_962_10.fa	MCMEOHNO_00401	CDS	729		COG1285	K19227	Protein SapB
+mcrC	SEQ_862_5	HGOKLDLI_01858	CDS	1035		COG4268	K19147	Protein McrC
+cbpM	Brevi_862_7.fa	GGCDANDK_03712	CDS	312			K18997	Chaperone modulatory protein CbpM
+inhA	Brevi_738_8.fa	MCCDGJGB_00247	CDS	759	1.3.1.9	COG0623	K18199	Enoyl-[acyl-carrier-protein] reductase [NADH]
+inhA	Brevi_738_8.fa	MCCDGJGB_00247	CDS	759	1.3.1.9	COG0623	K18199	Enoyl-[acyl-carrier-protein] reductase [NADH]
+galD	NA	NA	NA	NA	NA	NA	K16514	NA
+nodA	Brevi_862_7.fa	GGCDANDK_01470	CDS	555	2.3.1.-		K14658	Nodulation protein A
+puuR	Brevi_900_6.fa	LDOPIMGM_01421	CDS	588			K14056	HTH-type transcriptional regulator PuuR
+soxR	Brevi_962_8.fa	AGDBFNGI_03532	CDS	369		COG0789	K13639	Redox-sensitive transcriptional activator SoxR
+nudI	NA	NA	NA	NA	NA	NA	K12944	NA
+dctQ	Brevi_JB5.fa	ADMANBBD_01104	CDS	564		COG3090	K11689	C4-dicarboxylate TRAP transporter small permease protein DctQ
+dctQ	Brevi_JB5.fa	ADMANBBD_01104	CDS	564		COG3090	K11689	C4-dicarboxylate TRAP transporter small permease protein DctQ
+inhA	Brevi_738_8.fa	MCCDGJGB_00247	CDS	759	1.3.1.9	COG0623	K11611	Enoyl-[acyl-carrier-protein] reductase [NADH]
+ugpA	Brachy_862_8.fa	FOMIDEFL_02142	CDS	954		COG1175	K05814	sn-glycerol-3-phosphate transport system permease protein UgpA
+ugpA	Brachy_862_8.fa	FOMIDEFL_02142	CDS	954		COG1175	K05814	sn-glycerol-3-phosphate transport system permease protein UgpA
+draG	Brachy_738_10.fa	JOIMIODL_01284	CDS	1077	3.2.2.24	COG1397	K05521	ADP-ribosyl-[dinitrogen reductase] glycohydrolase
+cbpA	Brevi_908_7.fa	EBMLHIBA_00072	CDS	1020		COG2214	K05516	Curved DNA-binding protein
+cbpA	Brevi_908_7.fa	EBMLHIBA_00072	CDS	1020		COG2214	K05516	Curved DNA-binding protein
+tarJ	SEQ_341_10	FAGDNHIP_00104	CDS	1029	1.1.1.405	COG1063	K05352	Ribulose-5-phosphate reductase 1
+mutL	SEQ_962_6	PIPEENFB_01908	CDS	1950			K03572	DNA mismatch repair protein MutL
+mutL	SEQ_962_6	PIPEENFB_01908	CDS	1950			K03572	DNA mismatch repair protein MutL
+mcrC	SEQ_862_5	HGOKLDLI_01858	CDS	1035		COG4268	K03421	Protein McrC
+dnaE	SEQ_341_10	FAGDNHIP_01166	CDS	3204	2.7.7.7	COG0587	K02337	DNA polymerase III subunit alpha
+dnaE	SEQ_341_10	FAGDNHIP_01166	CDS	3204	2.7.7.7	COG0587	K02337	DNA polymerase III subunit alpha
+dnaE	SEQ_341_10	FAGDNHIP_01166	CDS	3204	2.7.7.7	COG0587	K02337	DNA polymerase III subunit alpha
+dnaE	SEQ_341_10	FAGDNHIP_01166	CDS	3204	2.7.7.7	COG0587	K02337	DNA polymerase III subunit alpha
+dnaE	SEQ_341_10	FAGDNHIP_01166	CDS	3204	2.7.7.7	COG0587	K02337	DNA polymerase III subunit alpha
+dnaE	SEQ_341_10	FAGDNHIP_01166	CDS	3204	2.7.7.7	COG0587	K02337	DNA polymerase III subunit alpha
+dnaE	SEQ_341_10	FAGDNHIP_01166	CDS	3204	2.7.7.7	COG0587	K02337	DNA polymerase III subunit alpha
+metN	Brachy_908_11.fa	DPNJBGPE_01813	CDS	1065	3.6.3.-	COG1135	K02071	Methionine import ATP-binding protein MetN
+metN	Brachy_908_11.fa	DPNJBGPE_01813	CDS	1065	3.6.3.-	COG1135	K02071	Methionine import ATP-binding protein MetN
+aes	SEQ_900_4	LKFOIOBI_02353	CDS	1032	3.1.1.-	COG0657	K01066	Acetyl esterase
+aspC	Brevi_962_8.fa	AGDBFNGI_01852	CDS	1206	2.6.1.1	COG0436	K00813	Aspartate aminotransferase
+aspC	Brevi_962_8.fa	AGDBFNGI_01852	CDS	1206	2.6.1.1	COG0436	K00813	Aspartate aminotransferase
+aspC	Brevi_962_8.fa	AGDBFNGI_01852	CDS	1206	2.6.1.1	COG0436	K00813	Aspartate aminotransferase
+aspC	Brevi_962_8.fa	AGDBFNGI_01852	CDS	1206	2.6.1.1	COG0436	K00813	Aspartate aminotransferase
+aspC	Brevi_962_8.fa	AGDBFNGI_01852	CDS	1206	2.6.1.1	COG0436	K00813	Aspartate aminotransferase
+aspC	Brevi_962_8.fa	AGDBFNGI_01852	CDS	1206	2.6.1.1	COG0436	K00813	Aspartate aminotransferase
+aspC	Brevi_962_8.fa	AGDBFNGI_01852	CDS	1206	2.6.1.1	COG0436	K00813	Aspartate aminotransferase
+aspC	Brevi_962_8.fa	AGDBFNGI_01852	CDS	1206	2.6.1.1	COG0436	K00813	Aspartate aminotransferase
+aspC	Brevi_962_8.fa	AGDBFNGI_01852	CDS	1206	2.6.1.1	COG0436	K00813	Aspartate aminotransferase
+aspC	Brevi_962_8.fa	AGDBFNGI_01852	CDS	1206	2.6.1.1	COG0436	K00813	Aspartate aminotransferase
+aspC	Brevi_962_8.fa	AGDBFNGI_01852	CDS	1206	2.6.1.1	COG0436	K00813	Aspartate aminotransferase
+otsA	Brevi_900_6.fa	LDOPIMGM_00533	CDS	1560	2.4.1.-	COG0380	K00697	Trehalose-6-phosphate synthase
+otsA	Brevi_900_6.fa	LDOPIMGM_00533	CDS	1560	2.4.1.-	COG0380	K00697	Trehalose-6-phosphate synthase
+bcgIA	SEQ_876_5	IGOCDMGC_02727	CDS	2553	3.1.21.-		K03427	Restriction enzyme BgcI subunit alpha
+bchM	Brachy_341_9.fa	HAJKDPKL_02771	CDS	624	2.1.1.11	COG2227	K03428	Magnesium-protoporphyrin O-methyltransferase
+btuD	Brachy_341_9.fa	HAJKDPKL_01780	CDS	711	3.6.3.33		K06074	Vitamin B12 import ATP-binding protein BtuD
+cbbY	Brevi_876_7.fa	IHGJPHMH_02672	CDS	630	3.1.3.-	COG0637	K11846	Protein CbbY
+clcA	Brevi_876_7.fa	IHGJPHMH_00416	CDS	870	1.13.11.-		K03381	Chlorocatechol 1,2-dioxygenase
+cseC	Brachy_876_9.fa	AGBMBALL_00310	CDS	1233	2.7.13.3	COG0642	K05970	Sensor protein CseC
+dgoK1	Brevi_341_13.fa	AGEJDLBK_03442	CDS	780	2.7.1.58	COG3734	K00883	putative 2-dehydro-3-deoxygalactonokinase DgoK1
+dpkA	Brevi_876_7.fa	IHGJPHMH_03761	CDS	1011	1.5.1.21	COG2055	K13609	Delta(1)-pyrroline-2-carboxylate/Delta(1)-piperideine-2-carboxylate reductase
+dpp5	Brachy_900_8.fa	LJFCBDKD_01464	CDS	2091	3.4.14.-	COG1506	K08656	Dipeptidyl-peptidase 5
+ettA	Brachy_947_11.fa	DNNBHHGK_03146	CDS	1668		COG0488	K14486	Energy-dependent translational throttle protein EttA
+exsH	Brevi_876_7.fa	IHGJPHMH_03482	CDS	921	3.2.1.-		K16559	Endo-1,3-1,4-beta-glycanase ExsH
+ftsH3	Brevi_876_7.fa	IHGJPHMH_00419	CDS	1602	3.4.24.-		K08956	ATP-dependent zinc metalloprotease FtsH 3
+gatY	Brachy_876_9.fa	AGBMBALL_00375	CDS	915	4.1.2.40	COG0191	K08302	D-tagatose-1,6-bisphosphate aldolase subunit GatY
+hhaIM	Brachy_738_10.fa	JOIMIODL_02720	CDS	1119	2.1.1.37		K00558	Modification methylase HhaI
+hutI	Brachy_862_8.fa	FOMIDEFL_01062	CDS	1365	3.5.2.7	COG1228	K01468	Imidazolonepropionase
+mftF	Brevi_876_7.fa	IHGJPHMH_03476	CDS	1962	2.-.-.-	COG0463	K20886	Putative mycofactocin biosynthesis glycosyltransferase MftF
+npt	Brevi_962_8.fa	AGDBFNGI_02627	CDS	792	2.7.8.7		K06133	4'-phosphopantetheinyl transferase Npt
+pdxI	Brevi_876_7.fa	IHGJPHMH_00604	CDS	1227	1.1.1.65		K05275	Pyridoxine 4-dehydrogenase
+sipW	Brevi_962_8.fa	AGDBFNGI_02084	CDS	645	3.4.21.89	COG0681	K13280	Signal peptidase I W
+soj	Brevi_962_8.fa	AGDBFNGI_00724	CDS	897	3.6.-.-	COG1192	K03496 	Sporulation initiation inhibitor protein Soj
+tagU	SEQ_947_12	IFGBOHMA_02255	CDS	939	2.7.8.-	COG1316	K00968	Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+tuaD	Brevi_876_7.fa	IHGJPHMH_02493	CDS	1305	1.1.1.22	COG1004	K00012 	UDP-glucose 6-dehydrogenase TuaD
+virD4	Brevi_876_7.fa	IHGJPHMH_03553	CDS	1695			K03205	Protein VirD4
+ybjJ	Brachy_341_9.fa	HAJKDPKL_02764	CDS	1200			K20362	Inner membrane protein YbjJ
+yceI	Brevi_876_7.fa	IHGJPHMH_03294	CDS	546		COG2353	K08162	Protein YceI
+yfmC	SEQ_908_10	MOFHFCGN_00337	CDS	1011		COG4594	K02016	Fe(3+)-citrate-binding protein YfmC
+ygeA	Brevi_900_6.fa	LDOPIMGM_03513	CDS	744	5.-.-.-	COG1794	K01779	Putative racemase YgeA
+yhjE	Brachy_908_11.fa	DPNJBGPE_03288	CDS	1302			K03762	Inner membrane metabolite transport protein YhjE
+ykfB	Brevi_876_7.fa	IHGJPHMH_00417	CDS	1104	5.1.1.20	COG4948	K19802	L-Ala-D/L-Glu epimerase
+ywqE	SEQ_962_6	PIPEENFB_00726	CDS	765	3.1.3.48	COG4464	K01104	Tyrosine-protein phosphatase YwqE
+pbpA	Brachy_738_10.fa	JOIMIODL_02624	CDS	1446		COG0768	K21465	Penicillin-binding protein A
+pbpA	Brachy_738_10.fa	JOIMIODL_02624	CDS	1446		COG0768	K21465	Penicillin-binding protein A
+epsM	SEQ_876_5	IGOCDMGC_00551	CDS	615	2.3.1.-	COG0110	K19429	Putative acetyltransferase EpsM
+mepM	Brevi_JB5.fa	ADMANBBD_00939	CDS	1170	3.4.24.-	COG0739	K19304	Murein DD-endopeptidase MepM
+mepM	Brevi_JB5.fa	ADMANBBD_00939	CDS	1170	3.4.24.-	COG0739	K19304	Murein DD-endopeptidase MepM
+ampH	Brevi_862_7.fa	GGCDANDK_00715	CDS	1170	3.4.-.-	COG1680	K18988	D-alanyl-D-alanine-carboxypeptidase/endopeptidase AmpH
+ampH	Brevi_862_7.fa	GGCDANDK_00715	CDS	1170	3.4.-.-	COG1680	K18988	D-alanyl-D-alanine-carboxypeptidase/endopeptidase AmpH
+pezA	SEQ_876_5	IGOCDMGC_00386	CDS	240		COG1396	K18830	Antitoxin PezA
+pezA	SEQ_876_5	IGOCDMGC_00386	CDS	240		COG1396	K18830	Antitoxin PezA
+cdhR	Brevi_738_8.fa	MCCDGJGB_01961	CDS	957		COG4977	K17736	HTH-type transcriptional regulator CdhR
+dmlR	Brevi_900_6.fa	LDOPIMGM_01139	CDS	918			K16135	HTH-type transcriptional regulator DmlR
+tycC	Brevi_876_7.fa	IHGJPHMH_02500	CDS	1014			K16124	Tyrocidine synthase 3
+tycC	Brevi_876_7.fa	IHGJPHMH_02500	CDS	1014			K16124	Tyrocidine synthase 3
+irtB	Brachy_908_11.fa	DPNJBGPE_02023	CDS	1746	3.6.3.-	COG1132	K14699	Iron import ATP-binding/permease protein IrtB
+irtB	Brachy_908_11.fa	DPNJBGPE_02023	CDS	1746	3.6.3.-	COG1132	K14699	Iron import ATP-binding/permease protein IrtB
+pfbA	SEQ_738_7	BGMKIKPO_01587	CDS	1059		COG5434	K13925	Plasmin and fibronectin-binding protein A
+pbpA	Brachy_738_10.fa	JOIMIODL_02624	CDS	1446		COG0768	K12552	Penicillin-binding protein A
+pbpA	Brachy_738_10.fa	JOIMIODL_02624	CDS	1446		COG0768	K12552	Penicillin-binding protein A
+pbpA	Brachy_738_10.fa	JOIMIODL_02624	CDS	1446		COG0768	K12552	Penicillin-binding protein A
+fosB	SEQ_738_7	BGMKIKPO_03120	CDS	222	2.5.1.-		K11210	Metallothiol transferase FosB
+entS	Brevi_947_7.fa	IOFEINNK_01822	CDS	1290		COG0477	K08225	Enterobactin exporter EntS
+nrdH	Brachy_962_10.fa	MCMEOHNO_03422	CDS	246		COG0695	K06191	Glutaredoxin-like protein NrdH
+pbpA	Brachy_738_10.fa	JOIMIODL_02624	CDS	1446		COG0768	K05364	Penicillin-binding protein A
+pbpA	Brachy_738_10.fa	JOIMIODL_02624	CDS	1446		COG0768	K05364	Penicillin-binding protein A
+iucD	Brevi_947_7.fa	IOFEINNK_03577	CDS	1536	1.14.13.59	COG3486	K03897	L-lysine N6-monooxygenase
+psaB	Brevi_876_7.fa	IHGJPHMH_03764	CDS	603	1.97.1.12		K02690	Photosystem I P700 chlorophyll a apoprotein A2
+psaB	Brevi_876_7.fa	IHGJPHMH_03764	CDS	603	1.97.1.12		K02690	Photosystem I P700 chlorophyll a apoprotein A2
+blaI	Brevi_876_7.fa	IHGJPHMH_01089	CDS	363		COG3682	K02171	Transcriptional regulator BlaI
+blaI	Brevi_876_7.fa	IHGJPHMH_01089	CDS	363		COG3682	K02171	Transcriptional regulator BlaI
+blaI	Brevi_876_7.fa	IHGJPHMH_01089	CDS	363		COG3682	K02171	Transcriptional regulator BlaI
+agaS	Brachy_876_9.fa	AGBMBALL_00372	CDS	1125	3.5.99.-	COG2222	K02082	Putative D-galactosamine-6-phosphate deaminase AgaS
+dgoD	Brachy_962_10.fa	MCMEOHNO_00833	CDS	1149	4.2.1.6	COG4948	K01684	D-galactonate dehydratase
+trpG	Brevi_738_8.fa	MCCDGJGB_01543	CDS	675	4.1.3.27	COG0512	K01658	Anthranilate synthase component 2
+trpG	Brevi_738_8.fa	MCCDGJGB_01543	CDS	675	4.1.3.27	COG0512	K01658	Anthranilate synthase component 2
+trpG	Brevi_738_8.fa	MCCDGJGB_01543	CDS	675	4.1.3.27	COG0512	K01658	Anthranilate synthase component 2
+trpG	Brevi_738_8.fa	MCCDGJGB_01543	CDS	675	4.1.3.27	COG0512	K01658	Anthranilate synthase component 2
+adc	SEQ_862_5	HGOKLDLI_01877	CDS	735	4.1.1.4		K01574	Acetoacetate decarboxylase
+adc	SEQ_862_5	HGOKLDLI_01877	CDS	735	4.1.1.4		K01574	Acetoacetate decarboxylase
+lysC	SEQ_341_10	FAGDNHIP_00873	CDS	1203	2.7.2.4	COG0527	K00928	Aspartokinase 2
+lysC	SEQ_341_10	FAGDNHIP_00873	CDS	1203	2.7.2.4	COG0527	K00928	Aspartokinase 2
+lysC	SEQ_341_10	FAGDNHIP_00873	CDS	1203	2.7.2.4	COG0527	K00928	Aspartokinase 2
+lysC	SEQ_341_10	FAGDNHIP_00873	CDS	1203	2.7.2.4	COG0527	K00928	Aspartokinase 2
+dadA	Brevi_900_6.fa	LDOPIMGM_00883	CDS	1134	1.4.99.-		K00285	D-amino acid dehydrogenase
+abo	Brevi_962_8.fa	AGDBFNGI_03087	CDS	1155	1.5.3.19		K00315	4-methylaminobutanoate oxidase (formaldehyde-forming)
+bbp	SEQ_900_4	LKFOIOBI_00071	CDS	3855			K14194	Bone sialoprotein-binding protein
+bdbD	SEQ_341_10	FAGDNHIP_00214	CDS	609		COG1651	K03611	Disulfide bond formation protein D
+bglF	SEQ_BC9	EPECHOLL_00315	CDS	1896		COG1263	K02755	PTS system beta-glucoside-specific EIIBCA component
+bin3	SEQ_947_12	IFGBOHMA_02608	CDS	609			K07132	Putative transposon Tn552 DNA-invertase bin3
+davD	Brevi_900_6.fa	LDOPIMGM_01085	CDS	1422	1.2.1.20	COG1012	K00139	Glutarate-semialdehyde dehydrogenase DavD
+gdhIV	SEQ_900_4	LKFOIOBI_02832	CDS	759	1.1.1.47	COG1028	K13937 	Glucose 1-dehydrogenase 4
+haeIIIM	SEQ_962_6	PIPEENFB_01664	CDS	987	2.1.1.37		K00558	Modification methylase HaeIII
+hbpA	Brevi_900_6.fa	LDOPIMGM_03524	CDS	1746		COG0747	K02035	Heme-binding protein A
+hrdB	Brachy_962_10.fa	MCMEOHNO_01708	CDS	1293		COG0568	K03087	RNA polymerase principal sigma factor HrdB
+ldh2	Brachy_738_10.fa	JOIMIODL_00771	CDS	879	1.1.1.27		K00016	L-lactate dehydrogenase 2
+lgoT	Brevi_738_8.fa	MCCDGJGB_00463	CDS	1164			K08191	putative L-galactonate transporter
+licT	SEQ_738_7	BGMKIKPO_01397	CDS	843		COG3711	K03488	Transcription antiterminator LicT
+mmpR5	Brevi_900_6.fa	LDOPIMGM_01083	CDS	495			K18831	HTH-type transcriptional regulator MmpR5
+parA	SEQ_900_4	LKFOIOBI_02734	CDS	795			K03593	Chromosome partitioning protein ParA
+pre	Brachy_862_8.fa	FOMIDEFL_03006	CDS	1101			K18640	Plasmid recombination enzyme
+pucK	SEQ_962_6	PIPEENFB_02586	CDS	1269		COG2233	K16169 	Uric acid permease PucK
+qacA	Brevi_876_7.fa	IHGJPHMH_02722	CDS	1569		COG0477	K04727	Antiseptic resistance protein
+rbsR	Brachy_962_10.fa	MCMEOHNO_00977	CDS	1209		COG1609	K02529	Ribose operon repressor
+recD2	Brevi_738_8.fa	MCCDGJGB_01006	CDS	3333	3.6.4.12		K03581	ATP-dependent RecD-like DNA helicase
+rppH	SEQ_738_7	BGMKIKPO_01254	CDS	852	3.6.1.-		K08311	RNA pyrophosphohydrolase
+sau3AIR	SEQ_341_10	FAGDNHIP_02422	CDS	1545	3.1.21.4		K03573	Type-2 restriction enzyme Sau3AI
+sftA	SEQ_876_5	IGOCDMGC_00302	CDS	3783			K03466	DNA translocase SftA
+slmA	Brachy_900_8.fa	LJFCBDKD_02956	CDS	576			K05501	Nucleoid occlusion factor SlmA
+spo0C	Brachy_900_8.fa	LJFCBDKD_03506	CDS	1305		COG1475	K03497	Chromosome-partitioning protein Spo0J
+ssb2	Brachy_900_8.fa	LJFCBDKD_01280	CDS	432		COG0629	K03111	Single-stranded DNA-binding protein 2
+styD	Brevi_341_13.fa	AGEJDLBK_01921	CDS	1512	1.2.1.39		K00146	Phenylacetaldehyde dehydrogenase
+ttuC'	SEQ_900_4	LKFOIOBI_00675	CDS	1098	1.1.1.93		K07246 	putative tartrate dehydrogenase/decarboxylase TtuC'
+xerS	NA	NA	NA	NA	NA	NA	K14059 	NA
+ydhK	SEQ_908_10	MOFHFCGN_02705	CDS	546			K12360	putative protein YdhK
+ydiS	Brevi_900_6.fa	LDOPIMGM_00171	CDS	1824	3.1.21.4	COG1401	K00313	Type-2 restriction enzyme BsuMI component YdiS
+ydjP	Brevi_900_6.fa	LDOPIMGM_01531	CDS	885	3.-.-.-	COG0596	K01076	AB hydrolase superfamily protein YdjP
+yesO	Brachy_876_9.fa	AGBMBALL_01550	CDS	1323		COG1653	K10192	Putative ABC transporter substrate-binding protein YesO
+yhcR	Brevi_900_6.fa	LDOPIMGM_01680	CDS	2652	3.1.31.-	COG0737	K01081	Endonuclease YhcR
+yhjX	Brachy_908_11.fa	DPNJBGPE_01217	CDS	1572			K08177	putative MFS-type transporter YhjX
+yijE	Brevi_900_6.fa	LDOPIMGM_03259	CDS	1023			K13869	putative cystine transporter YijE
+yjcD	SEQ_900_4	LKFOIOBI_01829	CDS	2139	3.6.4.12	COG0210	K03657 	Putative ATP-dependent DNA helicase YjcD
+ykfA	Brevi_947_7.fa	IOFEINNK_00854	CDS	1131	3.4.16.-	COG1619	K01297	putative murein peptide carboxypeptidase
+yvoA	SEQ_947_12	IFGBOHMA_00599	CDS	714		COG2188	K05836	HTH-type transcriptional repressor YvoA
+yxaF	Brachy_900_8.fa	LJFCBDKD_01700	CDS	183			K18939	putative HTH-type transcriptional regulator YxaF
+yyaP	Brevi_908_7.fa	EBMLHIBA_03376	CDS	549		COG0262	K21806	putative protein YyaP
+zosA	SEQ_BC9	EPECHOLL_00060	CDS	1884	3.6.3.-	COG2217	K01534	Zinc-transporting ATPase
+rspR	Brachy_900_8.fa	LJFCBDKD_03301	CDS	771		COG1802	K22293	HTH-type transcriptional repressor RspR
+tarD	Brevi_738_8.fa	MCCDGJGB_02001	CDS	390	2.7.7.39	COG0615	K22209	Glycerol-3-phosphate cytidylyltransferase
+xylB	Brachy_947_11.fa	DNNBHHGK_01410	CDS	1701	2.7.1.17	COG1070	K22185	Xylulose kinase
+tcaA	SEQ_738_7	BGMKIKPO_00482	CDS	1305			K21463	Membrane-associated protein TcaA
+icaC	SEQ_BC9	EPECHOLL_02256	CDS	1077		COG3936	K21462	putative poly-beta-1,6-N-acetyl-D-glucosamine export protein
+ade	Brevi_900_6.fa	LDOPIMGM_03531	CDS	1506	3.5.4.2		K21053	Adenine deaminase
+yefM	SEQ_900_4	LKFOIOBI_00663	CDS	267		COG2161	K19159	Antitoxin YefM
+yoeB	SEQ_900_4	LKFOIOBI_02551	CDS	270	3.1.-.-	COG4115	K19158	Toxin YoeB
+lldR	Brevi_900_6.fa	LDOPIMGM_03256	CDS	699		COG2186	K18927	Putative L-lactate dehydrogenase operon regulatory protein
+fadD3	Brevi_JB5.fa	ADMANBBD_02373	CDS	285	6.2.1.41	COG0318	K18687	3-[(3aS,4S,7aS)-7a-methyl-1,5-dioxo-octahydro-1H-inden-4-yl]propanoyl:CoA ligase
+tetR	Brachy_738_10.fa	JOIMIODL_01809	CDS	588			K18476	Tetracycline repressor protein class D
+padC	SEQ_900_4	LKFOIOBI_00683	CDS	441	4.1.1.-	COG3479	K18362	Phenolic acid decarboxylase PadC
+dgaE	SEQ_900_4	LKFOIOBI_00026	CDS	1107	4.3.1.29		K17468	D-glucosaminate-6-phosphate ammonia lyase
+dgaF	SEQ_900_4	LKFOIOBI_00027	CDS	750	4.1.2.14		K17463	2-dehydro-3-deoxy-phosphogluconate aldolase
+yxeO	SEQ_900_4	LKFOIOBI_00526	CDS	747	3.6.3.-	COG1126	K16963	putative amino-acid import ATP-binding protein YxeO
+yxeO	SEQ_900_4	LKFOIOBI_00526	CDS	747	3.6.3.-	COG1126	K16963	putative amino-acid import ATP-binding protein YxeO
+yxeM	Brevi_900_6.fa	LDOPIMGM_03652	CDS	717		COG0834	K16961	putative amino-acid-binding protein YxeM
+yxeM	Brevi_900_6.fa	LDOPIMGM_03652	CDS	717		COG0834	K16961	putative amino-acid-binding protein YxeM
+ecfA2	SEQ_738_7	BGMKIKPO_02229	CDS	864	3.6.3.-		K16787	Energy-coupling factor transporter ATP-binding protein EcfA2
+ecfA2	SEQ_738_7	BGMKIKPO_02229	CDS	864	3.6.3.-		K16787	Energy-coupling factor transporter ATP-binding protein EcfA2
+ecfA1	SEQ_900_4	LKFOIOBI_00595	CDS	810	3.6.3.-	COG1122	K16786	Energy-coupling factor transporter ATP-binding protein EcfA1
+ecfA1	SEQ_900_4	LKFOIOBI_00595	CDS	810	3.6.3.-	COG1122	K16786	Energy-coupling factor transporter ATP-binding protein EcfA1
+gpmB	SEQ_900_4	LKFOIOBI_02767	CDS	231	5.4.2.-		K15634	phosphoglycerate mutase GpmB
+gpmB	SEQ_900_4	LKFOIOBI_02767	CDS	231	5.4.2.-		K15634	phosphoglycerate mutase GpmB
+gpmB	SEQ_900_4	LKFOIOBI_02767	CDS	231	5.4.2.-		K15634	phosphoglycerate mutase GpmB
+irtA	Brachy_900_8.fa	LJFCBDKD_02454	CDS	1818	3.6.3.-	COG1132	K14698	Iron import ATP-binding/permease protein IrtA
+irtA	Brachy_900_8.fa	LJFCBDKD_02454	CDS	1818	3.6.3.-	COG1132	K14698	Iron import ATP-binding/permease protein IrtA
+lldR	Brevi_900_6.fa	LDOPIMGM_03256	CDS	699		COG2186	K14348	Putative L-lactate dehydrogenase operon regulatory protein
+dsdC	Brevi_900_6.fa	LDOPIMGM_00226	CDS	876		COG0583	K13636	HTH-type transcriptional regulator DsdC
+dctM	Brevi_JB5.fa	ADMANBBD_00841	CDS	1542		COG1593	K11690	C4-dicarboxylate TRAP transporter large permease protein DctM
+dctM	Brevi_JB5.fa	ADMANBBD_00841	CDS	1542		COG1593	K11690	C4-dicarboxylate TRAP transporter large permease protein DctM
+frlR	SEQ_900_4	LKFOIOBI_00029	CDS	726		COG2188	K10711	putative fructoselysine utilization operon transcriptional repressor
+xylG	Brachy_738_10.fa	JOIMIODL_03407	CDS	1572	3.6.3.17	COG1129	K10545	Xylose import ATP-binding protein XylG
+xylG	Brachy_738_10.fa	JOIMIODL_03407	CDS	1572	3.6.3.17	COG1129	K10545	Xylose import ATP-binding protein XylG
+bglH	SEQ_BC9	EPECHOLL_02191	CDS	1422	3.2.1.86	COG2723	K10124	Aryl-phospho-beta-D-glucosidase BglH
+tagF	SEQ_876_5	IGOCDMGC_01844	CDS	2319	2.7.8.12	COG1887	K09809	Teichoic acid poly(glycerol phosphate) polymerase
+prpF	Brevi_900_6.fa	LDOPIMGM_01493	CDS	1167	5.3.3.-	COG2828	K09788	2-methyl-aconitate isomerase
+dgoT	Brevi_876_7.fa	IHGJPHMH_03348	CDS	1305			K08194	D-galactonate transporter
+mdtH	SEQ_BC9	EPECHOLL_00173	CDS	1170			K08162	Multidrug resistance protein MdtH
+mcrA	Brevi_JB5.fa	ADMANBBD_02336	CDS	627	1.5.3.-		K07451	Mitomycin radical oxidase
+aldA	SEQ_900_4	LKFOIOBI_01746	CDS	1425	1.2.1.22	COG1012	K07248	Lactaldehyde dehydrogenase
+aldA	SEQ_900_4	LKFOIOBI_01746	CDS	1425	1.2.1.22	COG1012	K07248	Lactaldehyde dehydrogenase
+ramB	Brachy_738_10.fa	JOIMIODL_01038	CDS	1485		COG1396	K07110	HTH-type transcriptional regulator RamB
+idnT	SEQ_900_4	LKFOIOBI_00030	CDS	1335		COG2610	K06157	Gnt-II system L-idonate transporter
+gntR	Brevi_947_7.fa	IOFEINNK_00610	CDS	639			K06145	putative D-xylose utilization operon transcriptional repressor
+yjaB	SEQ_341_10	FAGDNHIP_02657	CDS	432	2.3.1.-	COG0454	K03827	putative N-acetyltransferase YjaB
+polC	SEQ_862_5	HGOKLDLI_01035	CDS	4317	2.7.7.7		K03763	DNA polymerase III PolC-type
+polC	SEQ_862_5	HGOKLDLI_01035	CDS	4317	2.7.7.7		K03763	DNA polymerase III PolC-type
+polC	SEQ_862_5	HGOKLDLI_01035	CDS	4317	2.7.7.7		K03763	DNA polymerase III PolC-type
+polC	SEQ_862_5	HGOKLDLI_01035	CDS	4317	2.7.7.7		K03763	DNA polymerase III PolC-type
+polC	SEQ_862_5	HGOKLDLI_01035	CDS	4317	2.7.7.7		K03763	DNA polymerase III PolC-type
+polC	SEQ_862_5	HGOKLDLI_01035	CDS	4317	2.7.7.7		K03763	DNA polymerase III PolC-type
+polC	SEQ_862_5	HGOKLDLI_01035	CDS	4317	2.7.7.7		K03763	DNA polymerase III PolC-type
+rhaM	Brachy_962_10.fa	MCMEOHNO_03232	CDS	360	5.1.3.32		K03534	L-rhamnose mutarotase
+ubiE	SEQ_908_10	MOFHFCGN_02733	CDS	603	2.1.1.163		K03183	Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE
+polC	SEQ_862_5	HGOKLDLI_01035	CDS	4317	2.7.7.7		K02322	DNA polymerase III PolC-type
+polC	SEQ_862_5	HGOKLDLI_01035	CDS	4317	2.7.7.7		K02322	DNA polymerase III PolC-type
+polC	SEQ_862_5	HGOKLDLI_01035	CDS	4317	2.7.7.7		K02322	DNA polymerase III PolC-type
+polC	SEQ_862_5	HGOKLDLI_01035	CDS	4317	2.7.7.7		K02322	DNA polymerase III PolC-type
+metC	SEQ_738_7	BGMKIKPO_00314	CDS	1176	4.4.1.8	COG0626	K01760	Cystathionine beta-lyase MetC
+metC	SEQ_738_7	BGMKIKPO_00314	CDS	1176	4.4.1.8	COG0626	K01760	Cystathionine beta-lyase MetC
+dgoA	Brachy_341_9.fa	HAJKDPKL_01362	CDS	633	4.1.2.21	COG0800	K01631	2-dehydro-3-deoxy-6-phosphogalactonate aldolase
+ade	Brevi_900_6.fa	LDOPIMGM_03531	CDS	1506	3.5.4.2		K01486	Adenine deaminase
+hsdR	Brevi_738_8.fa	MCCDGJGB_02601	CDS	2934	3.1.21.3		K01153	Type-1 restriction enzyme R protein
+mcrA	Brevi_JB5.fa	ADMANBBD_02336	CDS	627	1.5.3.-		K00399	Mitomycin radical oxidase
+ssuE	SEQ_341_10	FAGDNHIP_01283	CDS	540	1.5.1.38	COG0431	K00299	FMN reductase (NADPH)
+ssuE	SEQ_341_10	FAGDNHIP_01283	CDS	540	1.5.1.38	COG0431	K00299	FMN reductase (NADPH)
+fabG	Brevi_862_7.fa	GGCDANDK_00816	CDS	804	1.1.1.100		K00059	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+fabG	Brevi_862_7.fa	GGCDANDK_00816	CDS	804	1.1.1.100		K00059	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+fabG	Brevi_862_7.fa	GGCDANDK_00816	CDS	804	1.1.1.100		K00059	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+fabG	Brevi_862_7.fa	GGCDANDK_00816	CDS	804	1.1.1.100		K00059	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+fabG	Brevi_862_7.fa	GGCDANDK_00816	CDS	804	1.1.1.100		K00059	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+adh	Brevi_738_8.fa	MCCDGJGB_00909	CDS	1053	1.1.1.1		K13952	Alcohol dehydrogenase
+arsA	Brevi_962_8.fa	AGDBFNGI_00335	CDS	984	3.6.3.16		K01551	Arsenical pump-driving ATPase
+arsD	SEQ_908_10	MOFHFCGN_02190	CDS	348			K01551	Arsenical resistance operon trans-acting repressor ArsD
+atsA	Brachy_862_8.fa	FOMIDEFL_03139	CDS	1470	3.1.6.1	COG3119	K12374	Arylsulfatase
+crr	SEQ_BC9	EPECHOLL_01155	CDS	501			K07753	PTS system glucose-specific EIIA component
+czcO	Brevi_900_6.fa	LDOPIMGM_02969	CDS	1239	1.-.-.-	COG2072	K07222	putative oxidoreductase CzcO
+fas6	SEQ_947_12	IFGBOHMA_02547	CDS	237	3.2.2.-		K06966 	Cytokinin riboside 5'-monophosphate phosphoribohydrolase
+ftsK	Brevi_962_8.fa	AGDBFNGI_01627	CDS	2778		COG1674	K10418	DNA translocase FtsK
+gatC	Brachy_738_10.fa	JOIMIODL_00843	CDS	306	6.3.5.-	COG0721	K02435	Glutamyl-tRNA(Gln) amidotransferase subunit C
+lip	SEQ_908_10	MOFHFCGN_02587	CDS	2262	3.1.1.3	COG1075	K13618 	Lipase
+mco	SEQ_908_10	MOFHFCGN_01573	CDS	1389	1.-.-.-		K19791	Multicopper oxidase mco
+moxC	Brachy_962_10.fa	MCMEOHNO_00750	CDS	1086	1.14.-.-	COG2141	K20938	Putative monooxygenase MoxC
+paeR7IM	Brachy_341_9.fa	HAJKDPKL_00532	CDS	3549	2.1.1.72		K15336	Modification methylase PaeR7I
+puuC	Brevi_JB5.fa	ADMANBBD_00333	CDS	1512	1.2.1.5	COG1012	K09472	NADP/NAD-dependent aldehyde dehydrogenase PuuC
+repD	SEQ_862_5	HGOKLDLI_02804	CDS	933			K10844	Replication initiation protein
+rpe	Brachy_900_8.fa	LJFCBDKD_02053	CDS	687	5.1.3.1	COG0036	K01783	Ribulose-phosphate 3-epimerase
+sceD	SEQ_738_7	BGMKIKPO_00793	CDS	726	3.2.-.-		K08235	putative transglycosylase SceD
+sdpR	SEQ_738_7	BGMKIKPO_00054	CDS	315		COG0640	K03892	Transcriptional repressor SdpR
+sraP	SEQ_908_10	MOFHFCGN_02564	CDS	420			K21411	Serine-rich adhesin for platelets
+ttgW	Brevi_876_7.fa	IHGJPHMH_00094	CDS	768			K03577	putative HTH-type transcriptional regulator TtgW
+ulaA	Brachy_738_10.fa	JOIMIODL_00310	CDS	1629		COG3037	K03475 	Ascorbate-specific PTS system EIIC component
+ulaB	SEQ_908_10	MOFHFCGN_02502	CDS	279	2.7.1.194		K03475 	Ascorbate-specific PTS system EIIB component
+ulaC	SEQ_900_4	LKFOIOBI_00161	CDS	441		COG1762	K03475 	Ascorbate-specific PTS system EIIA component
+ydaG	SEQ_908_10	MOFHFCGN_01616	CDS	426		COG3871	K18881	General stress protein 26
+yvbW	Brachy_908_11.fa	DPNJBGPE_03276	CDS	984		COG1113	K03293	putative amino acid permease YvbW
+cysL	Brevi_876_7.fa	IHGJPHMH_00363	CDS	933		COG0583	K21900	HTH-type transcriptional regulator CysL
+cypD	Brevi_908_7.fa	EBMLHIBA_03671	CDS	594	1.3.99.36		K21818	Cypemycin cysteine dehydrogenase (decarboxylating)
+rclA	SEQ_738_7	BGMKIKPO_01194	CDS	1323		COG1249	K21739	putative pyridine nucleotide-disulfide oxidoreductase RclA
+btr	SEQ_962_6	PIPEENFB_02537	CDS	885		COG0614	K21701	HTH-type transcriptional activator Btr
+tarF	SEQ_908_10	MOFHFCGN_00505	CDS	1692	2.7.8.45	COG1887	K21591	Teichoic acid glycerol-phosphate transferase
+radD	Brachy_341_9.fa	HAJKDPKL_01087	CDS	1656	3.6.4.12	COG1061	K19789	Putative DNA repair helicase RadD
+exuR	SEQ_962_6	PIPEENFB_01991	CDS	945		COG1609	K19775	putative HTH-type transcriptional repressor ExuR
+epsJ	SEQ_962_6	PIPEENFB_01065	CDS	1002	2.4.-.-	COG0463	K19427	putative glycosyltransferase EpsJ
+tarL	SEQ_962_6	PIPEENFB_01247	CDS	1689	2.7.8.14	COG1887	K18704	Teichoic acid ribitol-phosphate polymerase TarL
+arsC	SEQ_862_5	HGOKLDLI_00476	CDS	396	1.20.4.4		K18701	Arsenate reductase
+budC	Brevi_862_7.fa	GGCDANDK_01758	CDS	804	1.1.1.76		K18009	L-2,3-butanediol dehydrogenase
+pglJ	SEQ_908_10	MOFHFCGN_02909	CDS	732	2.4.1.291	COG0438	K17248	N-acetylgalactosamine-N,N'-diacetylbacillosaminyl-diphospho-undecaprenol 4-alpha-N-acetylgalactosaminyltransferase
+araQ	Brachy_JB7.fa	NGPGJBKC_02679	CDS	879		COG0395	K17236	L-arabinose transport system permease protein AraQ
+araQ	Brachy_JB7.fa	NGPGJBKC_02679	CDS	879		COG0395	K17236	L-arabinose transport system permease protein AraQ
+araP	Brachy_947_11.fa	DNNBHHGK_01157	CDS	1173		COG1175	K17235	L-arabinose transport system permease protein AraP
+araP	Brachy_947_11.fa	DNNBHHGK_01157	CDS	1173		COG1175	K17235	L-arabinose transport system permease protein AraP
+fdm	Brachy_341_9.fa	HAJKDPKL_00661	CDS	1194	1.2.98.1		K17068	Formaldehyde dismutase
+fdm	Brachy_341_9.fa	HAJKDPKL_00661	CDS	1194	1.2.98.1		K17068	Formaldehyde dismutase
+malI	Brachy_908_11.fa	DPNJBGPE_03272	CDS	1005		COG1609	K16136	Maltose regulon regulatory protein MalI
+mlc	Brachy_876_9.fa	AGBMBALL_02021	CDS	1386		COG1940	K15545	Protein mlc
+gsiB	Brachy_900_8.fa	LJFCBDKD_00512	CDS	1788		COG0747	K13889	Glutathione-binding protein GsiB
+gsiB	Brachy_900_8.fa	LJFCBDKD_00512	CDS	1788		COG0747	K13889	Glutathione-binding protein GsiB
+gbsB	SEQ_908_10	MOFHFCGN_02819	CDS	1155	1.1.1.1	COG1454	K11440	Alcohol dehydrogenase
+oppF	SEQ_862_5	HGOKLDLI_00436	CDS	945		COG4608	K10823	Oligopeptide transport ATP-binding protein OppF
+oppF	SEQ_862_5	HGOKLDLI_00436	CDS	945		COG4608	K10823	Oligopeptide transport ATP-binding protein OppF
+oppF	SEQ_862_5	HGOKLDLI_00436	CDS	945		COG4608	K10823	Oligopeptide transport ATP-binding protein OppF
+oppF	SEQ_862_5	HGOKLDLI_00436	CDS	945		COG4608	K10823	Oligopeptide transport ATP-binding protein OppF
+glnP	Brachy_908_11.fa	DPNJBGPE_01560	CDS	867		COG0765	K10037	putative glutamine ABC transporter permease protein GlnP
+glnP	Brachy_908_11.fa	DPNJBGPE_01560	CDS	867		COG0765	K10037	putative glutamine ABC transporter permease protein GlnP
+purR	SEQ_900_4	LKFOIOBI_02471	CDS	825		COG0503	K09685	Pur operon repressor
+lytM	Brachy_341_9.fa	HAJKDPKL_02985	CDS	645	3.4.24.75	COG0739	K08259	Glycyl-glycine endopeptidase LytM
+lytM	Brachy_341_9.fa	HAJKDPKL_02985	CDS	645	3.4.24.75	COG0739	K08259	Glycyl-glycine endopeptidase LytM
+hxlB	SEQ_947_12	IFGBOHMA_00991	CDS	549	5.3.1.27	COG0794	K08094	3-hexulose-6-phosphate isomerase
+hxlB	SEQ_947_12	IFGBOHMA_00991	CDS	549	5.3.1.27	COG0794	K08094	3-hexulose-6-phosphate isomerase
+desK	Brachy_862_8.fa	FOMIDEFL_00020	CDS	1170	2.7.13.3	COG4585	K07778	Sensor histidine kinase DesK
+desK	Brachy_862_8.fa	FOMIDEFL_00020	CDS	1170	2.7.13.3	COG4585	K07778	Sensor histidine kinase DesK
+desK	Brachy_862_8.fa	FOMIDEFL_00020	CDS	1170	2.7.13.3	COG4585	K07778	Sensor histidine kinase DesK
+dcuR	Brevi_908_7.fa	EBMLHIBA_03262	CDS	714		COG4565	K07703	Transcriptional regulatory protein DcuR
+dcuR	Brevi_908_7.fa	EBMLHIBA_03262	CDS	714		COG4565	K07703	Transcriptional regulatory protein DcuR
+desR	Brachy_341_9.fa	HAJKDPKL_01484	CDS	642		COG2197	K07693	Transcriptional regulatory protein DesR
+desR	Brachy_341_9.fa	HAJKDPKL_01484	CDS	642		COG2197	K07693	Transcriptional regulatory protein DesR
+fitB	Brevi_862_7.fa	GGCDANDK_00360	CDS	426	3.1.-.-		K07062	Toxin FitB
+xerD	Brevi_862_7.fa	GGCDANDK_03736	CDS	1026		COG4974	K04763	Tyrosine recombinase XerD
+arsB	SEQ_341_10	FAGDNHIP_01661	CDS	1293		COG1055	K03893	Arsenical pump membrane protein
+proP	Brachy_738_10.fa	JOIMIODL_01671	CDS	1476			K03762	Proline/betaine transporter
+xerC	Brevi_738_8.fa	MCCDGJGB_02446	CDS	1101		COG4974	K03733	Tyrosine recombinase XerC
+purR	SEQ_900_4	LKFOIOBI_02471	CDS	825		COG0503	K03604	Pur operon repressor
+hemA	SEQ_876_5	IGOCDMGC_00876	CDS	1332	1.2.1.70	COG0373	K02492	Glutamyl-tRNA reductase
+rpiB	SEQ_341_10	FAGDNHIP_00259	CDS	447	5.3.1.6	COG0698	K01808	Ribose-5-P isomerase B
+rpiB	SEQ_341_10	FAGDNHIP_00259	CDS	447	5.3.1.6	COG0698	K01808	Ribose-5-P isomerase B
+rpiB	SEQ_341_10	FAGDNHIP_00259	CDS	447	5.3.1.6	COG0698	K01808	Ribose-5-P isomerase B
+phrB	SEQ_908_10	MOFHFCGN_01617	CDS	1377	4.1.99.3	COG0415	K01669	Deoxyribodipyrimidine photo-lyase
+iaaM	Brevi_908_7.fa	EBMLHIBA_03674	CDS	1857	1.13.12.3		K00466	Tryptophan 2-monooxygenase
+gldA	SEQ_341_10	FAGDNHIP_02600	CDS	1101	1.1.1.6		K00005	Glycerol dehydrogenase
+gldA	SEQ_341_10	FAGDNHIP_02600	CDS	1101	1.1.1.6		K00005	Glycerol dehydrogenase
+aam	Brevi_341_13.fa	AGEJDLBK_01914	CDS	1518	3.5.1.13	COG0154	K01426	Acylamidase
+acr1	Brachy_908_11.fa	DPNJBGPE_00679	CDS	849	1.2.1.-	COG3320	K13356 	Fatty acyl-CoA reductase
+aglB	Brachy_947_11.fa	DNNBHHGK_03387	CDS	1386	3.2.1.122	COG1486	K01232	6-phospho-alpha-glucosidase
+aiiA	Brevi_947_7.fa	IOFEINNK_02831	CDS	927	3.1.1.81		K13075	N-acyl homoserine lactonase
+bmrA	SEQ_908_10	MOFHFCGN_01014	CDS	1566	3.6.3.-	COG1132	K18104	Multidrug resistance ABC transporter ATP-binding/permease protein BmrA
+cap8A	SEQ_947_12	IFGBOHMA_02602	CDS	666		COG3944	K19420	Capsular polysaccharide type 8 biosynthesis protein cap8A
+cnrH	Brevi_947_7.fa	IOFEINNK_00201	CDS	1245			K03088	RNA polymerase sigma factor CnrH
+cotA	Brevi_947_7.fa	IOFEINNK_00318	CDS	1515		COG2132	K06324	Spore coat protein A
+crnA	Brachy_962_10.fa	MCMEOHNO_03379	CDS	753	3.5.2.10		K01470	Creatinine amidohydrolase
+eccC	Brevi_947_7.fa	IOFEINNK_03722	CDS	3789		COG1674	K03466 	ESX secretion system protein EccC
+epsD	SEQ_947_12	IFGBOHMA_02250	CDS	1155	2.4.-.-		K02453	Putative glycosyltransferase EpsD
+ethR	Brevi_947_7.fa	IOFEINNK_03159	CDS	492			K21961	HTH-type transcriptional regulator EthR
+exoI	Brachy_947_11.fa	DNNBHHGK_03393	CDS	1536	3.2.1.52	COG3525	K12373	Beta-hexosaminidase
+fabG1	Brachy_947_11.fa	DNNBHHGK_01620	CDS	726	1.1.1.100		K19336	3-oxoacyl-[acyl-carrier-protein] reductase FabG1
+fepB	Brevi_947_7.fa	IOFEINNK_01006	CDS	999		COG4592	K02016	Ferrienterobactin-binding periplasmic protein
+fepD	Brachy_341_9.fa	HAJKDPKL_02536	CDS	1104		COG0609	K02016	Ferric enterobactin transport system permease protein FepD
+fepG	Brachy_862_8.fa	FOMIDEFL_00518	CDS	1113		COG4779	K02016	Ferric enterobactin transport system permease protein FepG
+gatA	Brevi_908_7.fa	EBMLHIBA_00055	CDS	1725	6.3.5.7	COG0154	K02433	Glutamyl-tRNA(Gln) amidotransferase subunit A
+glcB	SEQ_947_12	IFGBOHMA_00316	CDS	375		COG2190	K02790	PTS system glucoside-specific EIICBA component
+glcR	Brachy_341_9.fa	HAJKDPKL_01650	CDS	807		COG1349	K02430	HTH-type transcriptional repressor GlcR
+gtaB	Brevi_876_7.fa	IHGJPHMH_00553	CDS	903	2.7.7.9	COG1210	K00963	UTP--glucose-1-phosphate uridylyltransferase
+helD	Brachy_908_11.fa	DPNJBGPE_02551	CDS	2277	3.6.4.12	COG3973	K10884	DNA helicase IV
+hepA	Brachy_947_11.fa	DNNBHHGK_00509	CDS	1758		COG1132	K06148	Heterocyst differentiation ATP-binding protein HepA
+hldE	Brachy_947_11.fa	DNNBHHGK_03389	CDS	996	2.7.7.70		K03272	Bifunctional protein HldE
+hmgA	Brevi_947_7.fa	IOFEINNK_03074	CDS	1206	1.13.11.5	COG3508	K00451	Homogentisate 1,2-dioxygenase
+ilvX	Brevi_JB5.fa	ADMANBBD_03535	CDS	1647	2.2.1.6	COG0028	K01652	Putative acetolactate synthase large subunit IlvX
+laaA	Brevi_947_7.fa	IOFEINNK_03086	CDS	912	3.5.1.101		K18457	L-amino acid amidase
+lacF	Brachy_341_9.fa	HAJKDPKL_02910	CDS	918			K18457	Lactose transport system permease protein LacF
+mbtI	Brevi_962_8.fa	AGDBFNGI_01177	CDS	1407	5.4.99.5	COG0147	K21483	Salicylate synthase
+mbtI	Brachy_876_9.fa	AGBMBALL_00177	CDS	1194	2.1.-.-		K11941	Glucans biosynthesis protein C
+mngB	Brachy_862_8.fa	FOMIDEFL_03487	CDS	3261	3.2.1.170	COG0383	K15524	Mannosylglycerate hydrolase
+mta	Brevi_JB5.fa	ADMANBBD_02937	CDS	741		COG0789	K21089	HTH-type transcriptional activator mta
+oprF	Brachy_947_11.fa	DNNBHHGK_02288	CDS	1539		COG2885	K07275	Outer membrane porin F
+otcC	Brevi_947_7.fa	IOFEINNK_03612	CDS	1446	1.14.13.38		K05712	Anhydrotetracycline monooxygenase
+pbuE	SEQ_738_7	BGMKIKPO_01235	CDS	1164		COG2814	K18567	Purine efflux pump PbuE
+pcaU	Brevi_947_7.fa	IOFEINNK_02532	CDS	702		COG1414	K10973	Pca operon regulatory protein
+rbsK	Brevi_947_7.fa	IOFEINNK_00621	CDS	864	2.7.1.15	COG0524	K00852	Ribokinase
+rhaR	Brevi_738_8.fa	MCCDGJGB_03563	CDS	924			K21089	HTH-type transcriptional activator RhaR
+ripA	Brachy_862_8.fa	FOMIDEFL_02350	CDS	786		COG2207	K21089	HTH-type transcriptional regulator RipA
+srkA	Brevi_947_7.fa	IOFEINNK_03678	CDS	795	2.7.11.1		K08835	Stress response kinase A
+tetA	Brevi_947_7.fa	IOFEINNK_02389	CDS	1419			K08151	Tetracycline resistance protein, class C
+thcB	Brevi_947_7.fa	IOFEINNK_03071	CDS	2334	1.14.-.-		K00327 	Cytochrome P450 116
+thrB	Brevi_947_7.fa	IOFEINNK_01774	CDS	909	2.7.1.39	COG0083	K00872	Homoserine kinase
+virC1	Brevi_947_7.fa	IOFEINNK_03062	CDS	639			K03496	Protein virC1
+viuB	Brachy_876_9.fa	AGBMBALL_03444	CDS	987		COG2375	K07229	Vibriobactin utilization protein ViuB
+wfgD	SEQ_947_12	IFGBOHMA_02245	CDS	789	2.4.1.305		K21363	UDP-Glc:alpha-D-GlcNAc-diphosphoundecaprenol beta-1,3-glucosyltransferase WfgD
+xecD	Brevi_947_7.fa	IOFEINNK_03078	CDS	801	1.1.1.268		K18009	2-(R)-hydroxypropyl-CoM dehydrogenase
+yokF	Brachy_908_11.fa	DPNJBGPE_03333	CDS	432	3.1.-.-	COG1525	K01174	SPBc2 prophage-derived endonuclease YokF
+yycE	Brevi_947_7.fa	IOFEINNK_00333	CDS	267			K01759	putative protein YycE
+vldH	SEQ_947_12	IFGBOHMA_01882	CDS	645	3.1.3.101		K20437	Validoxylamine A 7'-phosphate phosphatase
+nosF	SEQ_BC9	EPECHOLL_01827	CDS	897		COG1131	K19340	putative ABC transporter ATP-binding protein NosF
+ntdC	Brevi_341_13.fa	AGEJDLBK_02866	CDS	1101	1.1.1.361	COG0673	K18652	Glucose-6-phosphate 3-dehydrogenase
+glgM	Brachy_738_10.fa	JOIMIODL_01633	CDS	1224	2.4.1.342	COG0438	K16148	Alpha-maltose-1-phosphate synthase
+nikB	SEQ_908_10	MOFHFCGN_02103	CDS	978		COG0601	K15585	Nickel transport system permease protein NikB
+pimB	Brevi_962_8.fa	AGDBFNGI_02998	CDS	1374	2.4.1.346	COG0438	K13668	GDP-mannose-dependent alpha-(1-6)-phosphatidylinositol monomannoside mannosyltransferase
+wbpA	SEQ_876_5	IGOCDMGC_00548	CDS	1275	1.1.1.136	COG0677	K13015	UDP-N-acetyl-D-glucosamine 6-dehydrogenase
+dppA	Brevi_862_7.fa	GGCDANDK_01168	CDS	1503		COG0747	K12368	Periplasmic dipeptide transport protein
+dppA	Brevi_862_7.fa	GGCDANDK_01168	CDS	1503		COG0747	K12368	Periplasmic dipeptide transport protein
+liaR	Brevi_738_8.fa	MCCDGJGB_02716	CDS	801		COG2197	K11618	Transcriptional regulatory protein LiaR
+liaS	Brevi_JB5.fa	ADMANBBD_01756	CDS	1263	2.7.13.3	COG4585	K11617	Sensor histidine kinase LiaS
+glnQ	Brevi_900_6.fa	LDOPIMGM_00669	CDS	804			K10038	Glutamine transport ATP-binding protein GlnQ
+narL	Brachy_908_11.fa	DPNJBGPE_00010	CDS	630		COG2197	K07684	putative transcriptional regulatory protein NarL
+kstD	Brevi_947_7.fa	IOFEINNK_03080	CDS	1407	1.3.99.4		K05898	3-oxosteroid 1-dehydrogenase
+fliY	Brachy_862_8.fa	FOMIDEFL_01293	CDS	999		COG0834	K02424	L-cystine-binding protein FliY
+bioC	Brevi_862_7.fa	GGCDANDK_01354	CDS	840	2.1.1.197		K02169	Malonyl-[acyl-carrier protein] O-methyltransferase
+mcrB	SEQ_738_7	BGMKIKPO_02969	CDS	2148	3.1.21.-	COG1401	K00401	5-methylcytosine-specific restriction enzyme B
+rbtD	Brevi_947_7.fa	IOFEINNK_02839	CDS	483	1.1.1.56		K00039	Ribitol 2-dehydrogenase
+arnB	SEQ_962_6	PIPEENFB_00729	CDS	1215	2.6.1.87	COG0399	K07806	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase
+dag	Brevi_962_8.fa	AGDBFNGI_02051	CDS	1587	3.5.1.82		K06015	N-acyl-D-glutamate deacylase
+dnaK	Brachy_900_8.fa	LJFCBDKD_03285	CDS	1866		COG0443	K04043	Chaperone protein DnaK
+hbd	Brevi_962_8.fa	AGDBFNGI_03414	CDS	894	1.1.1.157	COG1250	K00074	3-hydroxybutyryl-CoA dehydrogenase
+Int-Tn	Brachy_738_10.fa	JOIMIODL_03231	CDS	1179			K14059	Transposase from transposon Tn916
+kanF	Brevi_962_8.fa	AGDBFNGI_03331	CDS	4707	2.4.1.284		K12989	2-deoxystreptamine glucosyltransferase
+kfoC	Brachy_341_9.fa	HAJKDPKL_01400	CDS	969			K20444	Chondroitin synthase
+merR1	Brevi_341_13.fa	AGEJDLBK_03003	CDS	369			K08365	Mercuric resistance operon regulatory protein
+psdht	Brevi_738_8.fa	MCCDGJGB_00712	CDS	1011	4.2.1.-		K01754	Phenylserine dehydratase
+pyrB	Brachy_908_11.fa	DPNJBGPE_00080	CDS	957	2.1.3.2	COG0540	K00609	Aspartate carbamoyltransferase
+ribZ	SEQ_962_6	PIPEENFB_01273	CDS	1380			K14620	Riboflavin transporter RibZ
+vatD	SEQ_962_6	PIPEENFB_00734	CDS	555	2.3.1.-		K18234	Streptogramin A acetyltransferase
+vibB	Brevi_962_8.fa	AGDBFNGI_02626	CDS	879	3.3.2.1	COG1535	K01252	Vibriobactin-specific isochorismatase
+yecS	Brachy_876_9.fa	AGBMBALL_01086	CDS	705		COG0765	K10009	L-cystine transport system permease protein YecS
+yhcG	Brevi_962_8.fa	AGDBFNGI_03546	CDS	1047	3.1.-.-	COG4804	K18740	Putative nuclease YhcG
+ymfD	Brevi_962_8.fa	AGDBFNGI_03533	CDS	1227			K0816	Bacillibactin exporter
+ywrO	Brevi_908_7.fa	EBMLHIBA_03291	CDS	669	1.6.99.-	COG2249	K11748 	General stress protein 14
+tcdA	SEQ_908_10	MOFHFCGN_01260	CDS	771	6.1.-.-	COG1179	K22132	tRNA threonylcarbamoyladenosine dehydratase
+ddaF	SEQ_738_7	BGMKIKPO_02907	CDS	1119	6.3.2.47		K22114	Dapdiamide A synthase
+comR	Brachy_962_10.fa	MCMEOHNO_03019	CDS	585			K22041	HTH-type transcriptional repressor ComR
+pssM	Brevi_JB5.fa	ADMANBBD_00055	CDS	759	2.5.1.98		K21154	Exopolysaccharide glucosyl ketal-pyruvate-transferase
+comR	Brachy_962_10.fa	MCMEOHNO_03019	CDS	585			K20342	HTH-type transcriptional repressor ComR
+comR	Brachy_962_10.fa	MCMEOHNO_03019	CDS	585			K20342	HTH-type transcriptional repressor ComR
+elmGT	Brevi_962_8.fa	AGDBFNGI_02621	CDS	1056	2.4.1.331		K19566	Elloramycin glycosyltransferase ElmGT
+bacC	Brachy_962_10.fa	MCMEOHNO_00069	CDS	771	1.1.1.385		K19548	Dihydroanticapsin 7-dehydrogenase
+epsN	Brachy_862_8.fa	FOMIDEFL_00091	CDS	1164	2.6.1.-	COG0399	K19430	Putative pyridoxal phosphate-dependent aminotransferase EpsN
+uctC	Brevi_908_7.fa	EBMLHIBA_03586	CDS	1170	2.8.3.19		K18702	Acetyl-CoA:oxalate CoA-transferase
+mdlY	Brevi_962_8.fa	AGDBFNGI_02155	CDS	1725	3.5.1.86		K18541	Mandelamide hydrolase
+tuaC	SEQ_962_6	PIPEENFB_00735	CDS	1104	2.4.-.-	COG0438	K16697	Putative teichuronic acid biosynthesis glycosyltransferase TuaC
+grsB	NA	NA	NA	NA	NA	NA	K16097	NA
+bacC	Brachy_962_10.fa	MCMEOHNO_00069	CDS	771	1.1.1.385		K16095	Dihydroanticapsin 7-dehydrogenase
+pglC	Brachy_862_8.fa	FOMIDEFL_00090	CDS	1146	2.7.8.36	COG2148	K15915	Undecaprenyl phosphate N,N'-diacetylbacillosamine 1-phosphate transferase
+pglF	Brevi_876_7.fa	IHGJPHMH_00559	CDS	1917	4.2.1.135	COG1086	K15912	UDP-N-acetyl-alpha-D-glucosamine C6 dehydratase
+pinR	Brevi_962_8.fa	AGDBFNGI_02585	CDS	594	3.1.22.-	COG1961	K14060	Serine recombinase PinR
+ttuB	Brevi_962_8.fa	AGDBFNGI_03684	CDS	1314			K13021	Putative tartrate transporter
+entA	Brevi_962_8.fa	AGDBFNGI_02623	CDS	798	1.3.1.28	COG1028	K11059	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase
+fic	Brevi_876_7.fa	IHGJPHMH_03323	CDS	1218	2.7.7.-	COG3177	K04095	Adenosine monophosphate-protein transferase SoFic
+pspB	Brevi_962_8.fa	AGDBFNGI_01691	CDS	627	3.1.3.3	COG0406	K03970	Putative phosphoserine phosphatase 2
+fldB	Brevi_962_8.fa	AGDBFNGI_00959	CDS	1239	4.2.1.-		K03840	(R)-phenyllactyl-CoA dehydratase alpha subunit
+rep	Brevi_962_8.fa	AGDBFNGI_01527	CDS	2469	3.6.4.12		K03656	ATP-dependent DNA helicase Rep
+puo	Brevi_908_7.fa	EBMLHIBA_02044	CDS	1353	1.4.3.10		K03343	Putrescine oxidase
+entF	Brevi_962_8.fa	AGDBFNGI_00071	CDS	3951	2.7.7.-	COG1020	K02364	Enterobactin synthase component F
+entF	Brevi_962_8.fa	AGDBFNGI_00071	CDS	3951	2.7.7.-	COG1020	K02364	Enterobactin synthase component F
+nudF	Brevi_908_7.fa	EBMLHIBA_02379	CDS	648	3.6.1.13	COG0494	K01515	ADP-ribose pyrophosphatase
+mch	Brevi_JB5.fa	ADMANBBD_02868	CDS	504	4.2.1.148	COG2030	K01499	Mesaconyl-CoA hydratase
+luxA	SEQ_BC9	EPECHOLL_00436	CDS	1053	1.14.14.3		K00494	Alkanal monooxygenase alpha chain
+luxA	SEQ_BC9	EPECHOLL_00436	CDS	1053	1.14.14.3		K00494	Alkanal monooxygenase alpha chain
+entA	Brevi_962_8.fa	AGDBFNGI_02623	CDS	798	1.3.1.28	COG1028	K00216	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase
+acnR	Brevi_JB5.fa	ADMANBBD_02575	CDS	846		COG1309	K21961	HTH-type transcriptional repressor AcnR
+aroK	SEQ_BC9	EPECHOLL_01056	CDS	516	2.7.1.71	COG0703	K00891	Shikimate kinase
+arsR	Brachy_JB7.fa	NGPGJBKC_03356	CDS	360		COG0640	K03892	Arsenical resistance operon repressor
+barA	NA	NA	NA	NA	NA	NA	K07678	NA
+benM	Brevi_876_7.fa	IHGJPHMH_00610	CDS	891			K21961	HTH-type transcriptional regulator BenM
+blaSE	SEQ_BC9	EPECHOLL_00138	CDS	1326	3.4.21.19	COG3591	K01318	Glutamyl endopeptidase
+bsdB	SEQ_BC9	EPECHOLL_01226	CDS	594	2.5.1.129	COG0163	K03186	putative UbiX-like flavin prenyltransferase
+btsT	SEQ_BC9	EPECHOLL_02252	CDS	1200		COG1966	K03453	Pyruvate/proton symporter BtsT
+btuF	Brevi_947_7.fa	IOFEINNK_02371	CDS	1017			K06858	Vitamin B12-binding protein
+catM	Brevi_738_8.fa	MCCDGJGB_02506	CDS	891			K21961	HTH-type transcriptional regulator CatM
+celD	SEQ_341_10	FAGDNHIP_01298	CDS	330			K01225	PTS system cellobiose-specific EIIA component
+cgkA	SEQ_BC9	EPECHOLL_01482	CDS	519	3.2.1.83		K20846	Kappa-carrageenase
+clfB	SEQ_BC9	EPECHOLL_02542	CDS	324			K14192	Clumping factor B
+cmdD	SEQ_BC9	EPECHOLL_02810	CDS	1653			K01007	Chondramide synthase cmdD
+cmoM	SEQ_BC9	EPECHOLL_01833	CDS	603	2.1.1.-	COG0500	K17654	tRNA 5-carboxymethoxyuridine methyltransferase
+copA	Brevi_876_7.fa	IHGJPHMH_03126	CDS	2208	3.6.3.54	COG2217	K17686	Copper-exporting P-type ATPase
+copY	SEQ_BC9	EPECHOLL_02151	CDS	432			K02171	Transcriptional repressor CopY
+copZ	Brevi_862_7.fa	GGCDANDK_00727	CDS	213		COG2608	K07213	Copper chaperone CopZ
+cueR	Brevi_962_8.fa	AGDBFNGI_00973	CDS	768		COG0789	K21961	HTH-type transcriptional regulator CueR
+czcD	SEQ_908_10	MOFHFCGN_02676	CDS	972		COG1230	K14688 	Cadmium, cobalt and zinc/H(+)-K(+) antiporter
+czrA	SEQ_341_10	FAGDNHIP_02329	CDS	297		COG0640	K21961	HTH-type transcriptional repressor CzrA
+dhbA	Brevi_JB5.fa	ADMANBBD_02076	CDS	777	1.3.1.28	COG1028	K00216	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase
+dhbB	Brevi_JB5.fa	ADMANBBD_02075	CDS	651	3.3.2.1	COG1535	K01252	Isochorismatase
+dpnA	Brevi_900_6.fa	LDOPIMGM_00169	CDS	780	2.1.1.72		K06223	Modification methylase DpnIIB
+drrA	Brevi_908_7.fa	EBMLHIBA_00965	CDS	966	3.6.3.-	COG1131	K01990	Doxorubicin resistance ATP-binding protein DrrA
+dsrE2	SEQ_BC9	EPECHOLL_02075	CDS	1062		COG2210	K06039	Sulfur carrier protein DsrE2
+emrB	SEQ_862_5	HGOKLDLI_00821	CDS	1899			K03446	Multidrug export protein EmrB
+epsH	SEQ_BC9	EPECHOLL_02174	CDS	1893	2.4.-.-	COG0463	K02457	Putative glycosyltransferase EpsH
+fhuD	SEQ_908_10	MOFHFCGN_01620	CDS	900		COG0614	K02016	Iron(3+)-hydroxamate-binding protein FhuD
+fmtA	SEQ_947_12	IFGBOHMA_01611	CDS	798		COG1680	K02014	Protein FmtA
+fucP	SEQ_BC9	EPECHOLL_02846	CDS	1317		COG0738	K02429	L-fucose-proton symporter
+fucU	Brachy_947_11.fa	DNNBHHGK_02386	CDS	423	5.1.3.29	COG4154	K02431	L-fucose mutarotase
+gshAB	Brevi_JB5.fa	ADMANBBD_01021	CDS	1053			K01919	Glutathione biosynthesis bifunctional protein GshAB
+hindIIIM	Brevi_JB5.fa	ADMANBBD_01169	CDS	1083	2.1.1.72		K00571	Modification methylase HindIII
+hmuT	Brevi_900_6.fa	LDOPIMGM_00222	CDS	1032		COG4558	K02016	Hemin-binding periplasmic protein HmuT
+hxlR	SEQ_341_10	FAGDNHIP_02605	CDS	354		COG1733	K21961	HTH-type transcriptional activator HxlR
+idnD	Brachy_962_10.fa	MCMEOHNO_00836	CDS	1005	1.1.1.264	COG1063	K00098	L-idonate 5-dehydrogenase (NAD(P)(+))
+kdsD	SEQ_BC9	EPECHOLL_02848	CDS	603	5.3.1.13	COG0517	K06041	Arabinose 5-phosphate isomerase KdsD
+lagD	SEQ_862_5	HGOKLDLI_02107	CDS	2151	3.4.22.-		K13409 	Lactococcin-G-processing and transport ATP-binding protein LagD
+lcdH	SEQ_738_7	BGMKIKPO_01067	CDS	468	1.1.1.108		K07107	L-carnitine dehydrogenase
+lcfB	Brevi_962_8.fa	AGDBFNGI_03717	CDS	1542	6.2.1.3	COG0318	K02182	Long-chain-fatty-acid--CoA ligase
+lipV	Brevi_JB5.fa	ADMANBBD_01059	CDS	879	3.1.1.1		K19311	Lipase LipV
+lytR	Brevi_JB5.fa	ADMANBBD_02362	CDS	924			K02477	Transcriptional regulator LytR
+malT	Brevi_JB5.fa	ADMANBBD_02594	CDS	2580			K21961	HTH-type transcriptional regulator MalT
+mmgC	Brevi_947_7.fa	IOFEINNK_00039	CDS	1179	1.3.99.-	COG1960	K00253	Acyl-CoA dehydrogenase
+nap	SEQ_BC9	EPECHOLL_02137	CDS	822	3.1.1.1	COG0596	K15743	putative carboxylesterase nap
+nfdA	Brevi_900_6.fa	LDOPIMGM_01609	CDS	1650	3.5.1.91		K07047	N-substituted formamide deformylase
+nhaX	SEQ_862_5	HGOKLDLI_01465	CDS	414		COG0589	K20645 	Stress response protein NhaX
+nnr	Brevi_947_7.fa	IOFEINNK_02437	CDS	1650		COG0062	K17758	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+nshR	Brevi_JB5.fa	ADMANBBD_02598	CDS	630	2.1.1.230		K05926	23S rRNA (adenosine(1067)-2'-O)-methyltransferase
+nupC	SEQ_862_5	HGOKLDLI_02539	CDS	1215		COG1972	K11535	Nucleoside permease NupC
+outO	SEQ_BC9	EPECHOLL_00940	CDS	705			K02506	Type 4 prepilin-like proteins leader peptide-processing enzyme
+paaF	Brevi_JB5.fa	ADMANBBD_02412	CDS	819	4.2.1.17	COG1024	K01692	2,3-dehydroadipyl-CoA hydratase
+paiA	SEQ_BC9	EPECHOLL_00289	CDS	501	2.3.1.57	COG0454	K00657	Spermidine/spermine N(1)-acetyltransferase
+pepT	SEQ_900_4	LKFOIOBI_02265	CDS	1233	3.4.11.4	COG2195	K01258	Peptidase T
+pigC	Brevi_908_7.fa	EBMLHIBA_02468	CDS	2514	6.4.-.-		K21787	Prodigiosin synthesizing transferase PigC
+pikAV	Brevi_JB5.fa	ADMANBBD_02040	CDS	813	3.1.2.-		K05374	Thioesterase PikA5
+rafB	SEQ_BC9	EPECHOLL_00943	CDS	1260			K02532	Raffinose permease
+rbn	SEQ_BC9	EPECHOLL_00456	CDS	399	3.1.26.11		K00784	Ribonuclease BN
+rbsK/rbiA	SEQ_962_6	PIPEENFB_02395	CDS	915			K00852	Bifunctional ribokinase/ribose-5-phosphate isomerase A
+recT	SEQ_BC9	EPECHOLL_01321	CDS	816		COG3723	K07455	Protein RecT
+recU	SEQ_947_12	IFGBOHMA_00779	CDS	627	3.1.22.-		K15078	Holliday junction resolvase RecU
+rghR	SEQ_BC9	EPECHOLL_01329	CDS	390			K21961	HTH-type transcriptional repressor RghR
+sacA	Brevi_JB5.fa	ADMANBBD_01010	CDS	1143	5.1.3.14		K01791	UDP-N-acetylglucosamine 2-epimerase
+shdC	SEQ_BC9	EPECHOLL_01225	CDS	1431	4.1.1.-		K13727	Phenolic acid decarboxylase subunit C
+sle1	SEQ_908_10	MOFHFCGN_00109	CDS	813	3.5.1.28	COG1388	K03806	N-acetylmuramoyl-L-alanine amidase sle1
+srfAD	SEQ_BC9	EPECHOLL_02595	CDS	696	3.1.2.-	COG3208	K05374	Surfactin synthase thioesterase subunit
+svp	Brevi_JB5.fa	ADMANBBD_02042	CDS	675	2.7.8.7		K00997	4'-phosphopantetheinyl transferase Svp
+thyA2	Brevi_JB5.fa	ADMANBBD_03732	CDS	1008	2.1.1.45	COG0207	K00560	Thymidylate synthase 2
+traI	Brevi_908_7.fa	EBMLHIBA_02437	CDS	3873			K03195	Multifunctional conjugation protein TraI
+ucpA	Brachy_900_8.fa	LJFCBDKD_02818	CDS	879	1.-.-.-		K18337	Oxidoreductase UcpA
+uidA	SEQ_900_4	LKFOIOBI_00321	CDS	1794	3.2.1.31	COG3250	K01195	Beta-glucuronidase
+yadG	Brachy_JB7.fa	NGPGJBKC_00520	CDS	930		COG1131	K01990	putative ABC transporter ATP-binding protein YadG
+ycgJ	Brevi_900_6.fa	LDOPIMGM_00101	CDS	783	2.1.1.-		K06219	putative methyltransferase YcgJ
+ydcV	SEQ_876_5	IGOCDMGC_01686	CDS	810			K02053	Inner membrane ABC transporter permease protein YdcV
+ydeA	SEQ_738_7	BGMKIKPO_00827	CDS	630	3.2.-.-	COG0693	K08159	putative protease YdeA
+ygfF	Brevi_JB5.fa	ADMANBBD_00273	CDS	798	1.-.-.-		K00059	putative oxidoreductase YgfF
+yhaZ	Brevi_JB5.fa	ADMANBBD_02541	CDS	363		COG4335	NA	putative protein YhaZ
+yidC	Brachy_947_11.fa	DNNBHHGK_02500	CDS	1107		COG0706	K03217	Membrane protein insertase YidC
+yknY	Brachy_947_11.fa	DNNBHHGK_00404	CDS	822	3.6.3.-	COG1136	K02003 	putative ABC transporter ATP-binding protein YknY
+yqbO	SEQ_876_5	IGOCDMGC_00370	CDS	5136		COG3953	K07483	putative protein YqbO
+yueB	Brachy_JB7.fa	NGPGJBKC_02942	CDS	2607		COG1511	K03466	ESX secretion system protein YueB
+ywle	Brevi_JB5.fa	ADMANBBD_02587	CDS	618	3.9.1.2		K20201	Protein-arginine-phosphatase
+ywqD	Brachy_862_8.fa	FOMIDEFL_00082	CDS	1641	2.7.10.2	COG0489	K17510	Tyrosine-protein kinase YwqD
+yydK	SEQ_962_6	PIPEENFB_01502	CDS	702		COG2188	K21961	putative HTH-type transcriptional regulator YydK
+zipA	SEQ_BC9	EPECHOLL_02613	CDS	606			K03528 	Cell division protein ZipA
+zntR	SEQ_BC9	EPECHOLL_01801	CDS	732		COG0789	K21961	HTH-type transcriptional regulator ZntR
+bsdD	SEQ_BC9	EPECHOLL_01224	CDS	228	4.1.1.-		K21759	Phenolic acid decarboxylase subunit D
+mntA	SEQ_947_12	IFGBOHMA_01052	CDS	933		COG0803	K19973	Manganese-binding lipoprotein MntA
+dauA	Brevi_738_8.fa	MCCDGJGB_00966	CDS	1695		COG0659	K19746	C4-dicarboxylic acid transporter DauA
+bcrC	SEQ_BC9	EPECHOLL_01799	CDS	507	3.6.1.27	COG0671	K19302	Undecaprenyl-diphosphatase BcrC
+prmC	Brevi_738_8.fa	MCCDGJGB_02034	CDS	879	2.1.1.297	COG2890	K18224	Release factor glutamine methyltransferase
+pht4	SEQ_BC9	EPECHOLL_01170	CDS	1008	1.-.-.-		K18067	Putative 4,5-dihydroxyphthalate dehydrogenase
+glpQ	Brevi_738_8.fa	MCCDGJGB_02579	CDS	801	3.1.4.46	COG0584	K17323	Glycerophosphodiester phosphodiesterase
+psuG	SEQ_BC9	EPECHOLL_00789	CDS	912	4.2.1.70	COG2313	K16329	Pseudouridine-5'-phosphate glycosidase
+psuK	SEQ_BC9	EPECHOLL_00790	CDS	1110	2.7.1.83	COG0524	K16328	Pseudouridine kinase
+oppD	Brevi_962_8.fa	AGDBFNGI_00583	CDS	795		COG0444	K15583	Oligopeptide transport ATP-binding protein OppD
+oppD	Brevi_962_8.fa	AGDBFNGI_00583	CDS	795		COG0444	K15583	Oligopeptide transport ATP-binding protein OppD
+mntA	SEQ_947_12	IFGBOHMA_01052	CDS	933		COG0803	K11603	Manganese-binding lipoprotein MntA
+mntA	SEQ_947_12	IFGBOHMA_01052	CDS	933		COG0803	K11603	Manganese-binding lipoprotein MntA
+natA	Brachy_900_8.fa	LJFCBDKD_02158	CDS	996		COG4555	K09697	ABC transporter ATP-binding protein NatA
+natA	Brachy_900_8.fa	LJFCBDKD_02158	CDS	996		COG4555	K09697	ABC transporter ATP-binding protein NatA
+tagH	Brevi_947_7.fa	IOFEINNK_02546	CDS	1311	3.6.3.40	COG1134	K09693	Teichoic acids export ATP-binding protein TagH
+yjjG	Brachy_JB7.fa	NGPGJBKC_03307	CDS	675	3.1.3.5	COG1011	K08723	Pyrimidine 5'-nucleotidase YjjG
+yjjG	Brachy_JB7.fa	NGPGJBKC_03307	CDS	675	3.1.3.5	COG1011	K08723	Pyrimidine 5'-nucleotidase YjjG
+yjjG	Brachy_JB7.fa	NGPGJBKC_03307	CDS	675	3.1.3.5	COG1011	K08723	Pyrimidine 5'-nucleotidase YjjG
+dhbE	Brevi_962_8.fa	AGDBFNGI_02625	CDS	1689	6.3.2.-	COG1021	K06122	2,3-dihydroxybenzoate-AMP ligase
+macB	Brevi_862_7.fa	GGCDANDK_03615	CDS	1197	3.6.3.-	COG0577	K05685	Macrolide export ATP-binding/permease protein MacB
+mbtB	Brevi_JB5.fa	ADMANBBD_02038	CDS	5487	6.3.2.-	COG1020	K04788	Phenyloxazoline synthase MbtB
+iucA	SEQ_BC9	EPECHOLL_02722	CDS	1728	6.3.2.38	COG4264	K03894	N(2)-citryl-N(6)-acetyl-N(6)-hydroxylysine synthase
+uvrA	Brevi_900_6.fa	LDOPIMGM_02333	CDS	2382		COG0178	K03701	UvrABC system protein A
+recD	SEQ_BC9	EPECHOLL_02201	CDS	3189	3.1.11.5		K03581	RecBCD enzyme subunit RecD
+acdA	Brevi_947_7.fa	IOFEINNK_03053	CDS	1200	1.3.99.-	COG1960	K01905	Acyl-CoA dehydrogenase
+acdA	Brevi_947_7.fa	IOFEINNK_03053	CDS	1200	1.3.99.-	COG1960	K01905	Acyl-CoA dehydrogenase
+acdA	Brevi_947_7.fa	IOFEINNK_03053	CDS	1200	1.3.99.-	COG1960	K01905	Acyl-CoA dehydrogenase
+lysA	Brevi_908_7.fa	EBMLHIBA_00192	CDS	1542	4.1.1.20	COG0019	K01586	Diaminopimelate decarboxylase
+hipO	Brevi_908_7.fa	EBMLHIBA_01782	CDS	1224	3.5.1.32	COG1473	K01451	Hippurate hydrolase
+plsC	Brevi_900_6.fa	LDOPIMGM_02103	CDS	789	2.3.1.-	COG0204	K00655	1-acyl-sn-glycerol-3-phosphate acyltransferase
+plsC	Brevi_900_6.fa	LDOPIMGM_02103	CDS	789	2.3.1.-	COG0204	K00655	1-acyl-sn-glycerol-3-phosphate acyltransferase
+proC	Brachy_947_11.fa	DNNBHHGK_01380	CDS	891	1.5.1.2	COG0345	K00286	Pyrroline-5-carboxylate reductase
