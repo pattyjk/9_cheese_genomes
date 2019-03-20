@@ -1,0 +1,52 @@
+JB5	pa_JB5	Gene	Annotation	com_JB_genomes	Level1	Level2	Level3	KO	Product	EC	EC2	EC3	Full
+1	1	acnr	HTH-type transcriptional repressor AcnR	,Brevi_JB5.fa_02575,	Protein families: genetic information processing	Enzymes	Transcription factors	K21962	TetR/AcrRfamilytranscriptionalregulator,transcriptionalrepressorofaconitase				 acnR; TetR/AcrR family transcriptional regulator, transcriptional repressor of aconitase
+1	1	bcrc	Undecaprenyl-diphosphatase BcrC	,,SEQ_BC9.fa_01799	Metabolism	Glycan biosynthesis and metabolism	Peptidoglycan biosynthesis	K19302	undecaprenyl-diphosphatase	3.6.1.27			 bcrC; undecaprenyl-diphosphatase [EC:3.6.1.27]
+1	1	bcrc	Undecaprenyl-diphosphatase BcrC	,,SEQ_BC9.fa_01799	Protein families: metabolisms	Enzymes	Peptidoglycan biosynthesis and degradation proteins	K19302	undecaprenyl-diphosphatase	3.6.1.27			 bcrC; undecaprenyl-diphosphatase [EC:3.6.1.27]
+1	1	benm	HTH-type transcriptional regulator BenM	,,SEQ_BC9.fa_01227	Protein families: genetic information processing	Enzymes	Transcription factors	K21757	LysRfamilytranscriptionalregulator,benzoateandcis,cis-muconate-responsiveactivatorofbenandcatgenes				 benM; LysR family transcriptional regulator, benzoate and cis,cis-muconate-responsive activator of ben and cat genes
+1	1	blase	Glutamyl endopeptidase	,,SEQ_BC9.fa_00138	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	bsdb	putative UbiX-like flavin prenyltransferase	,,SEQ_BC9.fa_01226	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	bsdd	Phenolic acid decarboxylase subunit D	,,SEQ_BC9.fa_01224	Metabolism	Xenobiotics biodegration and metabolism	Aminobenzoate degradation	K21759	vanillate/4-hydroxybenzoatedecarboxylasesubunitD	4.1.1.-	4.1.1.61		 bsdD; vanillate/4-hydroxybenzoate decarboxylase subunit D [EC:4.1.1.- 4.1.1.61]
+1	1	btst	Pyruvate/proton symporter BtsT	,,SEQ_BC9.fa_02252	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	catm	HTH-type transcriptional regulator CatM	,,SEQ_BC9.fa_02178	Protein families: genetic information processing	Enzymes	Transcription factors	K21756	LysRfamilytranscriptionalregulator,cis,cis-muconate-responsiveactivatorofcatandbengenes				 catM; LysR family transcriptional regulator, cis,cis-muconate-responsive activator of cat and ben genes
+1	1	celd	PTS system cellobiose-specific EIIA component	,,SEQ_BC9.fa_00797	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	clfb	Clumping factor B	,,SEQ_BC9.fa_02542	Diseases	Infectious diseases: bacterial	S. aureus infection	K14192	clumpingfactorB				 clfB; clumping factor B
+1	1	cmdd	Chondramide synthase cmdD	,,SEQ_BC9.fa_00312	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	cmom	tRNA 5-carboxymethoxyuridine methyltransferase	,,SEQ_BC9.fa_01833	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	copy	Transcriptional repressor CopY	,,SEQ_BC9.fa_02133	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	dhba	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase	,Brevi_JB5.fa_02076,	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	dhbe	2,3-dihydroxybenzoate-AMP ligase	,Brevi_JB5.fa_02041,	Metabolism	Lipid metabolism	Glycerolipid metabolism	K06122	glyceroldehydratasesmallsubunit	4.2.1.30			 dhbE; glycerol dehydratase small subunit [EC:4.2.1.30]
+1	1	dsre2	Sulfur carrier protein DsrE2	,,SEQ_BC9.fa_02075	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	fmta	Protein FmtA	,,SEQ_BC9.fa_01672	Not included in pathway or Brite	Unclassified: metabolism	Enzymes with EC numbers	K22580	teichoicacidD-alaninehydrolase	3.1.1.103			 fmtA; teichoic acid D-alanine hydrolase [EC:3.1.1.103]
+1	1	fucp	L-fucose-proton symporter	,,SEQ_BC9.fa_02846	Protein families: signaling and cellular processes	Enzymes	Transporters	K02429	MFStransporter,FHSfamily,L-fucosepermease				 fucP; MFS transporter, FHS family, L-fucose permease
+1	1	gshab	Glutathione biosynthesis bifunctional protein GshAB	,Brevi_JB5.fa_01021,	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	kdsd	Arabinose 5-phosphate isomerase KdsD	,,SEQ_BC9.fa_02848	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	lipr	Putative acetyl-hydrolase LipR	,,SEQ_BC9.fa_00273	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	malt	HTH-type transcriptional regulator MalT	,Brevi_JB5.fa_02594,	Protein families: genetic information processing	Enzymes	Transcription factors	K03556	LuxRfamilytranscriptionalregulator,maltoseregulonpositiveregulatoryprotein				 malT; LuxR family transcriptional regulator, maltose regulon positive regulatory protein
+1	1	nshr	23S rRNA (adenosine(1067)-2'-O)-methyltransferase	,Brevi_JB5.fa_02598,	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	outo	Type 4 prepilin-like proteins leader peptide-processing enzyme	,,SEQ_BC9.fa_00940	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	paaf	2,3-dehydroadipyl-CoA hydratase	,Brevi_JB5.fa_02412,	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	pht4	Putative 4,5-dihydroxyphthalate dehydrogenase	,,SEQ_BC9.fa_01170	Metabolism	Xenobiotics biodegration and metabolism	Polycyclic aromatic hydrocarbon degradation	K18067	phthalate4,5-cis-dihydrodioldehydrogenase	1.3.1.64			 pht4; phthalate 4,5-cis-dihydrodiol dehydrogenase [EC:1.3.1.64]
+1	1	pikav	Thioesterase PikA5	,Brevi_JB5.fa_02040,	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	psug	Pseudouridine-5'-phosphate glycosidase	,,SEQ_BC9.fa_00789	Metabolism	Amino acid metabolism	Pyrimidine metabolism	K16329	pseudouridylatesynthase	4.2.1.70			 psuG; pseudouridylate synthase [EC:4.2.1.70]
+1	1	psuk	Pseudouridine kinase	,,SEQ_BC9.fa_00790	Metabolism	Amino acid metabolism	Pyrimidine metabolism	K16328	pseudouridinekinase	2.7.1.83			 psuK; pseudouridine kinase [EC:2.7.1.83]
+1	1	ptrb	Protease 2	,Brevi_JB5.fa_01965,	Diseases	Infectious diseases: parasitic	African trypanosomiasis 	K01354	oligopeptidaseB	3.4.21.83			 ptrB; oligopeptidase B [EC:3.4.21.83]
+1	1	ptrb	Protease 2	,Brevi_JB5.fa_01965,	Protein families: metabolisms	Enzymes	Peptidases	K01354	oligopeptidaseB	3.4.21.83			 ptrB; oligopeptidase B [EC:3.4.21.83]
+1	1	ptrb	Protease 2	,Brevi_JB5.fa_01965,	Diseases	Infectious diseases: parasitic	Chagas disease	K01354	oligopeptidaseB	3.4.21.83			 ptrB; oligopeptidase B [EC:3.4.21.83]
+1	1	rafb	Raffinose permease	,,SEQ_BC9.fa_00943	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	rbn	Ribonuclease BN	,,SEQ_BC9.fa_00456	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	recd	RecBCD enzyme subunit RecD	,,SEQ_BC9.fa_02201	Protein families: genetic information processing	Enzymes	DNA repair and recombination proteins	K03581	exodeoxyribonucleaseValphasubunit	3.1.11.5			 recD; exodeoxyribonuclease V alpha subunit [EC:3.1.11.5]
+1	1	recd	RecBCD enzyme subunit RecD	,,SEQ_BC9.fa_02201	Genetic information processing	replication and repair	Homologous recombination	K03581	exodeoxyribonucleaseValphasubunit	3.1.11.5			 recD; exodeoxyribonuclease V alpha subunit [EC:3.1.11.5]
+1	1	rect	Protein RecT	,,SEQ_BC9.fa_01321	Protein families: genetic information processing	Enzymes	DNA repair and recombination proteins	K07455	recombinationproteinRecT				 recT; recombination protein RecT
+1	1	rghr	HTH-type transcriptional repressor RghR	,,SEQ_BC9.fa_01329	Protein families: genetic information processing	Enzymes	Transcription factors	K22299	HTH-typetranscriptionalregulator,competencedevelopmentregulator				 rghR; HTH-type transcriptional regulator, competence development regulator
+1	1	saca	UDP-N-acetylglucosamine 2-epimerase	,Brevi_JB5.fa_01010,	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	sarz	HTH-type transcriptional regulator SarZ	,Brevi_JB5.fa_02520,	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	shdc	Phenolic acid decarboxylase subunit C	,,SEQ_BC9.fa_01225	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	sle1	N-acetylmuramoyl-L-alanine amidase sle1	,,SEQ_BC9.fa_00571	Not included in pathway or Brite	Unclassified: metabolism	Enzymes with EC numbers	K22409	N-acetylmuramoyl-L-alanineamidase	3.5.1.28			 sle1; N-acetylmuramoyl-L-alanine amidase [EC:3.5.1.28]
+1	1	srfad	Surfactin synthase thioesterase subunit	,,SEQ_BC9.fa_02595	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	svp	4'-phosphopantetheinyl transferase Svp	,Brevi_JB5.fa_02042,	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	yadg	putative ABC transporter ATP-binding protein YadG	Brachy_JB7.fa_00520,,	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	ydea	putative protease YdeA	,,SEQ_BC9.fa_00093	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	ygff	putative oxidoreductase YgfF	,Brevi_JB5.fa_00273,	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	ykny	putative ABC transporter ATP-binding protein YknY	,,SEQ_BC9.fa_01872	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	ywle	Protein-arginine-phosphatase	,Brevi_JB5.fa_02587,	Not included in pathway or Brite	Unclassified: metabolism	Enzymes with EC numbers	K20201	proteinargininephosphatase	3.9.1.2			 ywlE; protein arginine phosphatase [EC:3.9.1.2]
+1	1	zipa	Cell division protein ZipA	,,SEQ_BC9.fa_02613	Protein families: genetic information processing	Enzymes	Chromosome and associated proteins	K03528	celldivisionproteinZipA				 zipA; cell division protein ZipA

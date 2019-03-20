@@ -1,0 +1,33 @@
+900	pa_900	Gene	Annotation	com_900_genomes	Level1	Level2	Level3	KO	Product	EC	EC2	EC3	Full
+1	1	ade	Adenine deaminase	,Brevi_900_6.fa_03531,	Metabolism	Amino acid metabolism	Purine metabolism	K01486	adeninedeaminase	3.5.4.2			 ade; adenine deaminase [EC:3.5.4.2]
+1	1	ade	Adenine deaminase	,Brevi_900_6.fa_03531,	Metabolism	Amino acid metabolism	Purine metabolism	K21053	adeninedeaminase	3.5.4.2			 ade; adenine deaminase [EC:3.5.4.2]
+1	1	bbp	Bone sialoprotein-binding protein	,,SEQ_900_4.fa_00071	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	davd	Glutarate-semialdehyde dehydrogenase DavD	,Brevi_900_6.fa_01085,	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	dgae	D-glucosaminate-6-phosphate ammonia lyase	,,SEQ_900_4.fa_00026	Metabolism	Carbohydrate metabolism	Pentose phosphate pathway	K17468	D-glucosaminate-6-phosphateammonia-lyase	4.3.1.29			 dgaE; D-glucosaminate-6-phosphate ammonia-lyase [EC:4.3.1.29]
+1	1	dgaf	2-dehydro-3-deoxy-phosphogluconate aldolase	,,SEQ_900_4.fa_00027	Metabolism	Carbohydrate metabolism	Pentose phosphate pathway	K17463	2-dehydro-3-deoxy-phosphogluconatealdolase	4.1.2.14			 dgaF; 2-dehydro-3-deoxy-phosphogluconate aldolase [EC:4.1.2.14]
+1	1	dgok1	putative 2-dehydro-3-deoxygalactonokinase DgoK1	,Brevi_900_6.fa_03536,	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	dpna	Modification methylase DpnIIB	,Brevi_900_6.fa_00169,	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	dsdc	HTH-type transcriptional regulator DsdC	,Brevi_900_6.fa_00226,	Protein families: genetic information processing	Enzymes	Transcription factors	K13636	LysRfamilytranscriptionalregulator,D-serinedeaminaseactivator				 dsdC; LysR family transcriptional regulator, D-serine deaminase activator
+1	1	frlr	putative fructoselysine utilization operon transcriptional repressor	,,SEQ_900_4.fa_00029	Protein families: genetic information processing	Enzymes	Transcription factors	K10711	GntRfamilytranscriptionalregulator,frlABCDoperontranscriptionalregulator				 frlR; GntR family transcriptional regulator, frlABCD operon transcriptional regulator
+1	1	gpmb	phosphoglycerate mutase GpmB	,,SEQ_900_4.fa_02767	Metabolism	Energy metabolism	Methane metabolism	K15634	probablephosphoglyceratemutase	5.4.2.12			 gpmB; probable phosphoglycerate mutase [EC:5.4.2.12]
+1	1	gpmb	phosphoglycerate mutase GpmB	,,SEQ_900_4.fa_02767	Metabolism	Amino acid metabolism	Glycine, serine, and threonine metabolism	K15634	probablephosphoglyceratemutase	5.4.2.12			 gpmB; probable phosphoglycerate mutase [EC:5.4.2.12]
+1	1	gpmb	phosphoglycerate mutase GpmB	,,SEQ_900_4.fa_02767	Metabolism	Carbohydrate metabolism	Glycolysis	K15634	probablephosphoglyceratemutase	5.4.2.12			 gpmB; probable phosphoglycerate mutase [EC:5.4.2.12]
+1	1	idnt	Gnt-II system L-idonate transporter	,,SEQ_900_4.fa_00030	Protein families: signaling and cellular processes	Enzymes	Transporters	K06157	Gnt-IIsystemL-idonatetransporter				 idnT; Gnt-II system L-idonate transporter
+1	1	kdc	Alpha-keto-acid decarboxylase	,,SEQ_900_4.fa_02518	Not included in pathway or Brite	Unclassified: metabolism	Enzymes with EC numbers	K21431	alpha-keto-aciddecarboxylase	4.1.1.-			 kdc; alpha-keto-acid decarboxylase [EC:4.1.1.-]
+1	1	mmpr5	HTH-type transcriptional regulator MmpR5	,Brevi_900_6.fa_01083,	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	padc	Phenolic acid decarboxylase PadC	,,SEQ_900_4.fa_00683	Metabolism	Amino acid metabolism	Phenylalanine metabolism	K18362	phenylacetyl-CoA:acceptoroxidoreductase27-kDasubunit				 padC; phenylacetyl-CoA:acceptor oxidoreductase 27-kDa subunit
+1	1	prpf	2-methyl-aconitate isomerase	,Brevi_900_6.fa_01493,	Metabolism	Carbohydrate metabolism	Propanoate metabolism	K09788	2-methylaconitateisomerase	5.3.3.-			 prpF; 2-methylaconitate isomerase [EC:5.3.3.-]
+1	1	rbsr	Ribose operon repressor	,Brevi_900_6.fa_00104,	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	spo0c	Chromosome-partitioning protein Spo0J	Brachy_900_8.fa_03506,,	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	ssb2	Single-stranded DNA-binding protein 2	Brachy_900_8.fa_01280,,	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	ttuc'	putative tartrate dehydrogenase/decarboxylase TtuC'	,,SEQ_900_4.fa_00675	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	xylg	Xylose import ATP-binding protein XylG	,,SEQ_900_4.fa_01501	Environmental information processing	Membrane transport	ABC transporters	K10545	D-xylosetransportsystemATP-bindingprotein	3.6.3.17			 xylG; D-xylose transport system ATP-binding protein [EC:3.6.3.17]
+1	1	xylg	Xylose import ATP-binding protein XylG	,,SEQ_900_4.fa_01501	Protein families: signaling and cellular processes	Enzymes	Transporters	K10545	D-xylosetransportsystemATP-bindingprotein	3.6.3.17			 xylG; D-xylose transport system ATP-binding protein [EC:3.6.3.17]
+1	1	ydis	Type-2 restriction enzyme BsuMI component YdiS	,Brevi_900_6.fa_00171,	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	yefm	Antitoxin YefM	,,SEQ_900_4.fa_00663	Protein families: signaling and cellular processes	Enzymes	Prokaryotic defense system	K19159	antitoxinYefM				 yefM; antitoxin YefM
+1	1	yije	putative cystine transporter YijE	,Brevi_900_6.fa_03259,	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	yjcd	Putative ATP-dependent DNA helicase YjcD	,,SEQ_900_4.fa_01829	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	yoeb	Toxin YoeB	,,SEQ_900_4.fa_00662	Protein families: signaling and cellular processes	Enzymes	Prokaryotic defense system	K19158	toxinYoeB	3.1.-.-			 yoeB; toxin YoeB [EC:3.1.-.-]
+1	1	yxaf	putative HTH-type transcriptional regulator YxaF	Brachy_900_8.fa_01700,,	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	yxem	putative amino-acid-binding protein YxeM	,Brevi_900_6.fa_03652,	Protein families: signaling and cellular processes	Enzymes	Transporters	K16961	putativeamino-acidtransportsystemsubstrate-bindingprotein				 yxeM; putative amino-acid transport system substrate-binding protein
+1	1	yxem	putative amino-acid-binding protein YxeM	,Brevi_900_6.fa_03652,	Environmental information processing	Membrane transport	ABC transporters	K16961	putativeamino-acidtransportsystemsubstrate-bindingprotein				 yxeM; putative amino-acid transport system substrate-binding protein

@@ -1,0 +1,34 @@
+341	pa_341	Gene	Annotation	com_341_genomes	Level1	Level2	Level3	KO	Product	EC	EC2	EC3	Full
+1	1	abn-ts	Intracellular endo-alpha-(1->5)-L-arabinanase	Brachy_341_9.fa_03392,,	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	aran	putative arabinose-binding protein	Brachy_341_9.fa_00388,,	Environmental information processing	Membrane transport	ABC transporters	K17234	arabinosaccharidetransportsystemsubstrate-bindingprotein				 araN; arabinosaccharide transport system substrate-binding protein
+1	1	aran	putative arabinose-binding protein	Brachy_341_9.fa_00388,,	Protein families: signaling and cellular processes	Enzymes	Transporters	K17234	arabinosaccharidetransportsystemsubstrate-bindingprotein				 araN; arabinosaccharide transport system substrate-binding protein
+1	1	besa	Ferri-bacillibactin esterase BesA	Brachy_341_9.fa_03540,,	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	caic	Crotonobetaine/carnitine--CoA ligase	,Brevi_341_13.fa_01974,	Not included in pathway or Brite	Unclassified: metabolism	Enzymes with EC numbers	K02182	carnitine-CoAligase	6.2.1.48			 caiC; carnitine-CoA ligase [EC:6.2.1.48]
+1	1	coce	Cocaine esterase	,,SEQ_341_10.fa_02310	Not included in pathway or Brite	Unclassified: metabolism	Enzymes with EC numbers	K21017	cocaineesterase	3.1.1.84			 cocE; cocaine esterase [EC:3.1.1.84]
+1	1	crtp	Diapolycopene oxygenase	,,SEQ_341_10.fa_02451	Metabolism	Metabolism of terpenoids and polyketides	Carotenoid biosynthesis	K10210	diapolycopeneoxygenase	1.14.99.44			 crtP; diapolycopene oxygenase [EC:1.14.99.44]
+1	1	cshc	DEAD-box ATP-dependent RNA helicase CshC	Brachy_341_9.fa_00536,,	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	dpal	Diaminopropionate ammonia-lyase	,Brevi_341_13.fa_02761,	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	fdm	Formaldehyde dismutase	Brachy_341_9.fa_00661,,	Metabolism	Energy metabolism	Methane metabolism	K17068	formaldehydedismutase	1.2.98.1			 fdm; formaldehyde dismutase [EC:1.2.98.1]
+1	1	fdm	Formaldehyde dismutase	Brachy_341_9.fa_00661,,	Metabolism	Xenobiotics biodegration and metabolism	Chloroalkane and chloroalkene degracation	K17068	formaldehydedismutase	1.2.98.1			 fdm; formaldehyde dismutase [EC:1.2.98.1]
+1	1	fokim	Modification methylase FokI	,Brevi_341_13.fa_03452,	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	ganb	Arabinogalactan endo-beta-1,4-galactanase	Brachy_341_9.fa_00386,,	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	hmob	Heme-degrading monooxygenase HmoB	,,SEQ_341_10.fa_02445	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	hpxo	FAD-dependent urate hydroxylase	,,SEQ_341_10.fa_02309	Metabolism	Amino acid metabolism	Purine metabolism	K16839	FAD-dependenturatehydroxylase	1.14.13.113			 hpxO; FAD-dependent urate hydroxylase [EC:1.14.13.113]
+1	1	iola	Malonate-semialdehyde dehydrogenase	,,SEQ_341_10.fa_01398	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	iolj	6-phospho-5-dehydro-2-deoxy-D-gluconate aldolase	,,SEQ_341_10.fa_01402	Metabolism	Carbohydrate metabolism	Inositol phospahte metabolism	K03339	6-phospho-5-dehydro-2-deoxy-D-gluconatealdolase	4.1.2.29			 iolJ; 6-phospho-5-dehydro-2-deoxy-D-gluconate aldolase [EC:4.1.2.29]
+1	1	lpxg	UDP-2,3-diacylglucosamine pyrophosphatase LpxG	,Brevi_341_13.fa_03230,	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	mmco	Multicopper oxidase MmcO	Brachy_341_9.fa_03031,,	Metabolism	Metabolism of cofactors and vitamins	Porphrin and chlorophyll metabolism	K22552	multicopperoxidase	1.16.3.1			 mmcO; multicopper oxidase [EC:1.16.3.1]
+1	1	pgtp	Phosphoglycerate transporter protein	,Brevi_341_13.fa_01947,	Environmental information processing	Signal transduction	Two-component system	K11382	MFStransporter,OPAfamily,phosphoglyceratetransporterprotein				 pgtP; MFS transporter, OPA family, phosphoglycerate transporter protein
+1	1	pgtp	Phosphoglycerate transporter protein	,Brevi_341_13.fa_01947,	Protein families: signaling and cellular processes	Enzymes	Transporters	K11382	MFStransporter,OPAfamily,phosphoglyceratetransporterprotein				 pgtP; MFS transporter, OPA family, phosphoglycerate transporter protein
+1	1	phnv	Putative 2-aminoethylphosphonate transport system permease protein PhnV	Brachy_341_9.fa_03680,,	Protein families: signaling and cellular processes	Enzymes	Transporters	K11082	2-aminoethylphosphonatetransportsystempermeaseprotein				 phnV; 2-aminoethylphosphonate transport system permease protein
+1	1	phnv	Putative 2-aminoethylphosphonate transport system permease protein PhnV	Brachy_341_9.fa_03680,,	Environmental information processing	Membrane transport	ABC transporters	K11082	2-aminoethylphosphonatetransportsystempermeaseprotein				 phnV; 2-aminoethylphosphonate transport system permease protein
+1	1	plap	Low-affinity putrescine importer PlaP	,Brevi_341_13.fa_03174,	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	repe	Replication initiation protein	,,SEQ_341_10.fa_01622	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	rmpa	3-hexulose-6-phosphate synthase	Brachy_341_9.fa_00662,,	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	rmpb	3-hexulose-6-phosphate isomerase	Brachy_341_9.fa_00663,,	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	tmca	tRNA(Met) cytidine acetyltransferase TmcA	Brachy_341_9.fa_03676,,	Protein families: genetic information processing	Enzymes	tRNA biogenesis	K06957	tRNA(Met)cytidineacetyltransferase	2.3.1.193			 tmcA; tRNA(Met) cytidine acetyltransferase [EC:2.3.1.193]
+1	1	yidk	putative symporter YidK	,,SEQ_341_10.fa_01394	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	yydi	putative peptide export ATP-binding protein YydI	,,SEQ_341_10.fa_02174	Environmental information processing	Membrane transport	ABC transporters	K16917	putativepeptidetransportsystemATP-bindingprotein				 yydI; putative peptide transport system ATP-binding protein
+1	1	yydi	putative peptide export ATP-binding protein YydI	,,SEQ_341_10.fa_02174	Protein families: signaling and cellular processes	Enzymes	Transporters	K16917	putativepeptidetransportsystemATP-bindingprotein				 yydI; putative peptide transport system ATP-binding protein
+1	1	yydj	putative peptide export permease protein YydJ	,,SEQ_341_10.fa_02175	Environmental information processing	Membrane transport	ABC transporters	K16916	putativepeptidetransportsystempermeaseprotein				 yydJ; putative peptide transport system permease protein
+1	1	yydj	putative peptide export permease protein YydJ	,,SEQ_341_10.fa_02175	Protein families: signaling and cellular processes	Enzymes	Transporters	K16916	putativepeptidetransportsystempermeaseprotein				 yydJ; putative peptide transport system permease protein

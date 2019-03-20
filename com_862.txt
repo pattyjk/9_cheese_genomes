@@ -1,0 +1,17 @@
+862	pa_862	Gene	Annotation	com_862_genomes	Level1	Level2	Level3	KO	Product	EC	EC2	EC3	Full
+1	1	cbpm	Chaperone modulatory protein CbpM	,Brevi_862_7.fa_03712,	Protein families: genetic information processing	Enzymes	Chromosome and associated proteins	K18997	chaperonemodulatoryproteinCbpM				 cbpM; chaperone modulatory protein CbpM
+1	1	dnak2	Chaperone protein dnaK2	,Brevi_862_7.fa_03715,	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	gph	Phosphoglycolate phosphatase	,Brevi_862_7.fa_01466,	Metabolism	Carbohydrate metabolism	Glyoxylate and dicarboxylate metabolism	K01091	phosphoglycolatephosphatase	3.1.3.18			 gph; phosphoglycolate phosphatase [EC:3.1.3.18]
+1	1	hexr	HTH-type transcriptional regulator HexR	,Brevi_862_7.fa_03105,	Protein families: genetic information processing	Enzymes	Transcription factors	K19337	RpiRfamilytranscriptionalregulator,carbohydrateutilizationregulator				 hexR; RpiR family transcriptional regulator, carbohydrate utilization regulator
+1	1	hmrr	HTH-type transcriptional regulator HmrR	,Brevi_862_7.fa_01036,	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	hsds	Type-1 restriction enzyme EcoKI specificity protein	Brachy_862_8.fa_01461,,	Protein families: signaling and cellular processes	Enzymes	Prokaryotic defense system	K01154	typeIrestrictionenzyme,Ssubunit	3.1.21.3			 hsdS; type I restriction enzyme, S subunit [EC:3.1.21.3]
+1	1	lagd	Lactococcin-G-processing and transport ATP-binding protein LagD	,,SEQ_862_5.fa_02107	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	meph	Murein DD-endopeptidase MepH	Brachy_862_8.fa_02489,,	Protein families: metabolisms	Enzymes	Peptidases	K19303	mureinDD-endopeptidase	3.4.-.-			 mepH; murein DD-endopeptidase [EC:3.4.-.-]
+1	1	meph	Murein DD-endopeptidase MepH	Brachy_862_8.fa_02489,,	Protein families: metabolisms	Enzymes	Peptidoglycan biosynthesis and degradation proteins	K19303	mureinDD-endopeptidase	3.4.-.-			 mepH; murein DD-endopeptidase [EC:3.4.-.-]
+1	1	nepa	Nicotine metabolites export pump subunit NepA	Brachy_862_8.fa_03230,,	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	noda	Nodulation protein A	,Brevi_862_7.fa_01470,	Not included in pathway or Brite	Unclassified: metabolism	Enzymes with EC numbers	K14658	nodulationproteinA	2.3.1.-			 nodA; nodulation protein A [EC:2.3.1.-]
+1	1	phoc	Major phosphate-irrepressible acid phosphatase	Brachy_862_8.fa_01231,,	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	pre	Plasmid recombination enzyme	Brachy_862_8.fa_03006,,	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	spoiiie	DNA translocase SpoIIIE	,,SEQ_862_5.fa_02955	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	tagf	Teichoic acid poly(glycerol phosphate) polymerase	,Brevi_862_7.fa_03140,	Not included in pathway or Brite	Unclassified: metabolism	Enzymes with EC numbers	K09809	CDP-glycerolglycerophosphotransferase	2.7.8.12			 tagF; CDP-glycerol glycerophosphotransferase [EC:2.7.8.12]
+1	1	ydio	putative BsuMI modification methylase subunit YdiO	,Brevi_862_7.fa_03524,	NA	NA	NA	NA	NA	NA	NA	NA	NA

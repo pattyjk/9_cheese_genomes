@@ -1,0 +1,26 @@
+908	pa_908	Gene	Annotation	com_908_genomes	Level1	Level2	Level3	KO	Product	EC	EC2	EC3	Full
+1	1	arsd	Arsenical resistance operon trans-acting repressor ArsD	,,SEQ_908_10.fa_02190	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	crtm	Dehydrosqualene synthase	,,SEQ_908_10.fa_01614	Protein families: metabolisms	Enzymes	Prenyltransferases	K10208	4,4'-diapophytoenesynthase	2.5.1.96			 crtM; 4,4'-diapophytoene synthase [EC:2.5.1.96]
+1	1	crtm	Dehydrosqualene synthase	,,SEQ_908_10.fa_01614	Metabolism	Metabolism of terpenoids and polyketides	Carotenoid biosynthesis	K10208	4,4'-diapophytoenesynthase	2.5.1.96			 crtM; 4,4'-diapophytoene synthase [EC:2.5.1.96]
+1	1	crtq	4,4'-diaponeurosporenoate glycosyltransferase	,,SEQ_908_10.fa_01613	Metabolism	Metabolism of terpenoids and polyketides	Carotenoid biosynthesis	K10211	4,4'-diaponeurosporenoateglycosyltransferase	2.4.1.-			 crtQ; 4,4'-diaponeurosporenoate glycosyltransferase [EC:2.4.1.-]
+1	1	cypd	Cypemycin cysteine dehydrogenase (decarboxylating)	,Brevi_908_7.fa_03671,	Not included in pathway or Brite	Unclassified: metabolism	Enzymes with EC numbers	K21818	cypemycincysteinedehydrogenase(decarboxylating)	1.3.99.36			 cypD; cypemycin cysteine dehydrogenase (decarboxylating) [EC:1.3.99.36]
+1	1	desk	Sensor histidine kinase DesK	,,SEQ_908_10.fa_02810	Protein families: signaling and cellular processes	Enzymes	Two-component system	K07778	two-componentsystem,NarLfamily,sensorhistidinekinaseDesK	2.7.13.3			 desK; two-component system, NarL family, sensor histidine kinase DesK [EC:2.7.13.3]
+1	1	desk	Sensor histidine kinase DesK	,,SEQ_908_10.fa_02810	Protein families: metabolisms	Enzymes	Protein kinases	K07778	two-componentsystem,NarLfamily,sensorhistidinekinaseDesK	2.7.13.3			 desK; two-component system, NarL family, sensor histidine kinase DesK [EC:2.7.13.3]
+1	1	desk	Sensor histidine kinase DesK	,,SEQ_908_10.fa_02810	Environmental information processing	Signal transduction	Two-component system	K07778	two-componentsystem,NarLfamily,sensorhistidinekinaseDesK	2.7.13.3			 desK; two-component system, NarL family, sensor histidine kinase DesK [EC:2.7.13.3]
+1	1	gbsb	Alcohol dehydrogenase	,,SEQ_908_10.fa_02819	Metabolism	Amino acid metabolism	Glycine, serine, and threonine metabolism	K11440	cholinedehydrogenase	1.1.1.1			 gbsB; choline dehydrogenase [EC:1.1.1.1]
+1	1	glnp	Glutamine transport system permease protein GlnP	,Brevi_908_7.fa_00668,	Protein families: signaling and cellular processes	Enzymes	Transporters	K10037	glutaminetransportsystempermeaseprotein				 glnP; glutamine transport system permease protein
+1	1	glnp	Glutamine transport system permease protein GlnP	,Brevi_908_7.fa_00668,	Environmental information processing	Membrane transport	ABC transporters	K10037	glutaminetransportsystempermeaseprotein				 glnP; glutamine transport system permease protein
+1	1	iaam	Tryptophan 2-monooxygenase	,Brevi_908_7.fa_03674,	Metabolism	Amino acid metabolism	Tryptophan metabolism	K00466	tryptophan2-monooxygenase	1.13.12.3			 iaaM; tryptophan 2-monooxygenase [EC:1.13.12.3]
+1	1	lip	Lipase	,,SEQ_908_10.fa_02587	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	lrp	Leucine-responsive regulatory protein	Brachy_908_11.fa_02743,,	Protein families: genetic information processing	Enzymes	Chromosome and associated proteins	K03719	Lrp/AsnCfamilytranscriptionalregulator,leucine-responsiveregulatoryprotein				 lrp; Lrp/AsnC family transcriptional regulator, leucine-responsive regulatory protein
+1	1	lrp	Leucine-responsive regulatory protein	Brachy_908_11.fa_02743,,	Protein families: genetic information processing	Enzymes	Transcription factors	K03719	Lrp/AsnCfamilytranscriptionalregulator,leucine-responsiveregulatoryprotein				 lrp; Lrp/AsnC family transcriptional regulator, leucine-responsive regulatory protein
+1	1	mali	Maltose regulon regulatory protein MalI	Brachy_908_11.fa_03272,,	Protein families: genetic information processing	Enzymes	Transcription factors	K16136	LacIfamilytranscriptionalregulator,maltoseregulonregulatoryprotein				 malI; LacI family transcriptional regulator, maltose regulon regulatory protein
+1	1	mco	Multicopper oxidase mco	,,SEQ_908_10.fa_01573	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	paer7im	Modification methylase PaeR7I	,Brevi_908_7.fa_03639,	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	phrb	Deoxyribodipyrimidine photo-lyase	,,SEQ_908_10.fa_01617	Protein families: genetic information processing	Enzymes	DNA repair and recombination proteins	K01669	deoxyribodipyrimidinephoto-lyase	4.1.99.3			 phrB; deoxyribodipyrimidine photo-lyase [EC:4.1.99.3]
+1	1	repd	Replication initiation protein	,,SEQ_908_10.fa_02298	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	srap	Serine-rich adhesin for platelets	,,SEQ_908_10.fa_02564	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	tsac1	4-formylbenzenesulfonate dehydrogenase TsaC1/TsaC2	,Brevi_908_7.fa_03479,	Metabolism	Xenobiotics biodegration and metabolism	Toluene degradation	K19630	4-formylbenzenesulfonatedehydrogenase	1.2.1.62			 tsaC1; 4-formylbenzenesulfonate dehydrogenase [EC:1.2.1.62]
+1	1	ulab	Ascorbate-specific PTS system EIIB component	,,SEQ_908_10.fa_02502	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	yokf	SPBc2 prophage-derived endonuclease YokF	Brachy_908_11.fa_03333,,	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	yvbw	putative amino acid permease YvbW	Brachy_908_11.fa_03276,,	NA	NA	NA	NA	NA	NA	NA	NA	NA

@@ -50,8 +50,8 @@ library(ggplot2)
 library(vegan)
 library(reshape2)
 library(dplyr)
-library(readr)
 library(tidyr)
+
 
 #read in data
 pan_full<-read.delim("9_cheese_genomes/roary_out/gene_presence_absence.csv", sep=',', header=T)
@@ -111,8 +111,8 @@ pan_m$variable<-gsub("BC9", "JB5", pan_m$variable)
 #summarize data
 pan_sum<-ddply(pan_m, c("variable", 'Gene'), summarize, total=sum(value))
 
-ggplot(pan_sum, aes(Gene, variable, fill=total))+
-geom_tile()
+#ggplot(pan_sum, aes(Gene, variable, fill=total))+
+#geom_tile()
 
 #recast data
 pan_cast<-dcast(pan_sum, Gene ~ variable, value.var = "total")
@@ -139,7 +139,7 @@ pangenomes2$uni_gene<-pangenomes2$Gene
 pangenomes2$uni_gene<-gsub("_[[:digit:]]+", "", pangenomes2$uni_gene)
 
 length(unique(pangenomes2$uni_gene))
-3048
+#3048
 
 ```
 
@@ -157,8 +157,6 @@ nrow(pangenomy)
 pangenomy$Gene<-gsub("_[[:digit:]]+", "", pangenomy$Gene)
 length(unique(pangenomy$Gene))
 #3047 unique gene names
-dim(pangenomy)
-unique_genes$Gene<-tolower(unique_genes$Gene)
 
 #remove duplicate genes
 pangenomy<-pangenomy[!duplicated(pangenomy$Gene),]
@@ -179,12 +177,24 @@ unique_genes$Gene<-tolower(unique_genes$Gene)
 
 #add KEGG functions to table
 kegg<-read.delim('9_cheese_genomes/full_kegg.txt', header=T)
+dim(kegg)
+#50936 by 10
 
 #change gene names to lowercase
 kegg$Gene<-tolower(kegg$Gene)
 
+#make KGG anootations that are double into multiple lines (e.g. 16rrn, 16rn)
+
+kegg_test<- kegg %>% mutate(Gene=strsplit(as.character(Gene), ",")) %>% unnest(Gene)
+
+
+
+dim(kegg_test)
+
+
+
 #add KEGG to unique gene names
-unique_genes<-merge(unique_genes, kegg, by='Gene', all.x=T)
+unique_genes<-merge(unique_genes, kegg_test, by='Gene', all.x=T)
 
 #create tables for each community
 com_341_unique<- unique_genes[unique_genes$pa_341 == 1,] %>% select("341", "pa_341", "Gene", 'Annotation', 'com_341_genomes', "Level1", "Level2", "Level3", "KO", "Product", "EC", "EC2", "EC3", "Full")
@@ -193,11 +203,11 @@ nrow(com_341_unique)
 
 com_738_unique<- unique_genes[unique_genes$pa_738 == 1,] %>% select("738", "pa_738", "Gene", 'Annotation', 'com_738_genomes', "Level1", "Level2", "Level3", "KO", "Product", "EC", "EC2", "EC3", "Full")
 nrow(com_738_unique)
-#96
+#54
 
 com_862_unique<- unique_genes[unique_genes$pa_862 == 1,] %>% select("862", "pa_862", "Gene", 'Annotation', 'com_862_genomes', "Level1", "Level2", "Level3", "KO", "Product", "EC", "EC2", "EC3", "Full")
 nrow(com_862_unique)
-#15
+#16
 
 com_876_unique<- unique_genes[unique_genes$pa_876 == 1,] %>% select("876", "pa_876", "Gene", 'Annotation', 'com_876_genomes', "Level1", "Level2", "Level3", "KO", "Product", "EC", "EC2", "EC3", "Full")
 nrow(com_876_unique)
@@ -224,15 +234,15 @@ nrow(com_JB5_unique)
 #51
 
 #write data to files
-write.table(com_341, 'com_341.txt', quote=F, sep='\t', row.names=F)
-write.table(com_341, 'com_947.txt', quote=F, sep='\t', row.names=F)
-write.table(com_738, 'com_738.txt', quote=F, sep='\t', row.names=F)
-write.table(com_862, 'com_862.txt', quote=F, sep='\t', row.names=F)
-write.table(com_876, 'com_876.txt', quote=F, sep='\t', row.names=F)
-write.table(com_908, 'com_908.txt', quote=F, sep='\t', row.names=F)
-write.table(com_900, 'com_900.txt', quote=F, sep='\t', row.names=F)
-write.table(com_962, 'com_962.txt', quote=F, sep='\t', row.names=F)
-write.table(com_JB5, 'com_JB5.txt', quote=F, sep='\t', row.names=F)
+write.table(com_341_unique, 'com_341.txt', quote=F, sep='\t', row.names=F)
+write.table(com_947_unique, 'com_947.txt', quote=F, sep='\t', row.names=F)
+write.table(com_738_unique, 'com_738.txt', quote=F, sep='\t', row.names=F)
+write.table(com_862_unique, 'com_862.txt', quote=F, sep='\t', row.names=F)
+write.table(com_876_unique, 'com_876.txt', quote=F, sep='\t', row.names=F)
+write.table(com_908_unique, 'com_908.txt', quote=F, sep='\t', row.names=F)
+write.table(com_900_unique, 'com_900.txt', quote=F, sep='\t', row.names=F)
+write.table(com_962_unique, 'com_962.txt', quote=F, sep='\t', row.names=F)
+write.table(com_JB5_unique, 'com_JB5.txt', quote=F, sep='\t', row.names=F)
 
 
 

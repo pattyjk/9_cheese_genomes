@@ -1,0 +1,29 @@
+876	pa_876	Gene	Annotation	com_876_genomes	Level1	Level2	Level3	KO	Product	EC	EC2	EC3	Full
+1	1	agas	Putative D-galactosamine-6-phosphate deaminase AgaS	Brachy_876_9.fa_00372,,	Not included in pathway or Brite	Unclassified: metabolism	Enzymes with EC numbers	K02082	tagatose-6-phosphateketose/aldoseisomerase	5.-.-.-			 agaS; tagatose-6-phosphate ketose/aldose isomerase [EC:5.-.-.-]
+1	1	bcgia	Restriction enzyme BgcI subunit alpha	Brachy_876_9.fa_00361,,	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	cap8a	Capsular polysaccharide type 8 biosynthesis protein cap8A	,,SEQ_876_5.fa_00540	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	cbby	Protein CbbY	,Brevi_876_7.fa_02672,	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	clca	Chlorocatechol 1,2-dioxygenase	,Brevi_876_7.fa_00416,	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	ctpa	Copper-exporting P-type ATPase	,Brevi_876_7.fa_03470,	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	dgot	D-galactonate transporter	,Brevi_876_7.fa_03348,	Protein families: signaling and cellular processes	Enzymes	Transporters	K08194	MFStransporter,ACSfamily,D-galactonatetransporter				 dgoT; MFS transporter, ACS family, D-galactonate transporter
+1	1	eccc	ESX secretion system protein EccC	,Brevi_876_7.fa_00848,	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	epsd	Putative glycosyltransferase EpsD	,,SEQ_876_5.fa_00549	Not included in pathway or Brite	Unclassified: metabolism	Enzymes with EC numbers	K19422	glycosyltransferaseEpsD	2.4.-.-			 epsD; glycosyltransferase EpsD [EC:2.4.-.-]
+1	1	exsh	Endo-1,3-1,4-beta-glycanase ExsH	,Brevi_876_7.fa_03482,	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	ftsh3	ATP-dependent zinc metalloprotease FtsH 3	,Brevi_876_7.fa_00419,	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	gaty	D-tagatose-1,6-bisphosphate aldolase subunit GatY	Brachy_876_9.fa_00375,,	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	mftf	Putative mycofactocin biosynthesis glycosyltransferase MftF	,Brevi_876_7.fa_03476,	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	pdxi	Pyridoxine 4-dehydrogenase	,Brevi_876_7.fa_00604,	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	peza	Antitoxin PezA	,,SEQ_876_5.fa_00386	Protein families: signaling and cellular processes	Enzymes	Prokaryotic defense system	K18830	HTH-typetranscriptionalregulator/antitoxinPezA				 pezA; HTH-type transcriptional regulator / antitoxin PezA
+1	1	peza	Antitoxin PezA	,,SEQ_876_5.fa_00386	Protein families: genetic information processing	Enzymes	Transcription factors	K18830	HTH-typetranscriptionalregulator/antitoxinPezA				 pezA; HTH-type transcriptional regulator / antitoxin PezA
+1	1	psab	Photosystem I P700 chlorophyll a apoprotein A2	,Brevi_876_7.fa_03764,	Protein families: metabolisms	Enzymes	Photosynthesis proteins	K02690	photosystemIP700chlorophyllaapoproteinA2				 psaB; photosystem I P700 chlorophyll a apoprotein A2
+1	1	psab	Photosystem I P700 chlorophyll a apoprotein A2	,Brevi_876_7.fa_03764,	Metabolism	Energy metabolism	Photosynthesis	K02690	photosystemIP700chlorophyllaapoproteinA2				 psaB; photosystem I P700 chlorophyll a apoprotein A2
+1	1	sacb	Capsular polysaccharide phosphotransferase SacB	Brachy_876_9.fa_01310,,	Protein families: metabolisms	Enzymes	Glycosyltransferases	K00692	levansucrase	2.4.1.10			 sacB; levansucrase [EC:2.4.1.10]
+1	1	sacb	Capsular polysaccharide phosphotransferase SacB	Brachy_876_9.fa_01310,,	Metabolism	Carbohydrate metabolism	Starch and sucrose metabolism	K00692	levansucrase	2.4.1.10			 sacB; levansucrase [EC:2.4.1.10]
+1	1	sacb	Capsular polysaccharide phosphotransferase SacB	Brachy_876_9.fa_01310,,	Environmental information processing	Signal transduction	Two-component system	K00692	levansucrase	2.4.1.10			 sacB; levansucrase [EC:2.4.1.10]
+1	1	sipw	Signal peptidase I W	,Brevi_876_7.fa_00658,	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	tagu	Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU	,Brevi_876_7.fa_03511,	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	tuad	UDP-glucose 6-dehydrogenase TuaD	,Brevi_876_7.fa_02493,	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	tycc	Tyrocidine synthase 3	,Brevi_876_7.fa_02500,	Metabolism	Metabolism of terpenoids and polyketides	Nonribosomal peptide strudtures	K16124	tyrocidinesynthetaseIII				 tycC; tyrocidine synthetase III
+1	1	tycc	Tyrocidine synthase 3	,Brevi_876_7.fa_02500,	Protein families: metabolisms	Enzymes	Polyketide biosynthesis proteins	K16124	tyrocidinesynthetaseIII				 tycC; tyrocidine synthetase III
+1	1	ykfb	L-Ala-D/L-Glu epimerase	,Brevi_876_7.fa_00417,	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1	1	ywqd	Tyrosine-protein kinase YwqD	,,SEQ_876_5.fa_00541	NA	NA	NA	NA	NA	NA	NA	NA	NA
