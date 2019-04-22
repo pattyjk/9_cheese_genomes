@@ -1,55 +1,42 @@
-738	pa_738	Gene	Annotation	com_738_genomes	Level1	Level2	Level3	KO	Product	EC	EC2	EC3	Full
-1	1	azor	FMN-dependent NADH-azoreductase	,,SEQ_738_7.fa_00829	NA	NA	NA	NA	NA	NA	NA	NA	NA
-1	1	bcs1	Bifunctional ribulose 5-phosphate reductase/CDP-ribitol pyrophosphorylase Bcs1	,Brevi_738_8.fa_03640,	Metabolism	Carbohydrate metabolism	Pentose and glucuronate interconversions	K21681	ribitol-5-phosphate2-dehydrogenase(NADP+)/D-ribitol-5-phosphatecytidylyltransferase	1.1.1.405	2.7.7.40		 bcs1; ribitol-5-phosphate 2-dehydrogenase (NADP+) / D-ribitol-5-phosphate cytidylyltransferase [EC:1.1.1.405 2.7.7.40]
-1	1	bcs1	Bifunctional ribulose 5-phosphate reductase/CDP-ribitol pyrophosphorylase Bcs1	,Brevi_738_8.fa_03640,	Protein families: genetic information processing	Enzymes	Mitochondrial biogenesis	K08900	mitochondrialchaperoneBCS1				 BCS1; mitochondrial chaperone BCS1
-1	1	cgka	Kappa-carrageenase	,,SEQ_738_7.fa_01426	Not included in pathway or Brite	Unclassified: metabolism	Enzymes with EC numbers	K20846	kappa-carrageenase	3.2.1.83			 cgkA; kappa-carrageenase [EC:3.2.1.83]
-1	1	clpe	ATP-dependent Clp protease ATP-binding subunit ClpE	,,SEQ_738_7.fa_00160	Protein families: genetic information processing	Enzymes	Chaperones and folding catalysts	K03697	ATP-dependentClpproteaseATP-bindingsubunitClpE				 clpE; ATP-dependent Clp protease ATP-binding subunit ClpE
-1	1	codb	Cytosine permease	,Brevi_738_8.fa_02719,	Protein families: signaling and cellular processes	Enzymes	Transporters	K10974	cytosinepermease				 codB; cytosine permease
-1	1	ctpg	putative cation-transporting ATPase G	,Brevi_738_8.fa_03040,	Not included in pathway or Brite	Unclassified: metabolism	Enzymes with EC numbers	K12954	cation-transportingP-typeATPaseG	3.6.3.-			 ctpG; cation-transporting P-type ATPase G [EC:3.6.3.-]
-1	1	derk	D-erythrulose kinase	,,SEQ_738_7.fa_02984	Not included in pathway or Brite	Unclassified: metabolism	Enzymes with EC numbers	K20902	D-erythrulose4-kinase	2.7.1.210			 derK; D-erythrulose 4-kinase [EC:2.7.1.210]
-1	1	dsba	Thiol:disulfide interchange protein DsbA	,Brevi_738_8.fa_03045,	Protein families: genetic information processing	Enzymes	Chaperones and folding catalysts	K03673	thiol:disulfideinterchangeproteinDsbA				 dsbA; thiol:disulfide interchange protein DsbA
-1	1	dsba	Thiol:disulfide interchange protein DsbA	,Brevi_738_8.fa_03045,	Diseases	Drug resistance: antimicrobial	Cationic antimicrobial peptide (CAMP) resistance	K03673	thiol:disulfideinterchangeproteinDsbA				 dsbA; thiol:disulfide interchange protein DsbA
-1	1	enda	DNA-entry nuclease	,,SEQ_738_7.fa_00141	Not included in pathway or Brite	Unclassified: metabolism	Nucleotide metabolism	K15051	DNA-entrynuclease				 endA; DNA-entry nuclease
-1	1	enda	DNA-entry nuclease	,,SEQ_738_7.fa_00141	Protein families: genetic information processing	Enzymes	tRNA biogenesis	K01170	tRNA-intronendonuclease,archaeatype	4.6.1.16			 endA; tRNA-intron endonuclease, archaea type [EC:4.6.1.16]
-1	1	enda	DNA-entry nuclease	,,SEQ_738_7.fa_00141	Not included in pathway or Brite	Unclassified: metabolism	Enzymes with EC numbers	K01150	deoxyribonucleaseI	3.1.21.1			 endA; deoxyribonuclease I [EC:3.1.21.1]
-1	1	enda	DNA-entry nuclease	,,SEQ_738_7.fa_00141	Not included in pathway or Brite	Unclassified: signaling and cellular processes	Unclassified viral proteins	K15051	DNA-entrynuclease				 endA; DNA-entry nuclease
-1	1	estb	Esterase EstB	,Brevi_738_8.fa_00562,	NA	NA	NA	NA	NA	NA	NA	NA	NA
-1	1	fitb	Toxin FitB	,Brevi_738_8.fa_03489,	Protein families: signaling and cellular processes	Enzymes	Prokaryotic defense system	K07062	toxinFitB	3.1.-.-			 fitB; toxin FitB [EC:3.1.-.-]
-1	1	gdhiv	Glucose 1-dehydrogenase 4	,Brevi_738_8.fa_00557,	NA	NA	NA	NA	NA	NA	NA	NA	NA
-1	1	gumi	GDP-mannose:glycolipid 4-beta-D-mannosyltransferase	,Brevi_738_8.fa_03108,	Protein families: metabolisms	Enzymes	Glycosyltransferases	K13658	beta-1,4-mannosyltransferase	2.4.1.251			 gumI; beta-1,4-mannosyltransferase [EC:2.4.1.251]
-1	1	gylr	Glycerol operon regulatory protein	,Brevi_738_8.fa_02780,	NA	NA	NA	NA	NA	NA	NA	NA	NA
-1	1	hgd	2-(hydroxymethyl)glutarate dehydrogenase	,Brevi_738_8.fa_00566,	Metabolism	Metabolism of cofactors and vitamins	Nicotinate and nicotinamide metabolism	K19647	2-hydroxymethylglutaratedehydrogenase	1.1.1.291			 hgd; 2-hydroxymethylglutarate dehydrogenase [EC:1.1.1.291]
-1	1	hspb	6-hydroxy-3-succinoylpyridine 3-monooxygenase HspB	,Brevi_738_8.fa_00576,	Metabolism	Metabolism of cofactors and vitamins	Nicotinate and nicotinamide metabolism	K18276	6-hydroxy-3-succinoylpyridine3-monooxygenase	1.14.13.163			 hspB; 6-hydroxy-3-succinoylpyridine 3-monooxygenase [EC:1.14.13.163]
-1	1	kdpa	Potassium-transporting ATPase potassium-binding subunit	,Brevi_738_8.fa_01233,	Environmental information processing	Signal transduction	Two-component system	K01546	K+-transportingATPaseATPaseAchain	3.6.3.12			 kdpA; K+-transporting ATPase ATPase A chain [EC:3.6.3.12]
-1	1	kdpb	Potassium-transporting ATPase ATP-binding subunit	,Brevi_738_8.fa_01234,	Environmental information processing	Signal transduction	Two-component system	K01547	K+-transportingATPaseATPaseBchain	3.6.3.12			 kdpB; K+-transporting ATPase ATPase B chain [EC:3.6.3.12]
-1	1	kdpc	Potassium-transporting ATPase KdpC subunit	,Brevi_738_8.fa_01235,	Environmental information processing	Signal transduction	Two-component system	K01548	K+-transportingATPaseATPaseCchain	3.6.3.12			 kdpC; K+-transporting ATPase ATPase C chain [EC:3.6.3.12]
-1	1	kdpd	Sensor protein KdpD	,Brevi_738_8.fa_01236,	Environmental information processing	Signal transduction	Two-component system	K07646	two-componentsystem,OmpRfamily,sensorhistidinekinaseKdpD	2.7.13.3			 kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
-1	1	kdpd	Sensor protein KdpD	,Brevi_738_8.fa_01236,	Protein families: metabolisms	Enzymes	Protein kinases	K07646	two-componentsystem,OmpRfamily,sensorhistidinekinaseKdpD	2.7.13.3			 kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
-1	1	kdpd	Sensor protein KdpD	,Brevi_738_8.fa_01236,	Protein families: signaling and cellular processes	Enzymes	Two-component system	K07646	two-componentsystem,OmpRfamily,sensorhistidinekinaseKdpD	2.7.13.3			 kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
-1	1	kdpe	Transcriptional regulatory protein KdpE	,Brevi_738_8.fa_01237,	Protein families: signaling and cellular processes	Enzymes	Two-component system	K07667	two-componentsystem,OmpRfamily,KDPoperonresponseregulatorKdpE				 kdpE; two-component system, OmpR family, KDP operon response regulator KdpE
-1	1	kdpe	Transcriptional regulatory protein KdpE	,Brevi_738_8.fa_01237,	Environmental information processing	Signal transduction	Two-component system	K07667	two-componentsystem,OmpRfamily,KDPoperonresponseregulatorKdpE				 kdpE; two-component system, OmpR family, KDP operon response regulator KdpE
-1	1	kdpe	Transcriptional regulatory protein KdpE	,Brevi_738_8.fa_01237,	Cellular processes	Cellular community- prokaryotes	Quorum sensing	K07667	two-componentsystem,OmpRfamily,KDPoperonresponseregulatorKdpE				 kdpE; two-component system, OmpR family, KDP operon response regulator KdpE
-1	1	lacd	Tagatose 1,6-diphosphate aldolase	,,SEQ_738_7.fa_02979	Cellular processes	Cellular community- prokaryotes	Quorum sensing	K01635	tagatose1,6-diphosphatealdolase	4.1.2.40			 lacD; tagatose 1,6-diphosphate aldolase [EC:4.1.2.40]
-1	1	lacd	Tagatose 1,6-diphosphate aldolase	,,SEQ_738_7.fa_02979	Metabolism	Carbohydrate metabolism	Galactose metabolism	K01635	tagatose1,6-diphosphatealdolase	4.1.2.40			 lacD; tagatose 1,6-diphosphate aldolase [EC:4.1.2.40]
-1	1	line	Chlorohydroquinone/hydroquinone 1,2-dioxygenase	,Brevi_738_8.fa_00582,	Metabolism	Xenobiotics biodegration and metabolism	Chlorocyclohexane and chlorobenzene  degradation	K15240	hydroquinone1,2-dioxygenase	1.13.11.66			 linE; hydroquinone 1,2-dioxygenase [EC:1.13.11.66]
-1	1	mboiim	Modification methylase MboII	,,SEQ_738_7.fa_02217	NA	NA	NA	NA	NA	NA	NA	NA	NA
-1	1	pchf	4-cresol dehydrogenase [hydroxylating] flavoprotein subunit	,Brevi_738_8.fa_00575,	Metabolism	Metabolism of terpenoids and polyketides	Biosynthesis of siderophore group nonribosomal peptides	K12240	pyochelinsynthetase				 pchF; pyochelin synthetase
-1	1	pchf	4-cresol dehydrogenase [hydroxylating] flavoprotein subunit	,Brevi_738_8.fa_00575,	Metabolism	Xenobiotics biodegration and metabolism	Toluene degradation	K05797	4-cresoldehydrogenase(hydroxylating)flavoproteinsubunit	1.17.9.1			 pchF; 4-cresol dehydrogenase (hydroxylating) flavoprotein subunit [EC:1.17.9.1]
-1	1	pchf	4-cresol dehydrogenase [hydroxylating] flavoprotein subunit	,Brevi_738_8.fa_00575,	Protein families: metabolisms	Enzymes	Polyketide biosynthesis proteins	K12240	pyochelinsynthetase				 pchF; pyochelin synthetase
-1	1	pyrk	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit	,Brevi_738_8.fa_00543,	NA	NA	NA	NA	NA	NA	NA	NA	NA
-1	1	recb	RecBCD enzyme subunit RecB	,Brevi_738_8.fa_03470,	Protein families: genetic information processing	Enzymes	DNA repair and recombination proteins	K03582	exodeoxyribonucleaseVbetasubunit	3.1.11.5			 recB; exodeoxyribonuclease V beta subunit [EC:3.1.11.5]
-1	1	recb	RecBCD enzyme subunit RecB	,Brevi_738_8.fa_03470,	Genetic information processing	replication and repair	Homologous recombination	K03582	exodeoxyribonucleaseVbetasubunit	3.1.11.5			 recB; exodeoxyribonuclease V beta subunit [EC:3.1.11.5]
-1	1	rhtb	Homoserine/homoserine lactone efflux protein	Brachy_738_10.fa_02705,,	Protein families: signaling and cellular processes	Enzymes	Transporters	K05834	homoserine/homoserinelactoneeffluxprotein				 rhtB; homoserine/homoserine lactone efflux protein
-1	1	rocg	Catabolic NAD-specific glutamate dehydrogenase RocG	,Brevi_738_8.fa_00810,	NA	NA	NA	NA	NA	NA	NA	NA	NA
-1	1	tfdf	Maleylacetate reductase	,Brevi_738_8.fa_00583,	NA	NA	NA	NA	NA	NA	NA	NA	NA
-1	1	trac	DNA primase TraC	,,SEQ_738_7.fa_00194	Protein families: signaling and cellular processes	Enzymes	Secretion system	K12063	conjugaltransferATP-bindingproteinTraC				 traC; conjugal transfer ATP-binding protein TraC
-1	1	tsab1	Toluene-4-sulfonate monooxygenase system reductase subunit TsaB1	,Brevi_738_8.fa_00569,	NA	NA	NA	NA	NA	NA	NA	NA	NA
-1	1	uehb	Ectoine/5-hydroxyectoine TRAP transporter small permease protein UehB	,Brevi_738_8.fa_03507,	NA	NA	NA	NA	NA	NA	NA	NA	NA
-1	1	ugd	UDP-glucose 6-dehydrogenase	,Brevi_738_8.fa_03281,	NA	NA	NA	NA	NA	NA	NA	NA	NA
-1	1	vat	Virginiamycin A acetyltransferase	,Brevi_738_8.fa_03287,	Protein families: signaling and cellular processes	Enzymes	Antimicrobial resistance genes	K18234	virginiamycinAacetyltransferase	2.3.1.-			 vat; virginiamycin A acetyltransferase [EC:2.3.1.-]
-1	1	vbht	Adenosine monophosphate-protein transferase VbhT	,Brevi_738_8.fa_01005,	NA	NA	NA	NA	NA	NA	NA	NA	NA
-1	1	y2-aiia	N-acyl homoserine lactonase	,Brevi_738_8.fa_00567,	NA	NA	NA	NA	NA	NA	NA	NA	NA
-1	1	ybem	Deaminated glutathione amidase	,Brevi_738_8.fa_03505,	NA	NA	NA	NA	NA	NA	NA	NA	NA
-1	1	yjob	putative ATPase YjoB	Brachy_738_10.fa_03482,,	NA	NA	NA	NA	NA	NA	NA	NA	NA
-1	1	ypua	putative protein YpuA	,,SEQ_738_7.fa_00173	NA	NA	NA	NA	NA	NA	NA	NA	NA
-1	1	yvdt	putative HTH-type transcriptional regulator YvdT	,Brevi_738_8.fa_00572,	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Community	Gene	Annotation	com_738_genomes	Level1	Level2	Level3	KO	EC
+738	azor	FMN-dependent NADH-azoreductase	SEQ_738_7.fa_00829	Not included in pathway or Brite	Unclassified: metabolism	Enzymes with EC numbers	K01118	NA
+738	bcs1	Bifunctional ribulose 5-phosphate reductase/CDP-ribitol pyrophosphorylase Bcs1	Brevi_738_8.fa_03640	Metabolism	Carbohydrate metabolism	Pentose and glucuronate interconversions	K21681	1.1.1.405
+738	cgka	Kappa-carrageenase	SEQ_738_7.fa_01426	Not included in pathway or Brite	Unclassified: metabolism	Enzymes with EC numbers	K20846	3.2.1.83
+738	clpe	ATP-dependent Clp protease ATP-binding subunit ClpE	SEQ_738_7.fa_00160	Protein families: genetic information processing	Enzymes	Chaperones and folding catalysts	K03697	
+738	codb	Cytosine permease	Brevi_738_8.fa_02719	Protein families: signaling and cellular processes	Enzymes	Transporters	K10974	
+738	ctpg	putative cation-transporting ATPase G	Brevi_738_8.fa_03040	Not included in pathway or Brite	Unclassified: metabolism	Enzymes with EC numbers	K12954	3.6.3.-
+738	derk	D-erythrulose kinase	SEQ_738_7.fa_02984	Not included in pathway or Brite	Unclassified: metabolism	Enzymes with EC numbers	K20902	2.7.1.210
+738	dsba	Thiol:disulfide interchange protein DsbA	Brevi_738_8.fa_03045	Protein families: genetic information processing	Enzymes	Chaperones and folding catalysts	K03673	
+738	enda	DNA-entry nuclease	SEQ_738_7.fa_00141	Not included in pathway or Brite	Unclassified: metabolism	Nucleotide metabolism	K01170	4.6.1.16
+738	estb	Esterase EstB	Brevi_738_8.fa_00562	Not included in pathway or Brite	Unclassified: metabolism	Others	K06999	NA
+738	fitb	Toxin FitB	Brevi_738_8.fa_03489	Protein families: signaling and cellular processes	Enzymes	Prokaryotic defense system	K07062	3.1.-.-
+738	gdhiv	Glucose 1-dehydrogenase 4	Brevi_738_8.fa_00557	Metabolism	Carbohydrate metabolism	Pentose phosphate pathway	K00034	NA
+738	gumi	GDP-mannose:glycolipid 4-beta-D-mannosyltransferase	Brevi_738_8.fa_03108	Protein families: metabolisms	Enzymes	Glycosyltransferases	K13658	2.4.1.251
+738	gylr	Glycerol operon regulatory protein	Brevi_738_8.fa_02780	Protein families: genetic information processing	Enzymes	Transcription factors	K05880	NA
+738	hgd	2-(hydroxymethyl)glutarate dehydrogenase	Brevi_738_8.fa_00566	Metabolism	Metabolism of cofactors and vitamins	Nicotinate and nicotinamide metabolism	K19647	1.1.1.291
+738	hspb	6-hydroxy-3-succinoylpyridine 3-monooxygenase HspB	Brevi_738_8.fa_00576	Metabolism	Metabolism of cofactors and vitamins	Nicotinate and nicotinamide metabolism	K18276	1.14.13.163
+738	kdpa	Potassium-transporting ATPase potassium-binding subunit	Brevi_738_8.fa_01233	Environmental information processing	Signal transduction	Two-component system	K01546	3.6.3.12
+738	kdpb	Potassium-transporting ATPase ATP-binding subunit	Brevi_738_8.fa_01234	Environmental information processing	Signal transduction	Two-component system	K01547	3.6.3.12
+738	kdpc	Potassium-transporting ATPase KdpC subunit	Brevi_738_8.fa_01235	Environmental information processing	Signal transduction	Two-component system	K01548	3.6.3.12
+738	kdpd	Sensor protein KdpD	Brevi_738_8.fa_01236	Environmental information processing	Signal transduction	Two-component system	K07646	2.7.13.3
+738	kdpe	Transcriptional regulatory protein KdpE	Brevi_738_8.fa_01237	Cellular processes	Cellular community- prokaryotes	Quorum sensing	K07667	
+738	lacd	Tagatose 1,6-diphosphate aldolase	SEQ_738_7.fa_02979	Metabolism	Carbohydrate metabolism	Galactose metabolism	K01635	4.1.2.40
+738	line	Chlorohydroquinone/hydroquinone 1,2-dioxygenase	Brevi_738_8.fa_00582	Metabolism	Xenobiotics biodegration and metabolism	Chlorocyclohexane and chlorobenzene  degradation	K15240	1.13.11.66
+738	mboiim	Modification methylase MboII	SEQ_738_7.fa_02217	Not included in pathway or Brite	Unclassified: metabolism	Enzymes with EC numbers	K07316 	NA
+738	pchf	4-cresol dehydrogenase [hydroxylating] flavoprotein subunit	Brevi_738_8.fa_00575	Metabolism	Metabolism of terpenoids and polyketides	Biosynthesis of siderophore group nonribosomal peptides	K12240	
+738	pyrk	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit	Brevi_738_8.fa_00543	Not included in pathway or Brite	Unclassified: metabolism	Enzymes with EC numbers	K00528	NA
+738	recb	RecBCD enzyme subunit RecB	Brevi_738_8.fa_03470	Protein families: genetic information processing	Enzymes	DNA repair and recombination proteins	K03582	3.1.11.5
+738	rhtb	Homoserine/homoserine lactone efflux protein	Brachy_738_10.fa_02705	Protein families: signaling and cellular processes	Enzymes	Transporters	K05834	
+738	rocg	Catabolic NAD-specific glutamate dehydrogenase RocG	Brevi_738_8.fa_00810	Metabolism	Energy metabolism	Nitrogen metabolism	K00262	NA
+738	tfdf	Maleylacetate reductase	Brevi_738_8.fa_00583	Metabolism	Xenobiotics biodegration and metabolism	Benzoate degradation	K00217	NA
+738	trac	DNA primase TraC	SEQ_738_7.fa_00194	Protein families: signaling and cellular processes	Enzymes	Secretion system	K12063	
+738	tsab1	Toluene-4-sulfonate monooxygenase system reductase subunit TsaB1	Brevi_738_8.fa_00569	Not included in pathway or Brite	Unclassified: metabolism	Others	K15769 	NA
+738	uehb	Ectoine/5-hydroxyectoine TRAP transporter small permease protein UehB	Brevi_738_8.fa_03507	Not included in pathway or Brite	Unclassified: metabolism	Others	NO KO	NA
+738	ugd	UDP-glucose 6-dehydrogenase	Brevi_738_8.fa_03281	Metabolism	Carbohydrate metabolism	Pentose and glucuronate interconversions	K00012	NA
+738	vat	Virginiamycin A acetyltransferase	Brevi_738_8.fa_03287	Protein families: signaling and cellular processes	Enzymes	Antimicrobial resistance genes	K18234	2.3.1.-
+738	vbht	Adenosine monophosphate-protein transferase VbhT	Brevi_738_8.fa_01005	Protein families: genetic information processing	Enzymes	Chromosome and associated proteins	K04095	NA
+738	y2-aiia	N-acyl homoserine lactonase	Brevi_738_8.fa_00567	Cellular processes	Cellular community- prokaryotes	Quorum sensing	K13075	NA
+738	ybem	Deaminated glutathione amidase	Brevi_738_8.fa_03505	Not included in pathway or Brite	Unclassified: metabolism	Enzymes with EC numbers	K11206	NA
+738	yjob	putative ATPase YjoB	Brachy_738_10.fa_03482	Protein families: genetic information processing	Enzymes	Mitochondrial biogenesis	K08900	NA
+738	ypua	putative protein YpuA	SEQ_738_7.fa_00173	Not included in pathway or Brite	Unclassified: metabolism	Enzymes with EC numbers	NO KO	NA
+738	yvdt	putative HTH-type transcriptional regulator YvdT	Brevi_738_8.fa_00572	Protein families: genetic information processing	Enzymes	Transcription factors	K02167	NA

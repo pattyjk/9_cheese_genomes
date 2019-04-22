@@ -1,29 +1,27 @@
-947	pa_947	Gene	Annotation	com_947_genomes	Level1	Level2	Level3	KO	Product	EC	EC2	EC3	Full
-1	1	aglb	6-phospho-alpha-glucosidase	Brachy_947_11.fa_03387,,	Protein families: metabolisms	Enzymes	Glycosyltransferases	K21306	dolichyl-phosphooligosaccharide-proteinglycotransferase	2.4.99.21			 aglB; dolichyl-phosphooligosaccharide-protein glycotransferase [EC:2.4.99.21]
-1	1	aiia	N-acyl homoserine lactonase	,Brevi_947_7.fa_02831,	NA	NA	NA	NA	NA	NA	NA	NA	NA
-1	1	cnrh	RNA polymerase sigma factor CnrH	,Brevi_947_7.fa_00201,	NA	NA	NA	NA	NA	NA	NA	NA	NA
-1	1	cota	Spore coat protein A	,Brevi_947_7.fa_00318,	Not included in pathway or Brite	Unclassified: metabolism	Enzymes with EC numbers	K06324	sporecoatproteinA,manganeseoxidase	1.16.3.3			 cotA; spore coat protein A, manganese oxidase [EC:1.16.3.3]
-1	1	ethr	HTH-type transcriptional regulator EthR	,Brevi_947_7.fa_03159,	NA	NA	NA	NA	NA	NA	NA	NA	NA
-1	1	fepb	Ferrienterobactin-binding periplasmic protein	,Brevi_947_7.fa_01006,	NA	NA	NA	NA	NA	NA	NA	NA	NA
-1	1	glcb	PTS system glucoside-specific EIICBA component	,,SEQ_947_12.fa_00316	NA	NA	NA	NA	NA	NA	NA	NA	NA
-2	1	hepa	Heterocyst differentiation ATP-binding protein HepA	Brachy_947_11.fa_00509,Brevi_947_7.fa_00901,	Protein families: genetic information processing	Enzymes	Transcription machinery	K03580	ATP-dependenthelicaseHepA	3.6.4.-			 hepA; ATP-dependent helicase HepA [EC:3.6.4.-]
-2	1	hepa	Heterocyst differentiation ATP-binding protein HepA	Brachy_947_11.fa_00509,Brevi_947_7.fa_00901,	Not included in pathway or Brite	Unclassified: metabolism	Enzymes with EC numbers	K19050	heparinlyase	4.2.2.7			 hepA; heparin lyase [EC:4.2.2.7]
-1	1	hlde	Bifunctional protein HldE	Brachy_947_11.fa_03389,,	NA	NA	NA	NA	NA	NA	NA	NA	NA
-1	1	hmga	Homogentisate 1,2-dioxygenase	,Brevi_947_7.fa_03074,	NA	NA	NA	NA	NA	NA	NA	NA	NA
-1	1	kstd	3-oxosteroid 1-dehydrogenase	,Brevi_947_7.fa_03080,	Metabolism	Xenobiotics biodegration and metabolism	Steroid degradation	K05898	3-oxosteroid1-dehydrogenase	1.3.99.4			 kstD; 3-oxosteroid 1-dehydrogenase [EC:1.3.99.4]
-1	1	laaa	L-amino acid amidase	,Brevi_947_7.fa_03086,	Not included in pathway or Brite	Unclassified: metabolism	Enzymes with EC numbers	K18457	L-prolineamidehydrolase	3.5.1.101			 laaA; L-proline amide hydrolase [EC:3.5.1.101]
-1	1	lipv	Lipase LipV	,Brevi_947_7.fa_02002,	Not included in pathway or Brite	Unclassified: metabolism	Enzymes with EC numbers	K19311	lipase	3.1.1.-			 lipV; lipase [EC:3.1.1.-]
-1	1	lytr	Transcriptional regulator LytR	,Brevi_947_7.fa_02540,	NA	NA	NA	NA	NA	NA	NA	NA	NA
-1	1	oprf	Outer membrane porin F	Brachy_947_11.fa_02288,,	NA	NA	NA	NA	NA	NA	NA	NA	NA
-1	1	otcc	Anhydrotetracycline monooxygenase	,Brevi_947_7.fa_03612,	NA	NA	NA	NA	NA	NA	NA	NA	NA
-1	1	pcau	Pca operon regulatory protein	,Brevi_947_7.fa_02532,	NA	NA	NA	NA	NA	NA	NA	NA	NA
-1	1	rbtd	Ribitol 2-dehydrogenase	,Brevi_947_7.fa_02839,	Metabolism	Carbohydrate metabolism	Pentose and glucuronate interconversions	K00039	ribitol2-dehydrogenase	1.1.1.56			 rbtD; ribitol 2-dehydrogenase [EC:1.1.1.56]
-1	1	thcb	Cytochrome P450 116	,Brevi_947_7.fa_03071,	NA	NA	NA	NA	NA	NA	NA	NA	NA
-1	1	virc1	Protein virC1	,Brevi_947_7.fa_03062,	NA	NA	NA	NA	NA	NA	NA	NA	NA
-1	1	wbpa	UDP-N-acetyl-D-glucosamine 6-dehydrogenase	,,SEQ_947_12.fa_02249	Protein families: metabolisms	Enzymes	LPS biosynthesis protein	K13015	UDP-N-acetyl-D-glucosaminedehydrogenase	1.1.1.136			 wbpA; UDP-N-acetyl-D-glucosamine dehydrogenase [EC:1.1.1.136]
-1	1	wbpa	UDP-N-acetyl-D-glucosamine 6-dehydrogenase	,,SEQ_947_12.fa_02249	Metabolism	Carbohydrate metabolism	Amino sugar and nucleotide sugar metabolism	K13015	UDP-N-acetyl-D-glucosaminedehydrogenase	1.1.1.136			 wbpA; UDP-N-acetyl-D-glucosamine dehydrogenase [EC:1.1.1.136]
-1	1	wfgd	UDP-Glc:alpha-D-GlcNAc-diphosphoundecaprenol beta-1,3-glucosyltransferase WfgD	,,SEQ_947_12.fa_02245	NA	NA	NA	NA	NA	NA	NA	NA	NA
-1	1	xecd	2-(R)-hydroxypropyl-CoM dehydrogenase	,Brevi_947_7.fa_03078,	NA	NA	NA	NA	NA	NA	NA	NA	NA
-1	1	yfmj	Putative NADP-dependent oxidoreductase YfmJ	,Brevi_947_7.fa_00316,	NA	NA	NA	NA	NA	NA	NA	NA	NA
-1	1	ywqe	Tyrosine-protein phosphatase YwqE	,,SEQ_947_12.fa_02604	NA	NA	NA	NA	NA	NA	NA	NA	NA
-1	1	yyce	putative protein YycE	,Brevi_947_7.fa_00333,	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Community	Gene	Annotation	com_947_genomes	Level1	Level2	Level3	KO	EC
+947	aglb	6-phospho-alpha-glucosidase	Brachy_947_11.fa_03387	Protein families: metabolisms	Enzymes	Glycosyltransferases	K21306	2.4.99.21
+947	aiia	N-acyl homoserine lactonase	Brevi_947_7.fa_02831	Cellular processes	Cellular community- prokaryotes	Quorum sensing	K13075	
+947	cnrh	RNA polymerase sigma factor CnrH	Brevi_947_7.fa_00201	Protein families: genetic information processing	Enzymes	Transcription machinery	K03088	
+947	cota	Spore coat protein A	Brevi_947_7.fa_00318	Not included in pathway or Brite	Unclassified: metabolism	Enzymes with EC numbers	K06324	1.16.3.3
+947	ethr	HTH-type transcriptional regulator EthR	Brevi_947_7.fa_03159	Protein families: genetic information processing	Enzymes	Transcription factors	K21961	
+947	fepb	Ferrienterobactin-binding periplasmic protein	Brevi_947_7.fa_01006	Not included in pathway or Brite	Unclassified: metabolism	Enzymes with EC numbers	K23185 	
+947	glcb	PTS system glucoside-specific EIICBA component	SEQ_947_12.fa_00316	Protein families: signaling and cellular processes	Enzymes	Transporters	K20116	
+947	hepa	Heterocyst differentiation ATP-binding protein HepA	Brachy_947_11.fa_00509Brevi_947_7.fa_00901	Protein families: genetic information processing	Enzymes	Transcription machinery	K03580	3.6.4.-
+947	hlde	Bifunctional protein HldE	Brachy_947_11.fa_03389	Metabolism	Glycan biosynthesis and metabolism	Lipopolysaccharide biosynthesis	K03272	
+947	hmga	Homogentisate 1,2-dioxygenase	Brevi_947_7.fa_03074	Metabolism	Xenobiotics biodegration and metabolism	Styrene degradation	K00451	
+947	kstd	3-oxosteroid 1-dehydrogenase	Brevi_947_7.fa_03080	Metabolism	Xenobiotics biodegration and metabolism	Steroid degradation	K05898	1.3.99.4
+947	laaa	L-amino acid amidase	Brevi_947_7.fa_03086	Not included in pathway or Brite	Unclassified: metabolism	Enzymes with EC numbers	K18457	3.5.1.101
+947	lipv	Lipase LipV	Brevi_947_7.fa_02002	Not included in pathway or Brite	Unclassified: metabolism	Enzymes with EC numbers	K19311	3.1.1.-
+947	lytr	Transcriptional regulator LytR	Brevi_947_7.fa_02540	Environmental information processing	Signal transduction	Two-component system	K07705	
+947	oprf	Outer membrane porin F	Brachy_947_11.fa_02288	Not included in pathway or Brite	Unclassified: signaling and cellular processes	Structural proteins	K07275	
+947	otcc	Anhydrotetracycline monooxygenase	Brevi_947_7.fa_03612	Metabolism	Amino acid metabolism	Phenylalanine metabolism	K05712	
+947	pcau	Pca operon regulatory protein	Brevi_947_7.fa_02532	Protein families: genetic information processing	Enzymes	Transcription factors	K10973	
+947	rbtd	Ribitol 2-dehydrogenase	Brevi_947_7.fa_02839	Metabolism	Carbohydrate metabolism	Pentose and glucuronate interconversions	K00039	1.1.1.56
+947	thcb	Cytochrome P450 116	Brevi_947_7.fa_03071	Protein families: metabolisms	Enzymes	Cytochrome p5450	K00490	
+947	virc1	Protein virC1	Brevi_947_7.fa_03062	Protein families: genetic information processing	Enzymes	Chromosome and associated proteins	K03496	
+947	wbpa	UDP-N-acetyl-D-glucosamine 6-dehydrogenase	SEQ_947_12.fa_02249	Protein families: metabolisms	Enzymes	LPS biosynthesis protein	K13015	1.1.1.136
+947	wfgd	UDP-Glc:alpha-D-GlcNAc-diphosphoundecaprenol beta-1,3-glucosyltransferase WfgD	SEQ_947_12.fa_02245	Protein families: metabolisms	Enzymes	Glycosyltransferases	K21363	
+947	xecd	2-(R)-hydroxypropyl-CoM dehydrogenase	Brevi_947_7.fa_03078	Metabolism	Carbohydrate metabolism	Butanoate metabolism	K18009	
+947	yfmj	Putative NADP-dependent oxidoreductase YfmJ	Brevi_947_7.fa_00316	Not included in pathway or Brite	Unclassified: metabolism	Enzymes with EC numbers	K23256	
+947	ywqe	Tyrosine-protein phosphatase YwqE	SEQ_947_12.fa_02604	Not included in pathway or Brite	Unclassified: metabolism	Enzymes with EC numbers	K01104	
+947	yyce	putative protein YycE	Brevi_947_7.fa_00333	Not included in pathway or Brite	Unclassified: metabolism	Enzymes with EC numbers	No KO	

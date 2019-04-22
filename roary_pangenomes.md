@@ -132,15 +132,6 @@ dim(pangenomes)
 
 #write data to file
 write.table(pangenomes, 'pangenomes.txt', sep='\t', row.names=F, quote=F)
-
-
-pangenomes2<-pangenomes
-pangenomes2$uni_gene<-pangenomes2$Gene
-pangenomes2$uni_gene<-gsub("_[[:digit:]]+", "", pangenomes2$uni_gene)
-
-length(unique(pangenomes2$uni_gene))
-#3048
-
 ```
 
 
@@ -187,51 +178,45 @@ kegg$Gene<-tolower(kegg$Gene)
 
 kegg_test<- kegg %>% mutate(Gene=strsplit(as.character(Gene), ",")) %>% unnest(Gene)
 
-
-
-dim(kegg_test)
-
-
-
 #add KEGG to unique gene names
 unique_genes<-merge(unique_genes, kegg_test, by='Gene', all.x=T)
 
 #create tables for each community
 com_341_unique<- unique_genes[unique_genes$pa_341 == 1,] %>% select("341", "pa_341", "Gene", 'Annotation', 'com_341_genomes', "Level1", "Level2", "Level3", "KO", "Product", "EC", "EC2", "EC3", "Full")
 nrow(com_341_unique)
-#33
+#27
 
 com_738_unique<- unique_genes[unique_genes$pa_738 == 1,] %>% select("738", "pa_738", "Gene", 'Annotation', 'com_738_genomes', "Level1", "Level2", "Level3", "KO", "Product", "EC", "EC2", "EC3", "Full")
 nrow(com_738_unique)
-#54
+#41
 
 com_862_unique<- unique_genes[unique_genes$pa_862 == 1,] %>% select("862", "pa_862", "Gene", 'Annotation', 'com_862_genomes', "Level1", "Level2", "Level3", "KO", "Product", "EC", "EC2", "EC3", "Full")
 nrow(com_862_unique)
-#16
+#15
 
 com_876_unique<- unique_genes[unique_genes$pa_876 == 1,] %>% select("876", "pa_876", "Gene", 'Annotation', 'com_876_genomes', "Level1", "Level2", "Level3", "KO", "Product", "EC", "EC2", "EC3", "Full")
 nrow(com_876_unique)
-#28
+#23
 
 com_900_unique<- unique_genes[unique_genes$pa_900 == 1,] %>% select("900", "pa_900", "Gene", 'Annotation', 'com_900_genomes', "Level1", "Level2", "Level3", "KO", "Product", "EC", "EC2", "EC3", "Full")
 nrow(com_900_unique)
-#32
+#27
 
 com_908_unique<- unique_genes[unique_genes$pa_908 == 1,] %>% select("908", "pa_908", "Gene", 'Annotation', 'com_908_genomes', "Level1", "Level2", "Level3", "KO", "Product", "EC", "EC2", "EC3", "Full")
 nrow(com_908_unique)
-#25
+#20
 
 com_947_unique<- unique_genes[unique_genes$pa_947 == 1,] %>% select("947", "pa_947", "Gene", 'Annotation', 'com_947_genomes', "Level1", "Level2", "Level3", "KO", "Product", "EC", "EC2", "EC3", "Full")
 nrow(com_947_unique)
-#28
+#26
 
 com_962_unique<- unique_genes[unique_genes$pa_962 == 1,] %>% select("962", "pa_962", "Gene", 'Annotation', 'com_962_genomes', "Level1", "Level2", "Level3", "KO", "Product", "EC", "EC2", "EC3", "Full")
 nrow(com_962_unique)
-#27
+#23
 
 com_JB5_unique<- unique_genes[unique_genes$pa_JB5 == 1,] %>% select("JB5", "pa_JB5", "Gene", 'Annotation', 'com_JB_genomes', "Level1", "Level2", "Level3", "KO", "Product", "EC", "EC2", "EC3", "Full")
 nrow(com_JB5_unique)
-#51
+#47
 
 #write data to files
 write.table(com_341_unique, 'com_341.txt', quote=F, sep='\t', row.names=F)
@@ -244,6 +229,21 @@ write.table(com_900_unique, 'com_900.txt', quote=F, sep='\t', row.names=F)
 write.table(com_962_unique, 'com_962.txt', quote=F, sep='\t', row.names=F)
 write.table(com_JB5_unique, 'com_JB5.txt', quote=F, sep='\t', row.names=F)
 
+#make a table of unique genes
+panny<-pangenomy[,11:19]
+core_gene_list<-as.data.frame(which(rowSums(panny) == 9))
+nrow(core_gene_list)
+#2338 genes
 
+#extract unique genes from master table
+core_genes<-subset(pangenomy, row.names(pangenomy) %in% row.names(core_gene_list))
+dim(core_genes)
+#2338 by 68
+unique_genes$Gene<-tolower(unique_genes$Gene)
 
+#add KEGG annotations
+core_genes<-merge(core_genes, kegg_test, by='Gene')
+
+#write core genes to a data file
+write.table(core_genes, "9_cheese_genomes/unique_core_gene_tables/core_table.txt", sep='\t', row.names=F, quote=F)
 ```
